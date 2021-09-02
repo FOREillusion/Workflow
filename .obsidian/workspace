@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7df6a505188f10f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a2c497bb6a7c8b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Daily 模板/模板1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d753d99e060a29c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca5ac344a01df10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28790414bd9b22b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bfcf81b7337429b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5364e9e063a54c52",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b95a8af81b810055",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "right": {
+    "id": "86468890bdd73e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c8cd3226ebd3fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22181020b31101f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Daily 模板/模板1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "055158b8bfb2c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Daily 模板/模板1.md"
+              }
+            }
+          },
+          {
+            "id": "68f16bddc80d0770",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "dbc44486da7dc3bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "60a47f914c6cc409",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d7371be5cd16668",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "85eff54736c66713",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "50a2dc80fbdee871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8194428a231a818a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.60000610351562
+  },
+  "active": "0a2c497bb6a7c8b4",
+  "lastOpenFiles": [
+    "Templates/Daily 模板/未命名.md",
+    "Pasted image 20210721152159.png",
+    "_resources/1c85e34ba96a45679a28836608629848.jpg",
+    "_resources/1b01aaba6e204e009828e9e321d97ee5.jpg",
+    "_resources/1ab061e8273a46969d83b71b4276f678.png",
+    "_resources/0d4a5ffba8bf410480077c86f71fa22e.png",
+    "_resources/0c6955cdd2094d3db4d3d5b43724c814.png",
+    "_resources/0a3fde5368cb4ba5b24e6dfe560e70d6.jpg",
+    "Pasted image 20210719204943.png",
+    "Pasted image 20210721164016.png"
+  ]
+}
