@@ -7,10 +7,9 @@
         "id": "0a2c497bb6a7c8b4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Templates/Daily 模板/模板1.md",
-            "mode": "source"
+            "file": "Pasted image 20210721150934.png"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md",
+                "file": "Pasted image 20210721150934.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md"
+                "file": "Pasted image 20210721150934.png"
               }
             }
           },
@@ -171,15 +170,15 @@
   },
   "active": "0a2c497bb6a7c8b4",
   "lastOpenFiles": [
+    "Pasted image 20210721150934.png",
+    "Pasted image 20210721152047.png",
+    "Templates/Daily 模板/模板1.md",
+    "Templates/笔记模板/未命名.md",
     "Templates/Daily 模板/未命名.md",
     "Pasted image 20210721152159.png",
     "_resources/1c85e34ba96a45679a28836608629848.jpg",
     "_resources/1b01aaba6e204e009828e9e321d97ee5.jpg",
     "_resources/1ab061e8273a46969d83b71b4276f678.png",
-    "_resources/0d4a5ffba8bf410480077c86f71fa22e.png",
-    "_resources/0c6955cdd2094d3db4d3d5b43724c814.png",
-    "_resources/0a3fde5368cb4ba5b24e6dfe560e70d6.jpg",
-    "Pasted image 20210719204943.png",
-    "Pasted image 20210721164016.png"
+    "_resources/0d4a5ffba8bf410480077c86f71fa22e.png"
   ]
 }
