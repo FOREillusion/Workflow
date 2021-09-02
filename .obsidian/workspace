@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Daily 模板/模板1.md",
+            "file": "Templates/周记模板.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md",
+                "file": "Templates/周记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md"
+                "file": "Templates/周记模板.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
-    "Templates/Daily 模板/模板1.md",
     "Templates/未命名.md",
+    "Templates/Daily 模板/模板1.md",
     "write__/mygraduatedpaper.md",
     "paper__/graduated/factstatic.md",
     "Templates/Pasted image 20210719204943.png",
