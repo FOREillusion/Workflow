@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/周记模板.md",
+            "file": "daily__/2021-05-09.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/周记模板.md",
+                "file": "daily__/2021-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/周记模板.md"
+                "file": "daily__/2021-05-09.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,15 +165,15 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-05-09.md",
+    "daily__/2021-05-12.md",
+    "daily__/2021-05-15.md",
     "Templates/未命名.md",
     "Templates/Daily 模板/模板1.md",
     "write__/mygraduatedpaper.md",
     "paper__/graduated/factstatic.md",
     "Templates/Pasted image 20210719204943.png",
     "Templates/Pasted image 20210721165958.png",
-    "Pasted image 20210719204943.png",
-    "Pasted image 20210721150934.png",
-    "Pasted image 20210721152047.png",
-    "Templates/笔记模板/未命名.md"
+    "Pasted image 20210719204943.png"
   ]
 }
