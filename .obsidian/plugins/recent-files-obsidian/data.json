@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "模板1",
+      "path": "Templates/Daily 模板/模板1.md"
+    },
+    {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
       "basename": "mygraduatedpaper",
       "path": "write__/mygraduatedpaper.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Pasted image 20210721152047",
       "path": "resources__/Pasted image 20210721152047.png"
-    },
-    {
-      "basename": "模板1",
-      "path": "Templates/Daily 模板/模板1.md"
     },
     {
       "basename": "zk",

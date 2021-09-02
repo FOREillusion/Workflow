@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "write__/mygraduatedpaper.md",
+            "file": "Templates/Daily 模板/模板1.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write__/mygraduatedpaper.md",
+                "file": "Templates/Daily 模板/模板1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "write__/mygraduatedpaper.md"
+                "file": "Templates/Daily 模板/模板1.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "Templates/Daily 模板/模板1.md",
+    "Templates/未命名.md",
     "write__/mygraduatedpaper.md",
     "paper__/graduated/factstatic.md",
     "Templates/Pasted image 20210719204943.png",
@@ -172,8 +174,6 @@
     "Pasted image 20210719204943.png",
     "Pasted image 20210721150934.png",
     "Pasted image 20210721152047.png",
-    "Templates/Daily 模板/模板1.md",
-    "Templates/笔记模板/未命名.md",
-    "Templates/Daily 模板/未命名.md"
+    "Templates/笔记模板/未命名.md"
   ]
 }
