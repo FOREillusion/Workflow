@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2c497bb6a7c8b4",
+        "id": "041da1855d34c73e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper__/graduated/factstatic.md",
+            "file": "write__/mygraduatedpaper.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper__/graduated/factstatic.md",
+                "file": "write__/mygraduatedpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper__/graduated/factstatic.md"
+                "file": "write__/mygraduatedpaper.md"
               }
             }
           },
@@ -133,6 +133,14 @@
             }
           },
           {
+            "id": "85eff54736c66713",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "4d7371be5cd16668",
             "type": "leaf",
             "state": {
@@ -141,21 +149,6 @@
             }
           },
           {
-            "id": "85eff54736c66713",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "50a2dc80fbdee871",
-        "type": "tabs",
-        "children": [
-          {
             "id": "8194428a231a818a",
             "type": "leaf",
             "state": {
@@ -163,14 +156,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 231.60000610351562
   },
-  "active": "0a2c497bb6a7c8b4",
+  "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "write__/mygraduatedpaper.md",
     "paper__/graduated/factstatic.md",
     "Templates/Pasted image 20210719204943.png",
     "Templates/Pasted image 20210721165958.png",
@@ -179,7 +174,6 @@
     "Pasted image 20210721152047.png",
     "Templates/Daily 模板/模板1.md",
     "Templates/笔记模板/未命名.md",
-    "Templates/Daily 模板/未命名.md",
-    "Pasted image 20210721152159.png"
+    "Templates/Daily 模板/未命名.md"
   ]
 }
