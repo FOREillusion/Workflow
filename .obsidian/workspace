@@ -60,6 +60,14 @@
             "id": "b95a8af81b810055",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc59cebc269cd462",
+            "type": "leaf",
+            "state": {
               "type": "recent-files",
               "state": {}
             }
@@ -128,7 +136,7 @@
             "id": "60a47f914c6cc409",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -136,7 +144,7 @@
             "id": "85eff54736c66713",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -144,7 +152,7 @@
             "id": "4d7371be5cd16668",
             "type": "leaf",
             "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "type": "empty",
               "state": {}
             }
           },
@@ -152,12 +160,42 @@
             "id": "8194428a231a818a",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1558182191027f9b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65786d4b72c68b57",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ed0ea2f7c39edf32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac78723de28beba6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
