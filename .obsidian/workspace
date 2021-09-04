@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "9776bbcadfc8b602",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "paper__/graduated/static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "paper__/graduated/static.md"
               }
             }
           },
@@ -172,10 +161,10 @@
     "direction": "horizontal",
     "width": 267.6000061035156
   },
-  "active": "9776bbcadfc8b602",
+  "active": "041da1855d34c73e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "paper__/graduated/static.md",
+    "conflict-files-obsidian-git.md",
     "daily__/2021-09-03_星期五.md",
     "daily__/2021-05-09.md",
     "daily__/2021-05-12.md",
