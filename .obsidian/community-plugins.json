@@ -14,10 +14,10 @@
   "better-pdf-plugin",
   "obsidian-auto-link-title",
   "table-editor-obsidian",
-  "obsidian-activity-history",
   "cmenu-plugin",
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
   "obsidian-enhancing-mindmap",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-activity-history"
 ]
