@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper__/graduated/static.md",
-            "mode": "source"
+            "file": "learn__/Society/房价神贴.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper__/graduated/static.md",
+                "file": "learn__/Society/房价神贴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper__/graduated/static.md"
+                "file": "learn__/Society/房价神贴.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "learn__/Society/房价神贴.md",
     "paper__/graduated/static.md",
     "conflict-files-obsidian-git.md",
     "daily__/2021-09-03_星期五.md",
@@ -171,7 +172,6 @@
     "daily__/2021-05-15.md",
     "Templates/未命名.md",
     "Templates/Daily 模板/模板1.md",
-    "write__/mygraduatedpaper.md",
-    "paper__/graduated/factstatic.md"
+    "write__/mygraduatedpaper.md"
   ]
 }
