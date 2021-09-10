@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Society/房价神贴.md",
+            "file": "paper__/Inbox/git命令大全_.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Society/房价神贴.md",
+                "file": "paper__/Inbox/git命令大全_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Society/房价神贴.md"
+                "file": "paper__/Inbox/git命令大全_.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
-    "learn__/Society/房价神贴.md",
-    "paper__/graduated/static.md",
-    "conflict-files-obsidian-git.md",
-    "daily__/2021-09-03_星期五.md",
-    "daily__/2021-05-09.md",
-    "daily__/2021-05-12.md",
-    "daily__/2021-05-15.md",
-    "Templates/未命名.md",
-    "Templates/Daily 模板/模板1.md",
-    "write__/mygraduatedpaper.md"
+    "paper__/Inbox/git命令大全_.md",
+    "paper__/Inbox/CMU-Perceptual-Computing-Lab_openpose.md",
+    "paper__/Inbox/Fomo.md",
+    "paper__/Inbox/boa源码分析(3)--代码结构_jemofh159的专栏-CSDN博客_boa源码解析.md",
+    "paper__/Inbox/How I Keep My Projects Organized.md",
+    "paper__/Inbox/How I Keep My Projects Organized (1).md",
+    "paper__/Inbox/K380蓝牙键盘+iPhone快捷方式集锦(手机+蓝牙键盘 可写知乎笔记_回答_文章) - 知乎.md",
+    "paper__/Inbox/path.md",
+    "paper__/Inbox/Spring(一)----IOC控制反转、DI依赖注入_byteyoung-CSDN博客_ioc控制.md",
+    "paper__/Inbox/title.md"
   ]
 }
