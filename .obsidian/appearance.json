@@ -1,7 +1,9 @@
 {
   "translucency": false,
-  "cssTheme": "Atom",
+  "cssTheme": "California Coast",
   "theme": "moonstone",
   "baseFontSize": 16,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "California Coast Mod"
+  ]
 }

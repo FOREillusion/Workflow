@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper__/Inbox/git命令大全_.md",
-            "mode": "preview"
+            "file": "daily__/2021-09-15_星期三.md",
+            "mode": "source"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper__/Inbox/git命令大全_.md",
+                "file": "daily__/2021-09-15_星期三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper__/Inbox/git命令大全_.md"
+                "file": "daily__/2021-09-15_星期三.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-09-15_星期三.md",
     "paper__/Inbox/git命令大全_.md",
     "paper__/Inbox/CMU-Perceptual-Computing-Lab_openpose.md",
     "paper__/Inbox/Fomo.md",
@@ -171,7 +172,6 @@
     "paper__/Inbox/How I Keep My Projects Organized (1).md",
     "paper__/Inbox/K380蓝牙键盘+iPhone快捷方式集锦(手机+蓝牙键盘 可写知乎笔记_回答_文章) - 知乎.md",
     "paper__/Inbox/path.md",
-    "paper__/Inbox/Spring(一)----IOC控制反转、DI依赖注入_byteyoung-CSDN博客_ioc控制.md",
-    "paper__/Inbox/title.md"
+    "paper__/Inbox/Spring(一)----IOC控制反转、DI依赖注入_byteyoung-CSDN博客_ioc控制.md"
   ]
 }
