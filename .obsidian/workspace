@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-09-16_星期四.md",
+            "file": "daily__/2021-09-20_星期一.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-16_星期四.md",
+                "file": "daily__/2021-09-20_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-09-16_星期四.md"
+                "file": "daily__/2021-09-20_星期一.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-09-20_星期一.md",
     "daily__/2021-09-16_星期四.md",
     "daily__/2021-09-19_星期日.md",
     "daily__/2021-09-15_星期三.md",
@@ -172,7 +173,6 @@
     "paper__/Inbox/Fomo.md",
     "paper__/Inbox/boa源码分析(3)--代码结构_jemofh159的专栏-CSDN博客_boa源码解析.md",
     "paper__/Inbox/How I Keep My Projects Organized.md",
-    "paper__/Inbox/How I Keep My Projects Organized (1).md",
-    "paper__/Inbox/K380蓝牙键盘+iPhone快捷方式集锦(手机+蓝牙键盘 可写知乎笔记_回答_文章) - 知乎.md"
+    "paper__/Inbox/How I Keep My Projects Organized (1).md"
   ]
 }
