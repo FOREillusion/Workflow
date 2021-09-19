@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-09-19_星期日.md",
+            "file": "daily__/2021-09-16_星期四.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "86468890bdd73e2a",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-19_星期日.md",
+                "file": "daily__/2021-09-16_星期四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-09-19_星期日.md"
+                "file": "daily__/2021-09-16_星期四.md"
               }
             }
           },
@@ -163,8 +164,8 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
-    "daily__/2021-09-19_星期日.md",
     "daily__/2021-09-16_星期四.md",
+    "daily__/2021-09-19_星期日.md",
     "daily__/2021-09-15_星期三.md",
     "paper__/Inbox/git命令大全_.md",
     "paper__/Inbox/CMU-Perceptual-Computing-Lab_openpose.md",
