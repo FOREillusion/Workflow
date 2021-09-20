@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-09-20_星期一.md",
+            "file": "learn__/学习方法/motivated.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-20_星期一.md",
+                "file": "learn__/学习方法/motivated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-09-20_星期一.md"
+                "file": "learn__/学习方法/motivated.md"
               }
             }
           },
@@ -160,10 +160,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.6000061035156
+    "width": 267.6000061035156,
+    "collapsed": true
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "learn__/学习方法/未命名 1.md",
     "daily__/2021-09-20_星期一.md",
     "daily__/2021-09-16_星期四.md",
     "daily__/2021-09-19_星期日.md",
@@ -172,7 +174,6 @@
     "paper__/Inbox/CMU-Perceptual-Computing-Lab_openpose.md",
     "paper__/Inbox/Fomo.md",
     "paper__/Inbox/boa源码分析(3)--代码结构_jemofh159的专栏-CSDN博客_boa源码解析.md",
-    "paper__/Inbox/How I Keep My Projects Organized.md",
-    "paper__/Inbox/How I Keep My Projects Organized (1).md"
+    "paper__/Inbox/How I Keep My Projects Organized.md"
   ]
 }
