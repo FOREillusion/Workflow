@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "英语阅读二刷",
+      "path": "paper__/Inbox/英语阅读二刷.md"
+    },
+    {
+      "basename": "static",
+      "path": "paper__/graduated/static.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "阅读技巧",
+      "path": "learn__/英语/阅读技巧.md"
+    },
+    {
+      "basename": "听力",
+      "path": "learn__/英语/听力.md"
+    },
+    {
+      "basename": "2021-09-21_星期二",
+      "path": "daily__/2021-09-21_星期二.md"
+    },
+    {
       "basename": "2019版大纲",
       "path": "learn__/软件设计师/2019版大纲.md"
     },
@@ -19,14 +43,6 @@
     {
       "basename": "未命名",
       "path": "learn__/Growth/未命名.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "阅读技巧",
-      "path": "learn__/英语/阅读技巧.md"
     },
     {
       "basename": "需求分析",
@@ -121,10 +137,6 @@
       "path": "learn__/Society/房价神贴.md"
     },
     {
-      "basename": "static",
-      "path": "paper__/graduated/static.md"
-    },
-    {
       "basename": "2021-09-03_星期五",
       "path": "daily__/2021-09-03_星期五.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1b01aaba6e204e009828e9e321d97ee5",
       "path": "_resources/1b01aaba6e204e009828e9e321d97ee5.jpg"
-    },
-    {
-      "basename": "1ab061e8273a46969d83b71b4276f678",
-      "path": "_resources/1ab061e8273a46969d83b71b4276f678.png"
-    },
-    {
-      "basename": "0d4a5ffba8bf410480077c86f71fa22e",
-      "path": "_resources/0d4a5ffba8bf410480077c86f71fa22e.png"
-    },
-    {
-      "basename": "0c6955cdd2094d3db4d3d5b43724c814",
-      "path": "_resources/0c6955cdd2094d3db4d3d5b43724c814.png"
     }
   ],
   "omittedPaths": [],
