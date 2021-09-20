@@ -50,7 +50,7 @@ right now, doing your work
 4. Working hard opens doors for the future
 5. Learning is genuinely interesting
 6. Learning is a way to connect to others
-7. The outcomes can be so satisfying
+7. The outcomes can be so satisfying  
 8. Learing keeps life entertaining
 9. I love my low-fi playlist
 10. Knowledge is power
