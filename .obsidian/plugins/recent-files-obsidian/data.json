@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2019版大纲",
+      "path": "learn__/软件设计师/2019版大纲.md"
+    },
+    {
+      "basename": "软件设计师复习策略",
+      "path": "learn__/软件设计师/软件设计师复习策略.md"
+    },
+    {
+      "basename": "2021-04-19",
+      "path": "learn__/嵌入式实训/2021-04-19.md"
+    },
+    {
       "basename": "01入门",
       "path": "learn__/weixin/01入门.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "绪论",
       "path": "learn__/毕业论文/绪论.md"
-    },
-    {
-      "basename": "2021-04-19",
-      "path": "learn__/嵌入式实训/2021-04-19.md"
     },
     {
       "basename": "motivated",
@@ -191,14 +199,6 @@
     {
       "basename": "0c6955cdd2094d3db4d3d5b43724c814",
       "path": "_resources/0c6955cdd2094d3db4d3d5b43724c814.png"
-    },
-    {
-      "basename": "0a3fde5368cb4ba5b24e6dfe560e70d6",
-      "path": "_resources/0a3fde5368cb4ba5b24e6dfe560e70d6.jpg"
-    },
-    {
-      "basename": "Pasted image 20210721164016",
-      "path": "resources__/Pasted image 20210721164016.png"
     }
   ],
   "omittedPaths": [],
