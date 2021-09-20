@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/motivated.md",
+            "file": "learn__/weixin/01入门.md",
             "mode": "source"
           }
         }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "86468890bdd73e2a",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/motivated.md",
+                "file": "learn__/weixin/01入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/motivated.md"
+                "file": "learn__/weixin/01入门.md"
               }
             }
           },
@@ -165,15 +164,15 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "learn__/weixin/未命名.md",
+    "learn__/Growth/未命名.md",
+    "learn__/英语/听力.md",
+    "learn__/英语/阅读技巧.md",
+    "learn__/毕业论文/需求分析.md",
+    "learn__/毕业论文/选题.md",
+    "learn__/毕业论文/绪论.md",
+    "learn__/嵌入式实训/2021-04-19.md",
     "learn__/学习方法/未命名 1.md",
-    "daily__/2021-09-20_星期一.md",
-    "daily__/2021-09-16_星期四.md",
-    "daily__/2021-09-19_星期日.md",
-    "daily__/2021-09-15_星期三.md",
-    "paper__/Inbox/git命令大全_.md",
-    "paper__/Inbox/CMU-Perceptual-Computing-Lab_openpose.md",
-    "paper__/Inbox/Fomo.md",
-    "paper__/Inbox/boa源码分析(3)--代码结构_jemofh159的专栏-CSDN博客_boa源码解析.md",
-    "paper__/Inbox/How I Keep My Projects Organized.md"
+    "daily__/2021-09-20_星期一.md"
   ]
 }

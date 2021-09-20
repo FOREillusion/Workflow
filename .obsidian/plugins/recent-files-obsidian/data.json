@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "01入门",
+      "path": "learn__/weixin/01入门.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "learn__/Growth/未命名.md"
+    },
+    {
+      "basename": "听力",
+      "path": "learn__/英语/听力.md"
+    },
+    {
+      "basename": "阅读技巧",
+      "path": "learn__/英语/阅读技巧.md"
+    },
+    {
+      "basename": "需求分析",
+      "path": "learn__/毕业论文/需求分析.md"
+    },
+    {
+      "basename": "选题",
+      "path": "learn__/毕业论文/选题.md"
+    },
+    {
+      "basename": "绪论",
+      "path": "learn__/毕业论文/绪论.md"
+    },
+    {
+      "basename": "2021-04-19",
+      "path": "learn__/嵌入式实训/2021-04-19.md"
+    },
+    {
       "basename": "motivated",
       "path": "learn__/学习方法/motivated.md"
     },
@@ -167,26 +199,6 @@
     {
       "basename": "Pasted image 20210721164016",
       "path": "resources__/Pasted image 20210721164016.png"
-    },
-    {
-      "basename": "Pasted image 20210721145053",
-      "path": "resources__/Pasted image 20210721145053.png"
-    },
-    {
-      "basename": "Pasted image 20210721151242",
-      "path": "resources__/Pasted image 20210721151242.png"
-    },
-    {
-      "basename": "Pasted image 20210721150228",
-      "path": "resources__/Pasted image 20210721150228.png"
-    },
-    {
-      "basename": "2021-04-05",
-      "path": "daily__/2021-04-05.md"
-    },
-    {
-      "basename": "2021-09-02",
-      "path": "daily__/2021-09-02.md"
     }
   ],
   "omittedPaths": [],
