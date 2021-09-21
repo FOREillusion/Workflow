@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper__/Inbox/英语阅读二刷.md",
+            "file": "daily__/2021-09-21_星期二.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper__/Inbox/英语阅读二刷.md",
+                "file": "daily__/2021-09-21_星期二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper__/Inbox/英语阅读二刷.md"
+                "file": "daily__/2021-09-21_星期二.md"
               }
             }
           },
@@ -163,12 +163,12 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-09-21_星期二.md",
     "paper__/Inbox/未命名 1.md",
     "paper__/graduated/static.md",
     "learn__/学习方法/Mathlearning.md",
     "learn__/英语/阅读技巧.md",
     "learn__/英语/听力.md",
-    "daily__/2021-09-21_星期二.md",
     "learn__/软件设计师/未命名.md",
     "learn__/嵌入式实训/2021-04-19.md",
     "learn__/weixin/未命名.md",
