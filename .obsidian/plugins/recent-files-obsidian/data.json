@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "learn__/学习方法/未命名.md"
+    },
+    {
+      "basename": "逻辑思维能力",
+      "path": "learn__/学习方法/逻辑思维能力.md"
+    },
+    {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "上交大郑老师",
+      "path": "learn__/学习方法/上交大郑老师.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "浙大考研经验11",
+      "path": "learn__/graduate/浙大考研经验11.md"
+    },
+    {
+      "basename": "浙大考研经验10",
+      "path": "learn__/graduate/浙大考研经验10.md"
+    },
+    {
+      "basename": "浙大考研经验9",
+      "path": "learn__/graduate/浙大考研经验9.md"
+    },
+    {
+      "basename": "浙大考研经验8",
+      "path": "learn__/graduate/浙大考研经验8.md"
+    },
+    {
+      "basename": "浙大考研经验7",
+      "path": "learn__/graduate/浙大考研经验7.md"
+    },
+    {
+      "basename": "浙大考研经验6",
+      "path": "learn__/graduate/浙大考研经验6.md"
+    },
+    {
+      "basename": "浙大考研经验5",
+      "path": "learn__/graduate/浙大考研经验5.md"
+    },
+    {
+      "basename": "浙大考研经验4",
+      "path": "learn__/graduate/浙大考研经验4.md"
+    },
+    {
+      "basename": "浙大考研经验3",
+      "path": "learn__/graduate/浙大考研经验3.md"
+    },
+    {
+      "basename": "浙大考研经验2",
+      "path": "learn__/graduate/浙大考研经验2.md"
+    },
+    {
+      "basename": "浙大考研经验1",
+      "path": "learn__/graduate/浙大考研经验1.md"
+    },
+    {
       "basename": "英语阅读二刷",
       "path": "paper__/Inbox/英语阅读二刷.md"
     },
@@ -11,10 +83,6 @@
     {
       "basename": "static",
       "path": "paper__/graduated/static.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
     },
     {
       "basename": "阅读技巧",
@@ -55,10 +123,6 @@
     {
       "basename": "绪论",
       "path": "learn__/毕业论文/绪论.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
     },
     {
       "basename": "2021-09-20_星期一",
@@ -135,70 +199,6 @@
     {
       "basename": "房价神贴",
       "path": "learn__/Society/房价神贴.md"
-    },
-    {
-      "basename": "2021-09-03_星期五",
-      "path": "daily__/2021-09-03_星期五.md"
-    },
-    {
-      "basename": "2021-05-09",
-      "path": "daily__/2021-05-09.md"
-    },
-    {
-      "basename": "2021-05-12",
-      "path": "daily__/2021-05-12.md"
-    },
-    {
-      "basename": "2021-05-15",
-      "path": "daily__/2021-05-15.md"
-    },
-    {
-      "basename": "周记模板",
-      "path": "Templates/周记模板.md"
-    },
-    {
-      "basename": "模板1",
-      "path": "Templates/Daily 模板/模板1.md"
-    },
-    {
-      "basename": "读书笔记模板",
-      "path": "Templates/读书笔记模板.md"
-    },
-    {
-      "basename": "mygraduatedpaper",
-      "path": "write__/mygraduatedpaper.md"
-    },
-    {
-      "basename": "Pasted image 20210719204943",
-      "path": "resources__/Pasted image 20210719204943.png"
-    },
-    {
-      "basename": "Pasted image 20210721165958",
-      "path": "resources__/Pasted image 20210721165958.png"
-    },
-    {
-      "basename": "Pasted image 20210721150934",
-      "path": "resources__/Pasted image 20210721150934.png"
-    },
-    {
-      "basename": "Pasted image 20210721152047",
-      "path": "resources__/Pasted image 20210721152047.png"
-    },
-    {
-      "basename": "zk",
-      "path": "Templates/笔记模板/zk.md"
-    },
-    {
-      "basename": "Pasted image 20210721152159",
-      "path": "resources__/Pasted image 20210721152159.png"
-    },
-    {
-      "basename": "1c85e34ba96a45679a28836608629848",
-      "path": "_resources/1c85e34ba96a45679a28836608629848.jpg"
-    },
-    {
-      "basename": "1b01aaba6e204e009828e9e321d97ee5",
-      "path": "_resources/1b01aaba6e204e009828e9e321d97ee5.jpg"
     }
   ],
   "omittedPaths": [],
