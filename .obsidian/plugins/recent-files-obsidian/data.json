@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-09-27_星期一",
+      "path": "daily__/2021-09-27_星期一.md"
+    },
+    {
       "basename": "static",
       "path": "paper__/graduated/static.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "英语阅读二刷",
       "path": "paper__/Inbox/英语阅读二刷.md"
-    },
-    {
-      "basename": "2019版大纲",
-      "path": "learn__/软件设计师/2019版大纲.md"
     }
   ],
   "omittedPaths": [],
