@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/motivated.md",
+            "file": "daily__/2021-09-27_星期一.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/motivated.md",
+                "file": "daily__/2021-09-27_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/motivated.md"
+                "file": "daily__/2021-09-27_星期一.md"
               }
             }
           },
@@ -163,10 +163,10 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-09-27_星期一.md",
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/Mathlearning.md",
     "learn__/学习方法/未命名 1.md",
-    "daily__/2021-09-27_星期一.md",
     "paper__/graduated/static.md",
     "learn__/英语/阅读技巧.md",
     "learn__/英语/听力.md",
