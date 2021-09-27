@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-09-27_星期一.md",
+            "file": "WeeklyReview/周-2021年第39周复盘 .md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-27_星期一.md",
+                "file": "WeeklyReview/周-2021年第39周复盘 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-09-27_星期一.md"
+                "file": "WeeklyReview/周-2021年第39周复盘 .md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "WeeklyReview/周-2021年第39周复盘 .md",
     "daily__/2021-09-27_星期一.md",
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/Mathlearning.md",
@@ -171,7 +172,6 @@
     "learn__/英语/阅读技巧.md",
     "learn__/英语/听力.md",
     "learn__/毕业论文/绪论.md",
-    "learn__/毕业论文/选题.md",
-    "learn__/毕业论文/需求分析.md"
+    "learn__/毕业论文/选题.md"
   ]
 }
