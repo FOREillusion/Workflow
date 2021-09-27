@@ -7,11 +7,8 @@
         "id": "041da1855d34c73e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily__/2021-09-27_星期一.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -92,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-27_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily__/2021-09-27_星期一.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,6 +157,7 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "learn__/学习方法/未命名 1.md",
     "daily__/2021-09-27_星期一.md",
     "paper__/graduated/static.md",
     "learn__/英语/阅读技巧.md",
@@ -171,7 +166,6 @@
     "learn__/毕业论文/选题.md",
     "learn__/毕业论文/需求分析.md",
     "learn__/学习方法/motivated.md",
-    "learn__/idol/rkychi.md",
-    "daily__/2021-09-20_星期一.md"
+    "learn__/idol/rkychi.md"
   ]
 }
