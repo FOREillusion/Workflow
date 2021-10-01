@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-09-30_星期四.md",
+            "file": "daily__/2021-09-19_星期日.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-09-30_星期四.md",
+                "file": "daily__/2021-09-19_星期日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-09-30_星期四.md"
+                "file": "daily__/2021-09-19_星期日.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-09-19_星期日.md",
+    "WeeklyReview/周-2021年第39周复盘 .md",
+    "daily__/2021-09-16_星期四.md",
+    "daily__/2021-09-15_星期三.md",
+    "daily__/2021-09-03_星期五.md",
     "daily__/2021-09-30_星期四.md",
     "daily__/2021-09-28_星期二.md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
     "daily__/2021-09-27_星期一.md",
     "learn__/学习方法/motivated.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/学习方法/未命名 1.md",
-    "paper__/graduated/static.md",
-    "learn__/英语/阅读技巧.md",
-    "learn__/英语/听力.md"
+    "learn__/学习方法/Mathlearning.md"
   ]
 }

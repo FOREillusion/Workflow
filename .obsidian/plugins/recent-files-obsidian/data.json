@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-09-19_星期日",
+      "path": "daily__/2021-09-19_星期日.md"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "2021-09-16_星期四",
+      "path": "daily__/2021-09-16_星期四.md"
+    },
+    {
+      "basename": "2021-09-15_星期三",
+      "path": "daily__/2021-09-15_星期三.md"
+    },
+    {
+      "basename": "2021-09-03_星期五",
+      "path": "daily__/2021-09-03_星期五.md"
+    },
+    {
       "basename": "2021-09-30_星期四",
       "path": "daily__/2021-09-30_星期四.md"
     },
     {
       "basename": "2021-09-28_星期二",
       "path": "daily__/2021-09-28_星期二.md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
     },
     {
       "basename": "2021-09-27_星期一",
@@ -63,18 +79,6 @@
     {
       "basename": "2021-09-21_星期二",
       "path": "daily__/2021-09-21_星期二.md"
-    },
-    {
-      "basename": "2021-09-19_星期日",
-      "path": "daily__/2021-09-19_星期日.md"
-    },
-    {
-      "basename": "2021-09-16_星期四",
-      "path": "daily__/2021-09-16_星期四.md"
-    },
-    {
-      "basename": "2021-09-03_星期五",
-      "path": "daily__/2021-09-03_星期五.md"
     },
     {
       "basename": "2021-09-02",
@@ -195,10 +199,6 @@
     {
       "basename": "浙大考研经验5",
       "path": "learn__/graduate/浙大考研经验5.md"
-    },
-    {
-      "basename": "浙大考研经验4",
-      "path": "learn__/graduate/浙大考研经验4.md"
     }
   ],
   "omittedPaths": [],
