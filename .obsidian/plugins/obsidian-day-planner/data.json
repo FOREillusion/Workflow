@@ -2,7 +2,12 @@
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": true,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "daily__/2021-10-04_星期一.md",
+      "date": "Mon Oct 04 2021"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": true,
   "nowAndNextInStatusBar": false,
