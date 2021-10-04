@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md",
-            "mode": "preview"
+            "file": "WeeklyReview/周-2021年第40周复盘 .md",
+            "mode": "source"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md",
+                "file": "WeeklyReview/周-2021年第40周复盘 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md"
+                "file": "WeeklyReview/周-2021年第40周复盘 .md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "WeeklyReview/周-2021年第40周复盘 .md",
     "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md",
     "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.png",
-    "WeeklyReview/周-2021年第40周复盘 .md",
     "daily__/2021-10-04_星期一.md",
     "daily__/2021-10-02_星期六.md",
     "daily__/2021-09-19_星期日.md",
