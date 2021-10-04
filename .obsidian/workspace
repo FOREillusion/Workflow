@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-10-02_星期六.md",
+            "file": "daily__/2021-10-04_星期一.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-10-02_星期六.md",
+                "file": "daily__/2021-10-04_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-10-02_星期六.md"
+                "file": "daily__/2021-10-04_星期一.md"
               }
             }
           },
@@ -159,10 +159,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.6000061035156
+    "width": 270.3999938964844
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "daily__/2021-10-04_星期一.md",
     "daily__/2021-10-02_星期六.md",
     "daily__/2021-09-19_星期日.md",
     "WeeklyReview/周-2021年第39周复盘 .md",
@@ -171,7 +172,6 @@
     "daily__/2021-09-03_星期五.md",
     "daily__/2021-09-30_星期四.md",
     "daily__/2021-09-28_星期二.md",
-    "daily__/2021-09-27_星期一.md",
-    "learn__/学习方法/motivated.md"
+    "daily__/2021-09-27_星期一.md"
   ]
 }
