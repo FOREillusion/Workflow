@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机组成原理/计算机组成.md",
+            "file": "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成.md",
+                "file": "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成.md"
+                "file": "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "041da1855d34c73e",
   "lastOpenFiles": [
+    "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
+    "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.png",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/graduate/浙大考研经验1.md",
     "learn__/408/计算机组成原理/计算机组成.md",
     "learn__/408/计算机组成原理/计算机组成.png",
     "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md",
     "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.png",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "daily__/2021-10-04_星期一.md",
-    "daily__/2021-10-02_星期六.md",
-    "daily__/2021-09-19_星期日.md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "daily__/2021-09-16_星期四.md"
+    "WeeklyReview/周-2021年第40周复盘 .md"
   ]
 }
