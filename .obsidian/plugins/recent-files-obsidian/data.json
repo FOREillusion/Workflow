@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-10-06_星期三",
+      "path": "daily__/2021-10-06_星期三.md"
+    },
+    {
       "basename": "基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园",
       "path": "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MQTT与Android_手写我对你的温柔-CSDN博客_mqtt 安卓",
       "path": "paper__/Inbox/MQTT与Android_手写我对你的温柔-CSDN博客_mqtt 安卓.md"
-    },
-    {
-      "basename": "FPGA入门",
-      "path": "paper__/Inbox/FPGA入门.md"
     }
   ],
   "omittedPaths": [],
