@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "技巧",
+      "path": "learn__/英语/技巧.md"
+    },
+    {
+      "basename": "阅读技巧",
+      "path": "learn__/英语/阅读技巧.md"
+    },
+    {
       "basename": "2021-10-06_星期三",
       "path": "daily__/2021-10-06_星期三.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "中产阶级育儿焦虑",
       "path": "paper__/Inbox/中产阶级育儿焦虑.md"
-    },
-    {
-      "basename": "世界人工智能大会",
-      "path": "paper__/Inbox/世界人工智能大会.md"
-    },
-    {
-      "basename": "MQTT与Android_手写我对你的温柔-CSDN博客_mqtt 安卓",
-      "path": "paper__/Inbox/MQTT与Android_手写我对你的温柔-CSDN博客_mqtt 安卓.md"
     }
   ],
   "omittedPaths": [],
