@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper__/Inbox/你在自己的时区里,从没落后_.md",
-            "mode": "source"
+            "file": "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper__/Inbox/你在自己的时区里,从没落后_.md",
+                "file": "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper__/Inbox/你在自己的时区里,从没落后_.md"
+                "file": "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md"
               }
             }
           },
@@ -163,13 +163,13 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md",
     "paper__/Inbox/你在自己的时区里,从没落后_.md",
     "paper__/Inbox/关于网课.md",
     "paper__/Inbox/内耗.md",
     "paper__/Inbox/决赛题目.md",
     "paper__/Inbox/卢曼笔记模板.md",
     "paper__/Inbox/在人生路上，我们需要警醒的不是失败，而是一帆风顺。一个人一旦志得意满，过早拥有金钱、声誉、名利，可能.md",
-    "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md",
     "paper__/Inbox/奇绩创坛.md",
     "paper__/Inbox/女性主义.md",
     "paper__/Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
