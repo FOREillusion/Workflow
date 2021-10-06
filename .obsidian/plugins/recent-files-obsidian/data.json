@@ -5,6 +5,14 @@
       "path": "learn__/英语/技巧.md"
     },
     {
+      "basename": "唐迟阅读",
+      "path": "learn__/英语/唐迟阅读.md"
+    },
+    {
+      "basename": "听力",
+      "path": "learn__/英语/听力.md"
+    },
+    {
       "basename": "阅读技巧",
       "path": "learn__/英语/阅读技巧.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2021-10-04_星期一",
       "path": "daily__/2021-10-04_星期一.md"
-    },
-    {
-      "basename": "如何用流量思维赚到你的第一个100万？",
-      "path": "paper__/Inbox/如何用流量思维赚到你的第一个100万？.md"
-    },
-    {
-      "basename": "中产阶级育儿焦虑",
-      "path": "paper__/Inbox/中产阶级育儿焦虑.md"
     }
   ],
   "omittedPaths": [],
