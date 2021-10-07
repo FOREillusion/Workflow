@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/math/未命名.md",
-            "mode": "source"
+            "file": "learn__/经验帖/胡神.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/math/未命名.md",
+                "file": "learn__/经验帖/胡神.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/math/未命名.md"
+                "file": "learn__/经验帖/胡神.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "learn__/经验帖/未命名.md",
     "learn__/math/未命名.md",
     "learn__/英语/未命名.md",
     "learn__/graduate/复试/未命名.md",
@@ -171,7 +172,6 @@
     "learn__/英语/技巧.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/听力.md",
-    "learn__/英语/阅读技巧.md",
-    "daily__/2021-10-06_星期三.md"
+    "learn__/英语/阅读技巧.md"
   ]
 }

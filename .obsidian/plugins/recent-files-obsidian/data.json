@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "胡神",
+      "path": "learn__/经验帖/胡神.md"
+    },
+    {
       "basename": "未命名",
       "path": "learn__/math/未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "计算机视觉",
       "path": "paper__/Inbox/计算机视觉.md"
-    },
-    {
-      "basename": "费曼笔记",
-      "path": "paper__/Inbox/费曼笔记.md"
     }
   ],
   "omittedPaths": [],
