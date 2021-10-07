@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/技巧.md",
+            "file": "learn__/英语/2021新增词汇.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/技巧.md",
+                "file": "learn__/英语/2021新增词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/技巧.md"
+                "file": "learn__/英语/2021新增词汇.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "learn__/英语/未命名.md",
+    "write__/mygraduatedpaper.md",
     "learn__/英语/技巧.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/听力.md",
-    "learn__/英语/未命名.md",
     "learn__/英语/阅读技巧.md",
     "daily__/2021-10-06_星期三.md",
     "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md",
     "paper__/Inbox/你在自己的时区里,从没落后_.md",
-    "paper__/Inbox/关于网课.md",
-    "paper__/Inbox/内耗.md"
+    "paper__/Inbox/关于网课.md"
   ]
 }
