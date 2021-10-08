@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "考研英语笔记2",
+      "path": "learn__/英语/考研英语笔记2.md"
+    },
+    {
       "basename": "机试",
       "path": "learn__/graduate/复试/机试.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "英语阅读二刷",
       "path": "paper__/Inbox/英语阅读二刷.md"
-    },
-    {
-      "basename": "視頻網頁",
-      "path": "paper__/Inbox/視頻網頁.md"
     }
   ],
   "omittedPaths": [],
