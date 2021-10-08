@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "机试",
+      "path": "learn__/graduate/复试/机试.md"
+    },
+    {
       "basename": "计算机组成原理-宝典",
       "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "視頻網頁",
       "path": "paper__/Inbox/視頻網頁.md"
-    },
-    {
-      "basename": "虚拟仿真对在线教育方式的影响和促进",
-      "path": "paper__/Inbox/虚拟仿真对在线教育方式的影响和促进.md"
     }
   ],
   "omittedPaths": [],

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
-            "mode": "source"
+            "file": "learn__/graduate/复试/机试.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+                "file": "learn__/graduate/复试/机试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
+                "file": "learn__/graduate/复试/机试.md"
               }
             }
           },
@@ -163,12 +163,12 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "learn__/graduate/复试/未命名.md",
     "learn__/408/计算机组成原理/未命名.md",
     "learn__/408/操作系统/未命名.md",
     "learn__/经验帖/未命名.md",
     "learn__/math/未命名.md",
     "learn__/英语/未命名.md",
-    "learn__/graduate/复试/未命名.md",
     "learn__/英语/2021新增词汇.md",
     "write__/mygraduatedpaper.md",
     "learn__/英语/技巧.md",
