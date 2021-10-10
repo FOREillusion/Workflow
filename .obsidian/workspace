@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-10-10_星期日.md",
-            "mode": "source"
+            "file": "learn__/英语/完型填空.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-10-10_星期日.md",
+                "file": "learn__/英语/完型填空.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-10-10_星期日.md"
+                "file": "learn__/英语/完型填空.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "learn__/英语/未命名.md",
     "daily__/2021-10-10_星期日.md",
     "learn__/英语/考研英语笔记2.md",
-    "learn__/英语/未命名.md",
     "learn__/graduate/复试/未命名.md",
     "learn__/408/计算机组成原理/未命名.md",
     "learn__/408/操作系统/未命名.md",
