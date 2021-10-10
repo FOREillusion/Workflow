@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/考研英语笔记2.md",
+            "file": "daily__/2021-10-10_星期日.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/考研英语笔记2.md",
+                "file": "daily__/2021-10-10_星期日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/考研英语笔记2.md"
+                "file": "daily__/2021-10-10_星期日.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "daily__/2021-10-10_星期日.md",
     "learn__/英语/考研英语笔记2.md",
     "learn__/英语/未命名.md",
     "learn__/graduate/复试/未命名.md",
@@ -171,7 +172,6 @@
     "learn__/经验帖/未命名.md",
     "learn__/math/未命名.md",
     "learn__/英语/2021新增词汇.md",
-    "write__/mygraduatedpaper.md",
-    "learn__/英语/技巧.md"
+    "write__/mygraduatedpaper.md"
   ]
 }
