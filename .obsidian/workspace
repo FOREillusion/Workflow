@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/翻译.md",
-            "mode": "source"
+            "file": "learn__/软件设计师/2019版大纲.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/翻译.md",
+                "file": "learn__/软件设计师/2019版大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/翻译.md"
+                "file": "learn__/软件设计师/2019版大纲.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
-    "learn__/英语/翻译.md",
-    "learn__/英语/核心单词.md",
-    "learn__/经验帖/上交.md",
-    "learn__/经验帖/未命名.md",
+    "learn__/软件设计师/2019版大纲.md",
+    "learn__/软件设计师/软件设计师复习策略.md",
+    "learn__/英语/听力.md",
+    "learn__/英语/唐迟阅读.md",
     "learn__/英语/完型填空.md",
-    "learn__/英语/未命名.md",
-    "daily__/2021-10-10_星期日.md",
+    "learn__/英语/技巧.md",
+    "learn__/英语/翻译.md",
+    "learn__/英语/考研英语笔记.md",
     "learn__/英语/考研英语笔记2.md",
-    "learn__/graduate/复试/未命名.md",
-    "learn__/408/计算机组成原理/未命名.md"
+    "learn__/英语/阅读技巧.md"
   ]
 }

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2019版大纲",
+      "path": "learn__/软件设计师/2019版大纲.md"
+    },
+    {
+      "basename": "软件设计师复习策略",
+      "path": "learn__/软件设计师/软件设计师复习策略.md"
+    },
+    {
+      "basename": "听力",
+      "path": "learn__/英语/听力.md"
+    },
+    {
+      "basename": "唐迟阅读",
+      "path": "learn__/英语/唐迟阅读.md"
+    },
+    {
+      "basename": "完型填空",
+      "path": "learn__/英语/完型填空.md"
+    },
+    {
+      "basename": "技巧",
+      "path": "learn__/英语/技巧.md"
+    },
+    {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
+    },
+    {
+      "basename": "考研英语笔记",
+      "path": "learn__/英语/考研英语笔记.md"
+    },
+    {
+      "basename": "考研英语笔记2",
+      "path": "learn__/英语/考研英语笔记2.md"
+    },
+    {
+      "basename": "阅读技巧",
+      "path": "learn__/英语/阅读技巧.md"
     },
     {
       "basename": "核心单词",
@@ -13,16 +49,8 @@
       "path": "learn__/经验帖/上交.md"
     },
     {
-      "basename": "完型填空",
-      "path": "learn__/英语/完型填空.md"
-    },
-    {
       "basename": "2021-10-10_星期日",
       "path": "daily__/2021-10-10_星期日.md"
-    },
-    {
-      "basename": "考研英语笔记2",
-      "path": "learn__/英语/考研英语笔记2.md"
     },
     {
       "basename": "机试",
@@ -45,10 +73,6 @@
       "path": "learn__/math/未命名.md"
     },
     {
-      "basename": "考研英语笔记",
-      "path": "learn__/英语/考研英语笔记.md"
-    },
-    {
       "basename": "复试1",
       "path": "learn__/graduate/复试/复试1.md"
     },
@@ -59,22 +83,6 @@
     {
       "basename": "mygraduatedpaper",
       "path": "write__/mygraduatedpaper.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "learn__/英语/技巧.md"
-    },
-    {
-      "basename": "唐迟阅读",
-      "path": "learn__/英语/唐迟阅读.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "阅读技巧",
-      "path": "learn__/英语/阅读技巧.md"
     },
     {
       "basename": "2021-10-06_星期三",
@@ -191,14 +199,6 @@
     {
       "basename": "构建个人知识体系 · 构建我的被动收入",
       "path": "paper__/Inbox/构建个人知识体系 · 构建我的被动收入.md"
-    },
-    {
-      "basename": "毕业论文选题如何避坑",
-      "path": "paper__/Inbox/毕业论文选题如何避坑.md"
-    },
-    {
-      "basename": "知乎向导文章索引与介绍",
-      "path": "paper__/Inbox/知乎向导文章索引与介绍.md"
     }
   ],
   "omittedPaths": [],
