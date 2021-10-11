@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/软件设计师/2019版大纲.md",
+            "file": "learn__/英语/翻译.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/软件设计师/2019版大纲.md",
+                "file": "learn__/英语/翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/软件设计师/2019版大纲.md"
+                "file": "learn__/英语/翻译.md"
               }
             }
           },
@@ -163,13 +163,13 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
+    "learn__/英语/翻译.md",
     "learn__/软件设计师/2019版大纲.md",
     "learn__/软件设计师/软件设计师复习策略.md",
     "learn__/英语/听力.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/完型填空.md",
     "learn__/英语/技巧.md",
-    "learn__/英语/翻译.md",
     "learn__/英语/考研英语笔记.md",
     "learn__/英语/考研英语笔记2.md",
     "learn__/英语/阅读技巧.md"
