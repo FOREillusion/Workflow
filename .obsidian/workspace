@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/核心单词.md",
+            "file": "learn__/英语/翻译.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/核心单词.md",
+                "file": "learn__/英语/翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/核心单词.md"
+                "file": "learn__/英语/翻译.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "4508cf38f116d6e5",
   "lastOpenFiles": [
-    "learn__/英语/核心单词.md",
     "learn__/英语/翻译.md",
+    "learn__/英语/核心单词.md",
     "learn__/经验帖/上交.md",
     "learn__/经验帖/未命名.md",
     "learn__/英语/完型填空.md",
