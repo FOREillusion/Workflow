@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "清华大佬经验",
+      "path": "learn__/经验帖/清华大佬经验.md"
+    },
+    {
+      "basename": "2021-10-12_星期二",
+      "path": "daily__/2021-10-12_星期二.md"
+    },
+    {
       "basename": "PDCA",
       "path": "learn__/学习方法/PDCA.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记",
       "path": "paper__/Inbox/时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记.md"
-    },
-    {
-      "basename": "时间",
-      "path": "paper__/Inbox/时间.md"
-    },
-    {
-      "basename": "有关于人工智能的几个认识问题",
-      "path": "paper__/Inbox/有关于人工智能的几个认识问题.md"
     }
   ],
   "omittedPaths": [],
