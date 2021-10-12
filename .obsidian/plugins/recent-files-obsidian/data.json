@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "rkychi",
-      "path": "learn__/idol/rkychi.md"
+      "basename": "上交大郑老师",
+      "path": "learn__/学习方法/上交大郑老师.md"
     },
     {
-      "basename": "清华大佬经验",
-      "path": "learn__/经验帖/清华大佬经验.md"
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
     },
     {
-      "basename": "2021-10-12_星期二",
-      "path": "daily__/2021-10-12_星期二.md"
+      "basename": "逻辑思维能力",
+      "path": "learn__/学习方法/逻辑思维能力.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
     },
     {
       "basename": "PDCA",
@@ -23,6 +27,18 @@
     {
       "basename": "Mathlearning",
       "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "rkychi",
+      "path": "learn__/idol/rkychi.md"
+    },
+    {
+      "basename": "清华大佬经验",
+      "path": "learn__/经验帖/清华大佬经验.md"
+    },
+    {
+      "basename": "2021-10-12_星期二",
+      "path": "daily__/2021-10-12_星期二.md"
     },
     {
       "basename": "翻译",
@@ -183,14 +199,6 @@
     {
       "basename": "我的时间管理办法（2020版） - 少数派",
       "path": "paper__/Inbox/我的时间管理办法（2020版） - 少数派.md"
-    },
-    {
-      "basename": "我的时间管理工具 · 构建我的被动收入",
-      "path": "paper__/Inbox/我的时间管理工具 · 构建我的被动收入.md"
-    },
-    {
-      "basename": "我的时间管理工具 · 构建我的被动收入 (1)",
-      "path": "paper__/Inbox/我的时间管理工具 · 构建我的被动收入 (1).md"
     }
   ],
   "omittedPaths": [],

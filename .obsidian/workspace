@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3f5290bcf8520473",
+        "id": "2ab6de64643ccc0f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "learn__/学习方法/上交大郑老师.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -89,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learn__/学习方法/上交大郑老师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learn__/学习方法/上交大郑老师.md"
+              }
             }
           },
           {
@@ -155,17 +161,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "3f5290bcf8520473",
+  "active": "2ab6de64643ccc0f",
   "lastOpenFiles": [
-    "learn__/Growth/未命名.md",
-    "learn__/math/未命名.md",
-    "learn__/idol/rkychi.md",
-    "learn__/经验帖/未命名.md",
-    "daily__/2021-10-12_星期二.md",
+    "learn__/学习方法/上交大郑老师.md",
+    "learn__/学习方法/专注力.md",
+    "learn__/学习方法/逻辑思维能力.md",
+    "learn__/学习方法/tips.md",
     "learn__/学习方法/PDCA.md",
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/Mathlearning.md",
-    "learn__/英语/翻译.md",
-    "learn__/软件设计师/2019版大纲.md"
+    "learn__/weixin/01入门.md",
+    "learn__/Growth/未命名.md",
+    "learn__/math/未命名.md"
   ]
 }
