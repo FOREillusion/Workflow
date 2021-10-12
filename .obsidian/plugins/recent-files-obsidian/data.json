@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rkychi",
+      "path": "learn__/idol/rkychi.md"
+    },
+    {
       "basename": "清华大佬经验",
       "path": "learn__/经验帖/清华大佬经验.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "胡神",
       "path": "learn__/经验帖/胡神.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "learn__/math/未命名.md"
     },
     {
       "basename": "复试1",
@@ -191,14 +191,6 @@
     {
       "basename": "我的时间管理工具 · 构建我的被动收入 (1)",
       "path": "paper__/Inbox/我的时间管理工具 · 构建我的被动收入 (1).md"
-    },
-    {
-      "basename": "手部跟踪",
-      "path": "paper__/Inbox/手部跟踪.md"
-    },
-    {
-      "basename": "时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记",
-      "path": "paper__/Inbox/时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记.md"
     }
   ],
   "omittedPaths": [],

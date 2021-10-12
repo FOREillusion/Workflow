@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4508cf38f116d6e5",
+        "id": "3f5290bcf8520473",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "learn__/经验帖/清华大佬经验.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -92,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/清华大佬经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learn__/经验帖/清华大佬经验.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,17 +155,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "4508cf38f116d6e5",
+  "active": "3f5290bcf8520473",
   "lastOpenFiles": [
+    "learn__/Growth/未命名.md",
+    "learn__/math/未命名.md",
+    "learn__/idol/rkychi.md",
     "learn__/经验帖/未命名.md",
     "daily__/2021-10-12_星期二.md",
     "learn__/学习方法/PDCA.md",
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/Mathlearning.md",
     "learn__/英语/翻译.md",
-    "learn__/软件设计师/2019版大纲.md",
-    "learn__/软件设计师/软件设计师复习策略.md",
-    "learn__/英语/听力.md",
-    "learn__/英语/唐迟阅读.md"
+    "learn__/软件设计师/2019版大纲.md"
   ]
 }
