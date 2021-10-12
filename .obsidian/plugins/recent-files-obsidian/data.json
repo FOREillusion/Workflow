@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "有关于人工智能的几个认识问题",
       "path": "paper__/Inbox/有关于人工智能的几个认识问题.md"
-    },
-    {
-      "basename": "机器学习原来这么有趣！第一章：全世界最简单的机器学习入门指南 - 知乎",
-      "path": "paper__/Inbox/机器学习原来这么有趣！第一章：全世界最简单的机器学习入门指南 - 知乎.md"
-    },
-    {
-      "basename": "李沐反思",
-      "path": "paper__/Inbox/李沐反思.md"
-    },
-    {
-      "basename": "构建个人知识体系 · 构建我的被动收入",
-      "path": "paper__/Inbox/构建个人知识体系 · 构建我的被动收入.md"
     }
   ],
   "omittedPaths": [],
