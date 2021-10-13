@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
+      "basename": "技巧",
+      "path": "learn__/英语/技巧.md"
+    },
+    {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "完型填空",
       "path": "learn__/英语/完型填空.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "learn__/英语/技巧.md"
     },
     {
       "basename": "考研英语笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "成长瓶颈的时候一般怎么提升自己",
       "path": "paper__/Inbox/成长瓶颈的时候一般怎么提升自己.md"
-    },
-    {
-      "basename": "我的时间管理办法（2020版） - 少数派",
-      "path": "paper__/Inbox/我的时间管理办法（2020版） - 少数派.md"
     }
   ],
   "omittedPaths": [],

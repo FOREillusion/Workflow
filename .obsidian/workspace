@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/翻译.md",
+            "file": "Templates/读书笔记模板.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/翻译.md",
+                "file": "Templates/读书笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/翻译.md"
+                "file": "Templates/读书笔记模板.md"
               }
             }
           },
@@ -163,6 +163,8 @@
   },
   "active": "2ab6de64643ccc0f",
   "lastOpenFiles": [
+    "Templates/读书笔记模板.md",
+    "learn__/英语/技巧.md",
     "learn__/英语/翻译.md",
     "learn__/学习方法/上交大郑老师.md",
     "learn__/学习方法/专注力.md",
@@ -170,8 +172,6 @@
     "learn__/学习方法/tips.md",
     "learn__/学习方法/PDCA.md",
     "learn__/学习方法/motivated.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/weixin/01入门.md",
-    "learn__/Growth/未命名.md"
+    "learn__/学习方法/Mathlearning.md"
   ]
 }
