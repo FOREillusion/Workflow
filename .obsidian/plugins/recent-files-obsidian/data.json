@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "逻辑思维能力",
+      "path": "learn__/学习方法/逻辑思维能力.md"
+    },
+    {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "第一章 物联网安全概述",
+      "path": "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md"
+    },
+    {
+      "basename": "2021-10-12_星期二",
+      "path": "daily__/2021-10-12_星期二.md"
+    },
+    {
+      "basename": "2021-10-13_星期三",
+      "path": "daily__/2021-10-13_星期三.md"
+    },
+    {
+      "basename": "Recording 20210902162336",
+      "path": "Recording 20210902162336.webm"
+    },
+    {
+      "basename": "mygraduatedpaper",
+      "path": "write__/mygraduatedpaper.md"
+    },
+    {
       "basename": "周-2021年第39周复盘 ",
       "path": "WeeklyReview/周-2021年第39周复盘 .md"
     },
     {
       "basename": "周-2021年第40周复盘 ",
       "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "2021-10-13_星期三",
-      "path": "daily__/2021-10-13_星期三.md"
     },
     {
       "basename": "读书笔记模板",
@@ -27,14 +51,6 @@
     {
       "basename": "上交大郑老师",
       "path": "learn__/学习方法/上交大郑老师.md"
-    },
-    {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "逻辑思维能力",
-      "path": "learn__/学习方法/逻辑思维能力.md"
     },
     {
       "basename": "tips",
@@ -59,10 +75,6 @@
     {
       "basename": "清华大佬经验",
       "path": "learn__/经验帖/清华大佬经验.md"
-    },
-    {
-      "basename": "2021-10-12_星期二",
-      "path": "daily__/2021-10-12_星期二.md"
     },
     {
       "basename": "2019版大纲",
@@ -133,10 +145,6 @@
       "path": "learn__/英语/2021新增词汇.md"
     },
     {
-      "basename": "mygraduatedpaper",
-      "path": "write__/mygraduatedpaper.md"
-    },
-    {
       "basename": "2021-10-06_星期三",
       "path": "daily__/2021-10-06_星期三.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "如何成为强气场的人 _对人际关系苦恼的话_",
       "path": "paper__/Inbox/如何成为强气场的人 _对人际关系苦恼的话_.md"
-    },
-    {
-      "basename": "张磊价值投资",
-      "path": "paper__/Inbox/张磊价值投资.md"
-    },
-    {
-      "basename": "学习超长待机时间",
-      "path": "paper__/Inbox/学习超长待机时间.md"
     }
   ],
   "omittedPaths": [],
