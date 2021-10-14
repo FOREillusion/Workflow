@@ -1,7 +1,9 @@
 {
   "translucency": false,
-  "cssTheme": "Ars Magna",
+  "cssTheme": "California Coast",
   "theme": "moonstone",
   "baseFontSize": 13,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "California Coast Mod"
+  ]
 }

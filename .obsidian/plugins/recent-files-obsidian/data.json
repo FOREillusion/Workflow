@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2021-10-14_星期四",
-      "path": "daily__/2021-10-14_星期四.md"
-    },
-    {
       "basename": "PDCA",
       "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "雅思经验分享",
+      "path": "learn__/雅思/雅思经验分享.md"
+    },
+    {
+      "basename": "2021-10-14_星期四",
+      "path": "daily__/2021-10-14_星期四.md"
     },
     {
       "basename": "problem",
@@ -27,14 +39,6 @@
     {
       "basename": "上交大郑老师",
       "path": "learn__/学习方法/上交大郑老师.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
     },
     {
       "basename": "第一章 物联网安全概述",
@@ -195,10 +199,6 @@
     {
       "basename": "如何在 Rust 中使用 MQTT - 知乎",
       "path": "paper__/Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
-    },
-    {
-      "basename": "如何建立自己的知识体系和观点？",
-      "path": "paper__/Inbox/如何建立自己的知识体系和观点？.md"
     }
   ],
   "omittedPaths": [],
