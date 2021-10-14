@@ -1,22 +1,6 @@
 (4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CSDN博客
 
-[<img width="80" height="44" src=":/d60df80fb9974601939e56f7cb64ddcb"/>](https://www.csdn.net)
 
-- [博客](https://blog.csdn.net/)
-- [学院](https://edu.csdn.net/)
-- [下载](https://download.csdn.net/)
-- [论坛](https://bbs.csdn.net/)
-- [问答](https://ask.csdn.net/)
-- [直播](https://live.csdn.net/)
-- [代码](https://codechina.csdn.net/?utm_source=csdn_toolbar)
-- [招聘](https://job.csdn.net/)
-- [VIP会员](https://mall.csdn.net/vip)
-
-[创作中心](https://mp.csdn.net)
-
-[收藏](https://i.csdn.net/#/uc/collection-list) [动态](https://blog.csdn.net/nav/watchers)
-
-<a id="toolbar-remind"></a>[消息*4*](https://i.csdn.net/#/msg/index)
 
 [<img width="32" height="32" src="../_resources/4e47142c0ebd4b9694ecd5c1115dd648.gif"/>](https://i.csdn.net)
 

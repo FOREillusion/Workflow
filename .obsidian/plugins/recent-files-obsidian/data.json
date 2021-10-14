@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-09-30_星期四",
+      "path": "daily__/2021-09-30_星期四.md"
+    },
+    {
+      "basename": "2021-09-28_星期二",
+      "path": "daily__/2021-09-28_星期二.md"
+    },
+    {
+      "basename": "2021-09-27_星期一",
+      "path": "daily__/2021-09-27_星期一.md"
+    },
+    {
+      "basename": "2021-09-21_星期二",
+      "path": "daily__/2021-09-21_星期二.md"
+    },
+    {
+      "basename": "2021-09-20_星期一",
+      "path": "daily__/2021-09-20_星期一.md"
+    },
+    {
+      "basename": "2021-09-19_星期日",
+      "path": "daily__/2021-09-19_星期日.md"
+    },
+    {
+      "basename": "2021-09-16_星期四",
+      "path": "daily__/2021-09-16_星期四.md"
+    },
+    {
+      "basename": "2021-09-15_星期三",
+      "path": "daily__/2021-09-15_星期三.md"
+    },
+    {
+      "basename": "2021-09-03_星期五",
+      "path": "daily__/2021-09-03_星期五.md"
+    },
+    {
+      "basename": "2021-09-02",
+      "path": "daily__/2021-09-02.md"
+    },
+    {
+      "basename": "2021-05-17",
+      "path": "daily__/2021-05-17.md"
+    },
+    {
+      "basename": "2021-05-15",
+      "path": "daily__/2021-05-15.md"
+    },
+    {
+      "basename": "2021-05-13",
+      "path": "daily__/2021-05-13.md"
+    },
+    {
+      "basename": "2021-05-09",
+      "path": "daily__/2021-05-09.md"
+    },
+    {
+      "basename": "2021-04-05",
+      "path": "daily__/2021-04-05.md"
+    },
+    {
+      "basename": "第一章 操作系统引论",
+      "path": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md"
+    },
+    {
+      "basename": "static",
+      "path": "paper__/graduated/static.md"
+    },
+    {
+      "basename": "45岁如何思考职业生涯后半程？",
+      "path": "paper__/Inbox/45岁如何思考职业生涯后半程？.md"
+    },
+    {
+      "basename": "25岁做什么，可在 5年后受益匪浅？",
+      "path": "paper__/Inbox/25岁做什么，可在 5年后受益匪浅？.md"
+    },
+    {
+      "basename": "(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客",
+      "path": "paper__/Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md"
+    },
+    {
+      "basename": "_iframe src=_http___player.bilibili.com_player.htm",
+      "path": "paper__/Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
+    },
+    {
+      "basename": "(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS",
+      "path": "paper__/Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
+    },
+    {
       "basename": "PDCA",
       "path": "learn__/学习方法/PDCA.md"
     },
@@ -111,94 +199,6 @@
     {
       "basename": "考研英语笔记",
       "path": "learn__/英语/考研英语笔记.md"
-    },
-    {
-      "basename": "考研英语笔记2",
-      "path": "learn__/英语/考研英语笔记2.md"
-    },
-    {
-      "basename": "阅读技巧",
-      "path": "learn__/英语/阅读技巧.md"
-    },
-    {
-      "basename": "核心单词",
-      "path": "learn__/英语/核心单词.md"
-    },
-    {
-      "basename": "上交",
-      "path": "learn__/经验帖/上交.md"
-    },
-    {
-      "basename": "2021-10-10_星期日",
-      "path": "daily__/2021-10-10_星期日.md"
-    },
-    {
-      "basename": "机试",
-      "path": "learn__/graduate/复试/机试.md"
-    },
-    {
-      "basename": "计算机组成原理-宝典",
-      "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "learn__/408/操作系统/未命名.md"
-    },
-    {
-      "basename": "胡神",
-      "path": "learn__/经验帖/胡神.md"
-    },
-    {
-      "basename": "复试1",
-      "path": "learn__/graduate/复试/复试1.md"
-    },
-    {
-      "basename": "2021新增词汇",
-      "path": "learn__/英语/2021新增词汇.md"
-    },
-    {
-      "basename": "2021-10-06_星期三",
-      "path": "daily__/2021-10-06_星期三.md"
-    },
-    {
-      "basename": "基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园",
-      "path": "paper__/Inbox/基于arm的嵌入式QT开发（课程设计） - 风来与你安 - 博客园.md"
-    },
-    {
-      "basename": "你在自己的时区里,从没落后_",
-      "path": "paper__/Inbox/你在自己的时区里,从没落后_.md"
-    },
-    {
-      "basename": "关于网课",
-      "path": "paper__/Inbox/关于网课.md"
-    },
-    {
-      "basename": "内耗",
-      "path": "paper__/Inbox/内耗.md"
-    },
-    {
-      "basename": "决赛题目",
-      "path": "paper__/Inbox/决赛题目.md"
-    },
-    {
-      "basename": "卢曼笔记模板",
-      "path": "paper__/Inbox/卢曼笔记模板.md"
-    },
-    {
-      "basename": "在人生路上，我们需要警醒的不是失败，而是一帆风顺。一个人一旦志得意满，过早拥有金钱、声誉、名利，可能",
-      "path": "paper__/Inbox/在人生路上，我们需要警醒的不是失败，而是一帆风顺。一个人一旦志得意满，过早拥有金钱、声誉、名利，可能.md"
-    },
-    {
-      "basename": "奇绩创坛",
-      "path": "paper__/Inbox/奇绩创坛.md"
-    },
-    {
-      "basename": "女性主义",
-      "path": "paper__/Inbox/女性主义.md"
-    },
-    {
-      "basename": "如何在 Rust 中使用 MQTT - 知乎",
-      "path": "paper__/Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
     }
   ],
   "omittedPaths": [],

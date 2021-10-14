@@ -1,28 +1,6 @@
 (8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客
 
-[<img width="80" height="44" src="../_resources/0e0b891f01a5437283570242c4591331.png"/>](https://www.csdn.net/)
 
-- <a id="greenerSettings"></a>绿化设定
-- [首页](https://www.csdn.net/)
-- [博客](https://blog.csdn.net/)
-- [下载](https://download.csdn.net/)
-- [论坛](https://bbs.csdn.net/)
-- [问答](https://ask.csdn.net/)
-- [代码](https://codechina.csdn.net/?utm_source=csdn_toolbar)
-- [能力认证](https://ac.csdn.net/)
-- [高校](https://studentclub.csdn.net/)
-
-[<img width="32" height="32" src="../_resources/55c701b2326c4418869e7fc45e51f6a3.gif"/>](https://blog.csdn.net/qq_43528695)
-
-[会员中心](https://mall.csdn.net/vip)
-
-[收藏](https://i.csdn.net/#/user-center/collection-list?type=1)
-
-[动态](https://blog.csdn.net/nav/watchers)
-
-<a id="toolbar-remind"></a>[消息*8*](https://i.csdn.net/#/msg/index)
-
-[创作中心](https://mp.csdn.net)
 
 # ECharts4.0数据可视化
 

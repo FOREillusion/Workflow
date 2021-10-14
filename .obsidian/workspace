@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/PDCA.md",
+            "file": "daily__/2021-09-30_星期四.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/PDCA.md",
+                "file": "daily__/2021-09-30_星期四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/PDCA.md"
+                "file": "daily__/2021-09-30_星期四.md"
               }
             }
           },
@@ -140,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -163,15 +162,15 @@
   },
   "active": "2ab6de64643ccc0f",
   "lastOpenFiles": [
-    "learn__/学习方法/PDCA.md",
-    "learn__/学习方法/motivated.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/雅思/雅思经验分享.md",
-    "daily__/2021-10-14_星期四.md",
-    "learn__/学习方法/problem.md",
-    "learn__/学习方法/tips.md",
-    "learn__/学习方法/逻辑思维能力.md",
-    "learn__/学习方法/专注力.md",
-    "learn__/学习方法/上交大郑老师.md"
+    "daily__/2021-09-30_星期四.md",
+    "daily__/2021-09-28_星期二.md",
+    "daily__/2021-09-27_星期一.md",
+    "daily__/2021-09-21_星期二.md",
+    "daily__/2021-09-20_星期一.md",
+    "daily__/2021-09-19_星期日.md",
+    "daily__/2021-09-16_星期四.md",
+    "daily__/2021-09-15_星期三.md",
+    "daily__/2021-09-03_星期五.md",
+    "daily__/2021-09-02.md"
   ]
 }
