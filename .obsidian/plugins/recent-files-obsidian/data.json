@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "problem",
+      "path": "learn__/学习方法/problem.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
       "basename": "逻辑思维能力",
       "path": "learn__/学习方法/逻辑思维能力.md"
     },
     {
       "basename": "专注力",
       "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "上交大郑老师",
+      "path": "learn__/学习方法/上交大郑老师.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
     },
     {
       "basename": "第一章 物联网安全概述",
@@ -47,26 +71,6 @@
     {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
-    },
-    {
-      "basename": "上交大郑老师",
-      "path": "learn__/学习方法/上交大郑老师.md"
-    },
-    {
-      "basename": "tips",
-      "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
     },
     {
       "basename": "rkychi",
@@ -195,10 +199,6 @@
     {
       "basename": "如何快速学习一项新技能？ · 构建我的被动收入",
       "path": "paper__/Inbox/如何快速学习一项新技能？ · 构建我的被动收入.md"
-    },
-    {
-      "basename": "如何成为强气场的人 _对人际关系苦恼的话_",
-      "path": "paper__/Inbox/如何成为强气场的人 _对人际关系苦恼的话_.md"
     }
   ],
   "omittedPaths": [],

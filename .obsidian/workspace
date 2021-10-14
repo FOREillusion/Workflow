@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/逻辑思维能力.md",
+            "file": "learn__/学习方法/PDCA.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/逻辑思维能力.md",
+                "file": "learn__/学习方法/PDCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/逻辑思维能力.md"
+                "file": "learn__/学习方法/PDCA.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "2ab6de64643ccc0f",
   "lastOpenFiles": [
+    "learn__/学习方法/PDCA.md",
+    "learn__/学习方法/problem.md",
+    "learn__/学习方法/tips.md",
     "learn__/学习方法/逻辑思维能力.md",
     "learn__/学习方法/专注力.md",
+    "learn__/学习方法/上交大郑老师.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/Mathlearning.md",
     "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md",
-    "daily__/2021-10-12_星期二.md",
-    "daily__/2021-10-13_星期三.md",
-    "Recording 20210902162336.webm",
-    "write__/mygraduatedpaper.md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "Templates/读书笔记模板.md"
+    "daily__/2021-10-12_星期二.md"
   ]
 }
