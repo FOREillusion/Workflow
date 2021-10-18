@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Recording 20210902162336",
+      "path": "Recording 20210902162336.webm"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2021-10-15_星期五",
       "path": "daily__/2021-10-15_星期五.md"
     },
@@ -78,23 +86,23 @@
     },
     {
       "basename": "45岁如何思考职业生涯后半程？",
-      "path": "paper__/Inbox/45岁如何思考职业生涯后半程？.md"
+      "path": "Inbox/45岁如何思考职业生涯后半程？.md"
     },
     {
       "basename": "25岁做什么，可在 5年后受益匪浅？",
-      "path": "paper__/Inbox/25岁做什么，可在 5年后受益匪浅？.md"
+      "path": "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
     },
     {
       "basename": "(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客",
-      "path": "paper__/Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md"
+      "path": "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md"
     },
     {
       "basename": "_iframe src=_http___player.bilibili.com_player.htm",
-      "path": "paper__/Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
+      "path": "Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
     },
     {
       "basename": "(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS",
-      "path": "paper__/Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
+      "path": "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
     },
     {
       "basename": "PDCA",
@@ -149,10 +157,6 @@
       "path": "daily__/2021-10-13_星期三.md"
     },
     {
-      "basename": "Recording 20210902162336",
-      "path": "Recording 20210902162336.webm"
-    },
-    {
       "basename": "mygraduatedpaper",
       "path": "write__/mygraduatedpaper.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "软件设计师复习策略",
       "path": "learn__/软件设计师/软件设计师复习策略.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "完型填空",
-      "path": "learn__/英语/完型填空.md"
     }
   ],
   "omittedPaths": [],
