@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "李沐",
+      "path": "learn__/经验帖/李沐.md"
+    },
+    {
       "basename": "前额页",
       "path": "learn__/学习方法/前额页.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "清华大佬经验",
       "path": "learn__/经验帖/清华大佬经验.md"
-    },
-    {
-      "basename": "2019版大纲",
-      "path": "learn__/软件设计师/2019版大纲.md"
     }
   ],
   "omittedPaths": [],

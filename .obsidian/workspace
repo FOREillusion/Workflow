@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/前额页.md",
+            "file": "learn__/经验帖/李沐.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/前额页.md",
+                "file": "learn__/经验帖/李沐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/前额页.md"
+                "file": "learn__/经验帖/李沐.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "learn__/经验帖/李沐.md",
     "learn__/学习方法/前额页.md",
     "daily__/2021-10-23_星期六.md",
     "Recording 20210902162336.webm",
@@ -163,7 +164,6 @@
     "daily__/2021-10-15_星期五.md",
     "learn__/英语/唐迟阅读.md",
     "daily__/2021-09-30_星期四.md",
-    "daily__/2021-09-28_星期二.md",
-    "daily__/2021-09-27_星期一.md"
+    "daily__/2021-09-28_星期二.md"
   ]
 }
