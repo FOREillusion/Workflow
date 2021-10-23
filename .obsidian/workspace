@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Growth/ADHD克服.md",
+            "file": "paper__/graduated/static.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md",
+                "file": "paper__/graduated/static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md"
+                "file": "paper__/graduated/static.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/Growth/ADHD克服.md",
-    "learn__/学习方法/日程管理.md",
-    "learn__/经验帖/李沐.md",
-    "learn__/学习方法/前额页.md",
-    "daily__/2021-10-23_星期六.md",
-    "Recording 20210902162336.webm",
-    "公式.md",
-    "README.md",
-    "daily__/2021-10-15_星期五.md",
-    "learn__/英语/唐迟阅读.md"
+    "paper__/graduated/static.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/tips.md",
+    "learn__/学习方法/PDCA.md",
+    "learn__/Society/房价神贴.md",
+    "learn__/408/操作系统/OS-Study-Note/5-内存.md",
+    "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md",
+    "learn__/408/操作系统/OS-Study-Note/2-硬件结构.md",
+    "learn__/Growth/ADHD克服.md"
   ]
 }

@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "static",
+      "path": "paper__/graduated/static.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "房价神贴",
+      "path": "learn__/Society/房价神贴.md"
+    },
+    {
+      "basename": "5-内存",
+      "path": "learn__/408/操作系统/OS-Study-Note/5-内存.md"
+    },
+    {
+      "basename": "3-中断异常与系统调用",
+      "path": "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
+    },
+    {
+      "basename": "2-硬件结构",
+      "path": "learn__/408/操作系统/OS-Study-Note/2-硬件结构.md"
+    },
+    {
       "basename": "ADHD克服",
       "path": "learn__/Growth/ADHD克服.md"
     },
@@ -101,10 +137,6 @@
       "path": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md"
     },
     {
-      "basename": "static",
-      "path": "paper__/graduated/static.md"
-    },
-    {
       "basename": "45岁如何思考职业生涯后半程？",
       "path": "Inbox/45岁如何思考职业生涯后半程？.md"
     },
@@ -125,18 +157,6 @@
       "path": "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
     },
     {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
-    },
-    {
       "basename": "雅思经验分享",
       "path": "learn__/雅思/雅思经验分享.md"
     },
@@ -147,10 +167,6 @@
     {
       "basename": "problem",
       "path": "learn__/学习方法/problem.md"
-    },
-    {
-      "basename": "tips",
-      "path": "learn__/学习方法/tips.md"
     },
     {
       "basename": "逻辑思维能力",
@@ -183,22 +199,6 @@
     {
       "basename": "周-2021年第39周复盘 ",
       "path": "WeeklyReview/周-2021年第39周复盘 .md"
-    },
-    {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "读书笔记模板",
-      "path": "Templates/读书笔记模板.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "learn__/英语/技巧.md"
-    },
-    {
-      "basename": "翻译",
-      "path": "learn__/英语/翻译.md"
     }
   ],
   "omittedPaths": [],
