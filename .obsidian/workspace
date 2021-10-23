@@ -7,9 +7,10 @@
         "id": "5dbbff9919ea6a2e",
         "type": "leaf",
         "state": {
-          "type": "video",
+          "type": "markdown",
           "state": {
-            "file": "Recording 20210902162336.webm"
+            "file": "daily__/2021-10-23_星期六.md",
+            "mode": "source"
           }
         }
       }
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording 20210902162336.webm",
+                "file": "daily__/2021-10-23_星期六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording 20210902162336.webm"
+                "file": "daily__/2021-10-23_星期六.md"
               }
             }
           },
@@ -154,6 +155,7 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "daily__/2021-10-23_星期六.md",
     "Recording 20210902162336.webm",
     "公式.md",
     "README.md",
@@ -162,7 +164,6 @@
     "daily__/2021-09-30_星期四.md",
     "daily__/2021-09-28_星期二.md",
     "daily__/2021-09-27_星期一.md",
-    "daily__/2021-09-21_星期二.md",
-    "daily__/2021-09-20_星期一.md"
+    "daily__/2021-09-21_星期二.md"
   ]
 }
