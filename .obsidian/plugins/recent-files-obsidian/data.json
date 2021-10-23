@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ADHD克服",
+      "path": "learn__/Growth/ADHD克服.md"
+    },
+    {
+      "basename": "日程管理",
+      "path": "learn__/学习方法/日程管理.md"
+    },
+    {
       "basename": "李沐",
       "path": "learn__/经验帖/李沐.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
-    },
-    {
-      "basename": "rkychi",
-      "path": "learn__/idol/rkychi.md"
-    },
-    {
-      "basename": "清华大佬经验",
-      "path": "learn__/经验帖/清华大佬经验.md"
     }
   ],
   "omittedPaths": [],
