@@ -5,6 +5,10 @@
       "path": "learn__/CET-6/Listening.md"
     },
     {
+      "basename": "2021-10-24_星期日",
+      "path": "daily__/2021-10-24_星期日.md"
+    },
+    {
       "basename": "static",
       "path": "paper__/graduated/static.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-10-13_星期三",
       "path": "daily__/2021-10-13_星期三.md"
-    },
-    {
-      "basename": "mygraduatedpaper",
-      "path": "write__/mygraduatedpaper.md"
     }
   ],
   "omittedPaths": [],
