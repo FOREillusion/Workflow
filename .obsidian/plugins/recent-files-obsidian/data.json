@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Listening",
+      "path": "learn__/CET-6/Listening.md"
+    },
+    {
       "basename": "static",
       "path": "paper__/graduated/static.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mygraduatedpaper",
       "path": "write__/mygraduatedpaper.md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
     }
   ],
   "omittedPaths": [],
