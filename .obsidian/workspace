@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/CET-6/Listening.md",
+            "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/CET-6/Listening.md",
+                "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/CET-6/Listening.md"
+                "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
+    "Inbox/45岁如何思考职业生涯后半程？.md",
+    "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
+    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
     "learn__/CET-6/Listening.md",
     "daily__/2021-10-24_星期日.md",
     "paper__/graduated/static.md",
     "learn__/学习方法/Mathlearning.md",
     "learn__/学习方法/motivated.md",
-    "learn__/学习方法/tips.md",
-    "learn__/学习方法/PDCA.md",
-    "learn__/Society/房价神贴.md",
-    "learn__/408/操作系统/OS-Study-Note/5-内存.md",
-    "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
+    "learn__/学习方法/tips.md"
   ]
 }
