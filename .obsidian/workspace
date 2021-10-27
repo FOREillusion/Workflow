@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
-            "mode": "preview"
+            "file": "learn__/褪墨/我的时间管理道与术（三）.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
+                "file": "learn__/褪墨/我的时间管理道与术（三）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
+                "file": "learn__/褪墨/我的时间管理道与术（三）.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "learn__/褪墨/我的时间管理道与术（三）.md",
+    "learn__/褪墨/我的时间管理道与术（二）.md",
+    "learn__/褪墨/我的时间管理道与术（一）.md",
+    "learn__/褪墨/我的2011年考研经验分享.md",
+    "learn__/褪墨/如何节省75%的上网时间.md",
     "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
     "Inbox/45岁如何思考职业生涯后半程？.md",
     "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
     "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
-    "learn__/CET-6/Listening.md",
-    "daily__/2021-10-24_星期日.md",
-    "paper__/graduated/static.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/学习方法/motivated.md",
-    "learn__/学习方法/tips.md"
+    "learn__/CET-6/Listening.md"
   ]
 }
