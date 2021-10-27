@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/褪墨/低效能人士的七个坏习惯.md",
+            "file": "learn__/褪墨/《Getting Things Done》读书笔记.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/褪墨/低效能人士的七个坏习惯.md",
+                "file": "learn__/褪墨/《Getting Things Done》读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/褪墨/低效能人士的七个坏习惯.md"
+                "file": "learn__/褪墨/《Getting Things Done》读书笔记.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "learn__/褪墨/《Getting Things Done》读书笔记.md",
     "learn__/褪墨/低效能人士的七个坏习惯.md",
     "learn__/褪墨/什么是GTD.md",
     "learn__/褪墨/提高工作效率的十条好习惯.md",
@@ -163,7 +164,6 @@
     "learn__/褪墨/入门GTD时间管理系统必读.md",
     "learn__/褪墨/读懂自己，读懂他人之MBTI性格分析是什么.md",
     "learn__/褪墨/拖延心理学/如何提升你定时的能力.md",
-    "learn__/褪墨/拖延心理学/学会怎样判断时间.md",
-    "learn__/褪墨/拖延心理学/拖延与时间概念.md"
+    "learn__/褪墨/拖延心理学/学会怎样判断时间.md"
   ]
 }

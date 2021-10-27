@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "《Getting Things Done》读书笔记",
+      "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
+    },
+    {
       "basename": "低效能人士的七个坏习惯",
       "path": "learn__/褪墨/低效能人士的七个坏习惯.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-09-28_星期二",
       "path": "daily__/2021-09-28_星期二.md"
-    },
-    {
-      "basename": "2021-09-27_星期一",
-      "path": "daily__/2021-09-27_星期一.md"
     }
   ],
   "omittedPaths": [],
