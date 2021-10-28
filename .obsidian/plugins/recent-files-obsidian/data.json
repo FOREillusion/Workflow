@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "上交",
+      "path": "learn__/经验帖/上交.md"
+    },
+    {
+      "basename": "李沐",
+      "path": "learn__/经验帖/李沐.md"
+    },
+    {
       "basename": "《Getting Things Done》读书笔记",
       "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
     },
@@ -165,10 +173,6 @@
       "path": "learn__/学习方法/日程管理.md"
     },
     {
-      "basename": "李沐",
-      "path": "learn__/经验帖/李沐.md"
-    },
-    {
       "basename": "前额页",
       "path": "learn__/学习方法/前额页.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-09-30_星期四",
       "path": "daily__/2021-09-30_星期四.md"
-    },
-    {
-      "basename": "2021-09-28_星期二",
-      "path": "daily__/2021-09-28_星期二.md"
     }
   ],
   "omittedPaths": [],
