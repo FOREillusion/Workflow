@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "上交",
-      "path": "learn__/经验帖/上交.md"
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "周-2021年第40周复盘 ",
+      "path": "WeeklyReview/周-2021年第40周复盘 .md"
+    },
+    {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
+      "basename": "模板1",
+      "path": "Templates/Daily 模板/模板1.md"
+    },
+    {
+      "basename": "前额页",
+      "path": "learn__/学习方法/前额页.md"
+    },
+    {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "上交大郑老师",
+      "path": "learn__/学习方法/上交大郑老师.md"
+    },
+    {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "2021-04-19",
+      "path": "learn__/嵌入式实训/2021-04-19.md"
+    },
+    {
+      "basename": "第一章 物联网安全概述",
+      "path": "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md"
+    },
+    {
+      "basename": "清华大佬经验",
+      "path": "learn__/经验帖/清华大佬经验.md"
     },
     {
       "basename": "李沐",
       "path": "learn__/经验帖/李沐.md"
+    },
+    {
+      "basename": "上交",
+      "path": "learn__/经验帖/上交.md"
     },
     {
       "basename": "《Getting Things Done》读书笔记",
@@ -133,20 +189,8 @@
       "path": "paper__/graduated/static.md"
     },
     {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
       "basename": "tips",
       "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
     },
     {
       "basename": "房价神贴",
@@ -155,50 +199,6 @@
     {
       "basename": "5-内存",
       "path": "learn__/408/操作系统/OS-Study-Note/5-内存.md"
-    },
-    {
-      "basename": "3-中断异常与系统调用",
-      "path": "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
-    },
-    {
-      "basename": "2-硬件结构",
-      "path": "learn__/408/操作系统/OS-Study-Note/2-硬件结构.md"
-    },
-    {
-      "basename": "ADHD克服",
-      "path": "learn__/Growth/ADHD克服.md"
-    },
-    {
-      "basename": "日程管理",
-      "path": "learn__/学习方法/日程管理.md"
-    },
-    {
-      "basename": "前额页",
-      "path": "learn__/学习方法/前额页.md"
-    },
-    {
-      "basename": "2021-10-23_星期六",
-      "path": "daily__/2021-10-23_星期六.md"
-    },
-    {
-      "basename": "Recording 20210902162336",
-      "path": "Recording 20210902162336.webm"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "2021-10-15_星期五",
-      "path": "daily__/2021-10-15_星期五.md"
-    },
-    {
-      "basename": "唐迟阅读",
-      "path": "learn__/英语/唐迟阅读.md"
-    },
-    {
-      "basename": "2021-09-30_星期四",
-      "path": "daily__/2021-09-30_星期四.md"
     }
   ],
   "omittedPaths": [],

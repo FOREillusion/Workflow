@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/上交.md",
+            "file": "WeeklyReview/周-2021年第39周复盘 .md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/上交.md",
+                "file": "WeeklyReview/周-2021年第39周复盘 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/上交.md"
+                "file": "WeeklyReview/周-2021年第39周复盘 .md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/经验帖/上交.md",
-    "learn__/经验帖/李沐.md",
-    "learn__/褪墨/《Getting Things Done》读书笔记.md",
-    "learn__/褪墨/低效能人士的七个坏习惯.md",
-    "learn__/褪墨/什么是GTD.md",
-    "learn__/褪墨/提高工作效率的十条好习惯.md",
-    "learn__/褪墨/在人生方向感没那么强的时候，怎么更好地生活下去.md",
-    "learn__/褪墨/英语角——You've got to find what you love（你必须找到你所钟爱的）.md",
-    "learn__/褪墨/入门GTD时间管理系统必读.md",
-    "learn__/褪墨/读懂自己，读懂他人之MBTI性格分析是什么.md"
+    "WeeklyReview/周-2021年第39周复盘 .md",
+    "WeeklyReview/周-2021年第40周复盘 .md",
+    "Templates/读书笔记模板.md",
+    "Templates/周记模板.md",
+    "Templates/Daily 模板/模板1.md",
+    "learn__/学习方法/前额页.md",
+    "learn__/学习方法/专注力.md",
+    "learn__/学习方法/上交大郑老师.md",
+    "learn__/学习方法/PDCA.md",
+    "learn__/学习方法/motivated.md"
   ]
 }
