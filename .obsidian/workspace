@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/李沐.md",
+            "file": "learn__/英语/听力.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/李沐.md",
+                "file": "learn__/英语/听力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/李沐.md"
+                "file": "learn__/英语/听力.md"
               }
             }
           },
@@ -155,11 +155,11 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "learn__/英语/听力.md",
+    "learn__/英语/2021新增词汇.md",
     "learn__/经验帖/李沐.md",
     "learn__/经验帖/清华大佬经验.md",
     "learn__/经验帖/胡神.md",
-    "learn__/英语/2021新增词汇.md",
-    "learn__/英语/听力.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/完型填空.md",
     "learn__/英语/技巧.md",
