@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构",
+      "path": "learn__/408/数据结构/数据结构.pdf"
+    },
+    {
+      "basename": "数据结构",
+      "path": "learn__/408/数据结构/数据结构.png"
+    },
+    {
+      "basename": "数据结构",
+      "path": "learn__/408/数据结构/数据结构.md"
+    },
+    {
+      "basename": "第二章 进程的描述与控制",
+      "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png"
+    },
+    {
+      "basename": "第二章 进程的描述与控制",
+      "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
+    },
+    {
+      "basename": "aarch64异常向量表",
+      "path": "learn__/408/操作系统/OS-Study-Note/图片/aarch64异常向量表.png"
+    },
+    {
+      "basename": "aarch64中断处理",
+      "path": "learn__/408/操作系统/OS-Study-Note/图片/aarch64中断处理.png"
+    },
+    {
+      "basename": "AArch64中断分类",
+      "path": "learn__/408/操作系统/OS-Study-Note/图片/AArch64中断分类.png"
+    },
+    {
+      "basename": "4-操作系统内核架构",
+      "path": "learn__/408/操作系统/OS-Study-Note/4-操作系统内核架构.md"
+    },
+    {
+      "basename": "3-中断异常与系统调用",
+      "path": "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
+    },
+    {
+      "basename": "2-硬件结构",
+      "path": "learn__/408/操作系统/OS-Study-Note/2-硬件结构.md"
+    },
+    {
+      "basename": "第一章 操作系统引论",
+      "path": "learn__/408/操作系统/第一章 操作系统引论/第一章 操作系统引论.md"
+    },
+    {
       "basename": "mygraduatedpaper",
       "path": "write__/mygraduatedpaper.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "拖延与适应不良型完美主义",
       "path": "learn__/褪墨/拖延心理学/拖延与适应不良型完美主义.md"
-    },
-    {
-      "basename": "拖延与恐惧失败",
-      "path": "learn__/褪墨/拖延心理学/拖延与恐惧失败.md"
-    },
-    {
-      "basename": "认识拖延的怪圈",
-      "path": "learn__/褪墨/拖延心理学/认识拖延的怪圈.md"
-    },
-    {
-      "basename": "什么是重要的事情？",
-      "path": "learn__/褪墨/什么是重要的事情？.md"
-    },
-    {
-      "basename": "怎样开始冥想（下）",
-      "path": "learn__/褪墨/怎样开始冥想（下）.md"
-    },
-    {
-      "basename": "怎样开始冥想（上）",
-      "path": "learn__/褪墨/怎样开始冥想（上）.md"
-    },
-    {
-      "basename": "踏出舒适区让你更快成长",
-      "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
-    },
-    {
-      "basename": "我的时间管理道与术（三）",
-      "path": "learn__/褪墨/我的时间管理道与术（三）.md"
-    },
-    {
-      "basename": "我的时间管理道与术（二）",
-      "path": "learn__/褪墨/我的时间管理道与术（二）.md"
-    },
-    {
-      "basename": "我的时间管理道与术（一）",
-      "path": "learn__/褪墨/我的时间管理道与术（一）.md"
-    },
-    {
-      "basename": "我的2011年考研经验分享",
-      "path": "learn__/褪墨/我的2011年考研经验分享.md"
-    },
-    {
-      "basename": "如何节省75%的上网时间",
-      "path": "learn__/褪墨/如何节省75%的上网时间.md"
-    },
-    {
-      "basename": "25岁做什么，可在 5年后受益匪浅？",
-      "path": "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
     }
   ],
   "omittedPaths": [],

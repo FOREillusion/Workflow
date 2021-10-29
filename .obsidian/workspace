@@ -7,10 +7,9 @@
         "id": "5dbbff9919ea6a2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "write__/mygraduatedpaper.md",
-            "mode": "source"
+            "file": "learn__/408/数据结构/数据结构.pdf"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write__/mygraduatedpaper.md",
+                "file": "learn__/408/数据结构/数据结构.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "write__/mygraduatedpaper.md"
+                "file": "learn__/408/数据结构/数据结构.pdf"
               }
             }
           },
@@ -155,15 +154,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "write__/mygraduatedpaper.md",
-    "daily__/2021-10-29_星期五.md",
-    "daily__/2021-10-04_星期一.md",
-    "daily__/2021-10-06_星期三.md",
-    "daily__/2021-10-10_星期日.md",
-    "daily__/2021-10-15_星期五.md",
-    "daily__/2021-10-14_星期四.md",
-    "daily__/2021-10-13_星期三.md",
-    "daily__/2021-10-12_星期二.md",
-    "WeeklyReview/周-2021年第40周复盘 .md"
+    "learn__/408/数据结构/数据结构.pdf",
+    "learn__/408/数据结构/数据结构.png",
+    "learn__/408/数据结构/数据结构.md",
+    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png",
+    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
+    "learn__/408/操作系统/OS-Study-Note/图片/aarch64异常向量表.png",
+    "learn__/408/操作系统/OS-Study-Note/图片/aarch64中断处理.png",
+    "learn__/408/操作系统/OS-Study-Note/图片/AArch64中断分类.png",
+    "learn__/408/操作系统/OS-Study-Note/4-操作系统内核架构.md",
+    "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
   ]
 }
