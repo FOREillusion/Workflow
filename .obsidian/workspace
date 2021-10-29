@@ -7,9 +7,10 @@
         "id": "5dbbff9919ea6a2e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "learn__/408/数据结构/数据结构.png"
+            "file": "learn__/经验帖/李沐.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/数据结构/数据结构.png",
+                "file": "learn__/经验帖/李沐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/数据结构/数据结构.png"
+                "file": "learn__/经验帖/李沐.md"
               }
             }
           },
@@ -154,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/408/数据结构/数据结构.png",
-    "learn__/408/数据结构/数据结构.pdf",
-    "learn__/408/数据结构/数据结构.md",
-    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png",
-    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
-    "learn__/408/操作系统/OS-Study-Note/图片/aarch64异常向量表.png",
-    "learn__/408/操作系统/OS-Study-Note/图片/aarch64中断处理.png",
-    "learn__/408/操作系统/OS-Study-Note/图片/AArch64中断分类.png",
-    "learn__/408/操作系统/OS-Study-Note/4-操作系统内核架构.md",
-    "learn__/408/操作系统/OS-Study-Note/3-中断异常与系统调用.md"
+    "learn__/经验帖/李沐.md",
+    "learn__/经验帖/清华大佬经验.md",
+    "learn__/经验帖/胡神.md",
+    "learn__/英语/2021新增词汇.md",
+    "learn__/英语/听力.md",
+    "learn__/英语/唐迟阅读.md",
+    "learn__/英语/完型填空.md",
+    "learn__/英语/技巧.md",
+    "learn__/英语/核心单词.md",
+    "learn__/英语/翻译.md"
   ]
 }
