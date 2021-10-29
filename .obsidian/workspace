@@ -7,9 +7,9 @@
         "id": "5dbbff9919ea6a2e",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "image",
           "state": {
-            "file": "learn__/408/数据结构/数据结构.pdf"
+            "file": "learn__/408/数据结构/数据结构.png"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/数据结构/数据结构.pdf",
+                "file": "learn__/408/数据结构/数据结构.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/数据结构/数据结构.pdf"
+                "file": "learn__/408/数据结构/数据结构.png"
               }
             }
           },
@@ -154,8 +154,8 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/408/数据结构/数据结构.pdf",
     "learn__/408/数据结构/数据结构.png",
+    "learn__/408/数据结构/数据结构.pdf",
     "learn__/408/数据结构/数据结构.md",
     "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png",
     "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
