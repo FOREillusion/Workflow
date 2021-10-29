@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-10-29_星期五.md",
+            "file": "write__/mygraduatedpaper.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-10-29_星期五.md",
+                "file": "write__/mygraduatedpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-10-29_星期五.md"
+                "file": "write__/mygraduatedpaper.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "write__/mygraduatedpaper.md",
     "daily__/2021-10-29_星期五.md",
     "daily__/2021-10-04_星期一.md",
     "daily__/2021-10-06_星期三.md",
@@ -163,7 +164,6 @@
     "daily__/2021-10-14_星期四.md",
     "daily__/2021-10-13_星期三.md",
     "daily__/2021-10-12_星期二.md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "WeeklyReview/周-2021年第39周复盘 .md"
+    "WeeklyReview/周-2021年第40周复盘 .md"
   ]
 }
