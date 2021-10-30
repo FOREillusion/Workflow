@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/听力.md",
-            "mode": "preview"
+            "file": "WeeklyReview/周-2021年第40周复盘 .md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/听力.md",
+                "file": "WeeklyReview/周-2021年第40周复盘 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/听力.md"
+                "file": "WeeklyReview/周-2021年第40周复盘 .md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "WeeklyReview/周-2021年第40周复盘 .md",
+    "WeeklyReview/周-2021年第39周复盘 .md",
+    "daily__/2021-10-02_星期六.md",
+    "daily__/2021-10-30_星期六.md",
+    "daily__/2021-10-14_星期四.md",
+    "daily__/2021-10-29_星期五.md",
     "learn__/英语/听力.md",
     "learn__/英语/2021新增词汇.md",
     "learn__/经验帖/李沐.md",
-    "learn__/经验帖/清华大佬经验.md",
-    "learn__/经验帖/胡神.md",
-    "learn__/英语/唐迟阅读.md",
-    "learn__/英语/完型填空.md",
-    "learn__/英语/技巧.md",
-    "learn__/英语/核心单词.md",
-    "learn__/英语/翻译.md"
+    "learn__/经验帖/清华大佬经验.md"
   ]
 }
