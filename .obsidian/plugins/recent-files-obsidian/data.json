@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "6-进程",
+      "path": "learn__/408/OS-Study-Note/6-进程.md"
+    },
+    {
+      "basename": "5-内存",
+      "path": "learn__/408/OS-Study-Note/5-内存.md"
+    },
+    {
+      "basename": "4-操作系统内核架构",
+      "path": "learn__/408/OS-Study-Note/4-操作系统内核架构.md"
+    },
+    {
+      "basename": "3-中断异常与系统调用",
+      "path": "learn__/408/OS-Study-Note/3-中断异常与系统调用.md"
+    },
+    {
       "basename": "2021-10-30_星期六",
       "path": "daily__/2021-10-30_星期六.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "motivated",
       "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
-    },
-    {
-      "basename": "2021-04-19",
-      "path": "learn__/嵌入式实训/2021-04-19.md"
-    },
-    {
-      "basename": "第一章 物联网安全概述",
-      "path": "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md"
-    },
-    {
-      "basename": "上交",
-      "path": "learn__/经验帖/上交.md"
     }
   ],
   "omittedPaths": [],
