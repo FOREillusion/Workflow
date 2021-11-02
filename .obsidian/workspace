@@ -7,10 +7,9 @@
         "id": "5dbbff9919ea6a2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "learn__/408/OS-Study-Note/6-进程.md",
-            "mode": "source"
+            "file": "learn__/408/OS-Study-Note/图片/AArch64中断分类.png"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/OS-Study-Note/6-进程.md",
+                "file": "learn__/408/OS-Study-Note/图片/AArch64中断分类.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/OS-Study-Note/6-进程.md"
+                "file": "learn__/408/OS-Study-Note/图片/AArch64中断分类.png"
               }
             }
           },
@@ -133,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -155,15 +154,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/408/OS-Study-Note/6-进程.md",
+    "learn__/408/OS-Study-Note/图片/AArch64中断分类.png",
     "learn__/408/OS-Study-Note/5-内存.md",
     "learn__/408/OS-Study-Note/4-操作系统内核架构.md",
     "learn__/408/OS-Study-Note/3-中断异常与系统调用.md",
-    "daily__/2021-10-30_星期六.md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "daily__/2021-10-02_星期六.md",
-    "daily__/2021-10-14_星期四.md",
-    "daily__/2021-10-29_星期五.md"
+    "learn__/408/OS-Study-Note/7-调度.md",
+    "learn__/408/OS-Study-Note/8-进程间通信.md",
+    "learn__/408/OS-Study-Note/9-同步原语.md",
+    "learn__/408/OS-Study-Note/17-轻量级虚拟化.md",
+    "learn__/408/OS-Study-Note/README.md",
+    "learn__/408/OS-Study-Note/2-硬件结构.md"
   ]
 }
