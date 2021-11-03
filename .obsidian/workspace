@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/考研英语笔记2.md",
+            "file": "learn__/英语/阅读技巧.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/考研英语笔记2.md",
+                "file": "learn__/英语/阅读技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/考研英语笔记2.md"
+                "file": "learn__/英语/阅读技巧.md"
               }
             }
           },
@@ -155,8 +155,8 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "learn__/英语/考研英语笔记2.md",
     "learn__/英语/阅读技巧.md",
+    "learn__/英语/考研英语笔记2.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/听力.md",
     "learn__/英语/2021新增词汇.md",
