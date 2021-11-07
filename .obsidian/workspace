@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-11-04_星期四.md",
+            "file": "learn__/CET-6/Listening.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-11-04_星期四.md",
+                "file": "learn__/CET-6/Listening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-11-04_星期四.md"
+                "file": "learn__/CET-6/Listening.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
-    "daily__/2021-11-04_星期四.md",
-    "daily__/2021-11-03_星期三.md",
-    "learn__/英语/翻译.md",
-    "learn__/英语/考研英语笔记.md",
-    "learn__/英语/阅读技巧.md",
-    "learn__/英语/考研英语笔记2.md",
+    "learn__/CET-6/Listening.md",
+    "learn__/雅思/雅思经验分享.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/听力.md",
     "learn__/英语/2021新增词汇.md",
-    "learn__/graduate/浙大考研经验1.md"
+    "learn__/英语/考研英语笔记.md",
+    "learn__/英语/考研英语笔记2.md",
+    "learn__/英语/阅读技巧.md",
+    "daily__/2021-11-04_星期四.md",
+    "daily__/2021-11-03_星期三.md"
   ]
 }
