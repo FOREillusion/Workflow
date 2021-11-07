@@ -21,3 +21,6 @@
 ![[Pasted image 20211107151514.png]]
 
 For example 部分可省略
+
+![[Pasted image 20211107164429.png]]
+情感语义影响选项
