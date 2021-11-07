@@ -19,3 +19,5 @@
 ![[Pasted image 20211107145543.png]]
 
 ![[Pasted image 20211107151514.png]]
+
+For example 部分可省略
