@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5dbbff9919ea6a2e",
+        "id": "a3e2d1856c04af8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+            "file": "learn__/408/操作系统/王道操作系统笔记.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+                "file": "learn__/408/操作系统/王道操作系统笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
+                "file": "learn__/408/操作系统/王道操作系统笔记.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "5dbbff9919ea6a2e",
+  "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/408/操作系统/王道操作系统笔记.md",
+    "learn__/408/操作系统/计算机操作系统.md",
+    "learn__/408/操作系统/现代操作系统知识点总结.md",
+    "learn__/408/操作系统/未命名.md",
     "learn__/408/计算机组成原理/计算机组成原理笔记.md",
     "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
     "learn__/408/计算机组成原理/计算机组成.md",
     "learn__/408/数据结构/数据结构笔记.md",
-    "learn__/408/操作系统/王道操作系统笔记.md",
     "learn__/408/计算机网络/王道笔记计网.md",
-    "daily__/2021-11-08_星期一.md",
-    "learn__/CET-6/Listening.md",
-    "learn__/雅思/雅思经验分享.md",
-    "learn__/英语/唐迟阅读.md"
+    "daily__/2021-11-08_星期一.md"
   ]
 }
