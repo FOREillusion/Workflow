@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/操作系统/王道操作系统笔记.md",
-            "mode": "source"
+            "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/操作系统/王道操作系统笔记.md",
+                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/操作系统/王道操作系统笔记.md"
+                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -155,15 +155,15 @@
   },
   "active": "5dbbff9919ea6a2e",
   "lastOpenFiles": [
+    "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+    "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+    "learn__/408/计算机组成原理/计算机组成.md",
+    "learn__/408/数据结构/数据结构笔记.md",
     "learn__/408/操作系统/王道操作系统笔记.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "daily__/2021-11-08_星期一.md",
     "learn__/CET-6/Listening.md",
     "learn__/雅思/雅思经验分享.md",
-    "learn__/英语/唐迟阅读.md",
-    "learn__/英语/听力.md",
-    "learn__/英语/2021新增词汇.md",
-    "learn__/英语/考研英语笔记.md",
-    "learn__/英语/考研英语笔记2.md"
+    "learn__/英语/唐迟阅读.md"
   ]
 }
