@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "王道操作系统笔记",
+      "path": "learn__/408/操作系统/王道操作系统笔记.md"
+    },
+    {
+      "basename": "王道笔记计网",
+      "path": "learn__/408/计算机网络/王道笔记计网.md"
+    },
+    {
       "basename": "2021-11-08_星期一",
       "path": "daily__/2021-11-08_星期一.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "第二章 进程的描述与控制",
       "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png"
-    },
-    {
-      "basename": "第二章 进程的描述与控制",
-      "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
-    },
-    {
-      "basename": "aarch64异常向量表",
-      "path": "learn__/408/操作系统/OS-Study-Note/图片/aarch64异常向量表.png"
     }
   ],
   "omittedPaths": [],
