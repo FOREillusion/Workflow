@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "清华大佬经验",
+      "path": "learn__/经验帖/清华大佬经验.md"
+    },
+    {
+      "basename": "胡神",
+      "path": "learn__/经验帖/胡神.md"
+    },
+    {
       "basename": "2021新增词汇",
       "path": "learn__/英语/2021新增词汇.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2021-10-14_星期四",
       "path": "daily__/2021-10-14_星期四.md"
-    },
-    {
-      "basename": "2021-10-29_星期五",
-      "path": "daily__/2021-10-29_星期五.md"
-    },
-    {
-      "basename": "李沐",
-      "path": "learn__/经验帖/李沐.md"
     }
   ],
   "omittedPaths": [],
