@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "rkychi",
+      "path": "learn__/idol/rkychi.md"
+    },
+    {
+      "basename": "ADHD克服",
+      "path": "learn__/Growth/ADHD克服.md"
+    },
+    {
       "basename": "Listening",
       "path": "learn__/CET-6/Listening.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20210721145053",
       "path": "resources__/Pasted image 20210721145053.png"
-    },
-    {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "2021-11-04_星期四",
-      "path": "daily__/2021-11-04_星期四.md"
     }
   ],
   "omittedPaths": [],
