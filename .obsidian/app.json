@@ -2,5 +2,6 @@
   "obsidianCss": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "newLinkFormat": "relative"
 }

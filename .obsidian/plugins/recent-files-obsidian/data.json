@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Listening",
+      "path": "learn__/CET-6/Listening.md"
+    },
+    {
+      "basename": "房价神贴",
+      "path": "learn__/Society/房价神贴.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "problem",
+      "path": "learn__/学习方法/problem.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "日程管理",
+      "path": "learn__/学习方法/日程管理.md"
+    },
+    {
+      "basename": "逻辑思维能力",
+      "path": "learn__/学习方法/逻辑思维能力.md"
+    },
+    {
+      "basename": "绪论",
+      "path": "learn__/毕业论文/绪论.md"
+    },
+    {
+      "basename": "清华大佬经验",
+      "path": "learn__/经验帖/清华大佬经验.md"
+    },
+    {
+      "basename": "胡神",
+      "path": "learn__/经验帖/胡神.md"
+    },
+    {
+      "basename": "Pasted image 20210719204943",
+      "path": "resources__/Pasted image 20210719204943.png"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "Pasted image 20211024085311",
+      "path": "Pasted image 20211024085311.png"
+    },
+    {
       "basename": "Pasted image 20211107143311",
       "path": "Pasted image 20211107143311.png"
     },
@@ -39,10 +99,6 @@
     {
       "basename": "Pasted image 20211107144449",
       "path": "Pasted image 20211107144449.png"
-    },
-    {
-      "basename": "Pasted image 20211024085311",
-      "path": "Pasted image 20211024085311.png"
     },
     {
       "basename": "Pasted image 20211024085229",
@@ -101,10 +157,6 @@
       "path": "Templates/Daily 模板/模板1.md"
     },
     {
-      "basename": "Pasted image 20210719204943",
-      "path": "resources__/Pasted image 20210719204943.png"
-    },
-    {
       "basename": "Pasted image 20210721165137",
       "path": "resources__/Pasted image 20210721165137.png"
     },
@@ -145,60 +197,8 @@
       "path": "WeeklyReview/周-2021年第40周复盘 .md"
     },
     {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
-    },
-    {
-      "basename": "房价神贴",
-      "path": "learn__/Society/房价神贴.md"
-    },
-    {
-      "basename": "Listening",
-      "path": "learn__/CET-6/Listening.md"
-    },
-    {
       "basename": "2021-11-04_星期四",
       "path": "daily__/2021-11-04_星期四.md"
-    },
-    {
-      "basename": "2021-11-08_星期一",
-      "path": "daily__/2021-11-08_星期一.md"
-    },
-    {
-      "basename": "2021-11-13_星期六",
-      "path": "daily__/2021-11-13_星期六.md"
-    },
-    {
-      "basename": "2021-11-12_星期五",
-      "path": "daily__/2021-11-12_星期五.md"
-    },
-    {
-      "basename": "王道笔记计网",
-      "path": "learn__/408/计算机网络/王道笔记计网.md"
-    },
-    {
-      "basename": "清华大佬经验",
-      "path": "learn__/经验帖/清华大佬经验.md"
-    },
-    {
-      "basename": "胡神",
-      "path": "learn__/经验帖/胡神.md"
-    },
-    {
-      "basename": "2021新增词汇",
-      "path": "learn__/英语/2021新增词汇.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "唐迟阅读",
-      "path": "learn__/英语/唐迟阅读.md"
-    },
-    {
-      "basename": "完型填空",
-      "path": "learn__/英语/完型填空.md"
     }
   ],
   "omittedPaths": [],

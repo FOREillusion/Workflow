@@ -7,9 +7,10 @@
         "id": "a3e2d1856c04af8e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20211107143311.png"
+            "file": "learn__/CET-6/Listening.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20211107143311.png",
+                "file": "learn__/CET-6/Listening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20211107143311.png"
+                "file": "learn__/CET-6/Listening.md"
               }
             }
           },
@@ -154,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
-    "Pasted image 20211107143311.png",
-    "Pasted image 20211107143826.png",
-    "Pasted image 20211107144601.png",
-    "Recording 20210902162336.webm",
-    "Pasted image 20211107151514.png",
-    "Pasted image 20211024085157.png",
-    "Pasted image 20211107143604.png",
-    "Pasted image 20211107164429.png",
-    "Pasted image 20211107145543.png",
-    "Pasted image 20211107144449.png"
+    "learn__/CET-6/Listening.md",
+    "learn__/Society/房价神贴.md",
+    "learn__/学习方法/tips.md",
+    "learn__/学习方法/problem.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/学习方法/专注力.md",
+    "learn__/学习方法/日程管理.md",
+    "learn__/学习方法/逻辑思维能力.md",
+    "learn__/毕业论文/绪论.md"
   ]
 }

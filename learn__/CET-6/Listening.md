@@ -27,3 +27,7 @@ For example 部分可省略
 
 三个负面一个正面选选正面
 区分态度
+
+
+
+![image-20211114133114486](Listening-photo/image-20211114133114486.png)
