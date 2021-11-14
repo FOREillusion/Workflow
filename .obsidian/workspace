@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/idol/rkychi.md",
-            "mode": "preview"
+            "file": "learn__/英语/作文1.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/idol/rkychi.md",
+                "file": "learn__/英语/作文1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/idol/rkychi.md"
+                "file": "learn__/英语/作文1.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/英语/作文1.md",
     "learn__/idol/rkychi.md",
     "learn__/Growth/ADHD克服.md",
     "learn__/CET-6/Listening.md",
@@ -163,7 +164,6 @@
     "learn__/学习方法/problem.md",
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/Mathlearning.md",
-    "learn__/学习方法/专注力.md",
-    "learn__/学习方法/日程管理.md"
+    "learn__/学习方法/专注力.md"
   ]
 }
