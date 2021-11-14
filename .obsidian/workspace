@@ -7,10 +7,9 @@
         "id": "a3e2d1856c04af8e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "learn__/褪墨/我的2011年考研经验分享.md",
-            "mode": "source"
+            "file": "Pasted image 20211107143311.png"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/褪墨/我的2011年考研经验分享.md",
+                "file": "Pasted image 20211107143311.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/褪墨/我的2011年考研经验分享.md"
+                "file": "Pasted image 20211107143311.png"
               }
             }
           },
@@ -155,15 +154,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
-    "learn__/褪墨/我的2011年考研经验分享.md",
-    "learn__/褪墨/怎样开始冥想（上）.md",
-    "learn__/褪墨/如何节省75%的上网时间.md",
-    "learn__/褪墨/什么是GTD.md",
-    "learn__/褪墨/《Getting Things Done》读书笔记.md",
-    "learn__/软件设计师/2019版大纲.md",
-    "learn__/软件设计师/软件设计师复习策略.md",
-    "learn__/雅思/雅思经验分享.md",
-    "paper__/graduated/static.md",
-    "Templates/读书笔记模板.md"
+    "Pasted image 20211107143311.png",
+    "Pasted image 20211107143826.png",
+    "Pasted image 20211107144601.png",
+    "Recording 20210902162336.webm",
+    "Pasted image 20211107151514.png",
+    "Pasted image 20211024085157.png",
+    "Pasted image 20211107143604.png",
+    "Pasted image 20211107164429.png",
+    "Pasted image 20211107145543.png",
+    "Pasted image 20211107144449.png"
   ]
 }
