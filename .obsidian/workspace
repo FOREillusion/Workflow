@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-11-13_星期六.md",
-            "mode": "source"
+            "file": "learn__/Society/房价神贴.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-11-13_星期六.md",
+                "file": "learn__/Society/房价神贴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-11-13_星期六.md"
+                "file": "learn__/Society/房价神贴.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/Society/房价神贴.md",
+    "learn__/CET-6/Listening.md",
+    "daily__/2021-11-04_星期四.md",
+    "daily__/2021-11-08_星期一.md",
     "daily__/2021-11-13_星期六.md",
     "daily__/2021-11-12_星期五.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/经验帖/清华大佬经验.md",
     "learn__/经验帖/胡神.md",
-    "learn__/英语/2021新增词汇.md",
-    "learn__/英语/听力.md",
-    "learn__/英语/唐迟阅读.md",
-    "learn__/英语/完型填空.md",
-    "learn__/英语/技巧.md"
+    "learn__/英语/2021新增词汇.md"
   ]
 }
