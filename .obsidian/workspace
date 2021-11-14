@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/作文1.md",
-            "mode": "source"
+            "file": "learn__/英语/2021新增词汇.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/作文1.md",
+                "file": "learn__/英语/2021新增词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/作文1.md"
+                "file": "learn__/英语/2021新增词汇.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/英语/2021新增词汇.md",
     "learn__/英语/作文1.md",
-    "learn__/idol/rkychi.md",
-    "learn__/Growth/ADHD克服.md",
-    "learn__/CET-6/Listening.md",
-    "learn__/Society/房价神贴.md",
-    "learn__/学习方法/tips.md",
-    "learn__/学习方法/problem.md",
-    "learn__/学习方法/motivated.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/学习方法/专注力.md"
+    "learn__/英语/听力.md",
+    "learn__/英语/唐迟阅读.md",
+    "learn__/英语/技巧.md",
+    "learn__/英语/阅读技巧.md",
+    "learn__/英语/核心单词.md",
+    "learn__/英语/考研英语笔记.md",
+    "learn__/英语/考研英语笔记2.md",
+    "learn__/idol/rkychi.md"
   ]
 }
