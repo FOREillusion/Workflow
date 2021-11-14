@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "我的2011年考研经验分享",
+      "path": "learn__/褪墨/我的2011年考研经验分享.md"
+    },
+    {
+      "basename": "怎样开始冥想（上）",
+      "path": "learn__/褪墨/怎样开始冥想（上）.md"
+    },
+    {
+      "basename": "如何节省75%的上网时间",
+      "path": "learn__/褪墨/如何节省75%的上网时间.md"
+    },
+    {
+      "basename": "什么是GTD",
+      "path": "learn__/褪墨/什么是GTD.md"
+    },
+    {
+      "basename": "《Getting Things Done》读书笔记",
+      "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
+    },
+    {
+      "basename": "2019版大纲",
+      "path": "learn__/软件设计师/2019版大纲.md"
+    },
+    {
+      "basename": "软件设计师复习策略",
+      "path": "learn__/软件设计师/软件设计师复习策略.md"
+    },
+    {
+      "basename": "雅思经验分享",
+      "path": "learn__/雅思/雅思经验分享.md"
+    },
+    {
+      "basename": "static",
+      "path": "paper__/graduated/static.md"
+    },
+    {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
+      "basename": "模板1",
+      "path": "Templates/Daily 模板/模板1.md"
+    },
+    {
+      "basename": "Pasted image 20210719204943",
+      "path": "resources__/Pasted image 20210719204943.png"
+    },
+    {
+      "basename": "Pasted image 20210721165137",
+      "path": "resources__/Pasted image 20210721165137.png"
+    },
+    {
+      "basename": "Pasted image 20210721164016",
+      "path": "resources__/Pasted image 20210721164016.png"
+    },
+    {
+      "basename": "Pasted image 20210721153000",
+      "path": "resources__/Pasted image 20210721153000.png"
+    },
+    {
+      "basename": "Pasted image 20210721152159",
+      "path": "resources__/Pasted image 20210721152159.png"
+    },
+    {
+      "basename": "Pasted image 20210721151242",
+      "path": "resources__/Pasted image 20210721151242.png"
+    },
+    {
+      "basename": "Pasted image 20210721152047",
+      "path": "resources__/Pasted image 20210721152047.png"
+    },
+    {
+      "basename": "Pasted image 20210721150934",
+      "path": "resources__/Pasted image 20210721150934.png"
+    },
+    {
+      "basename": "Pasted image 20210721150023",
+      "path": "resources__/Pasted image 20210721150023.png"
+    },
+    {
+      "basename": "Pasted image 20210721145053",
+      "path": "resources__/Pasted image 20210721145053.png"
+    },
+    {
+      "basename": "周-2021年第40周复盘 ",
+      "path": "WeeklyReview/周-2021年第40周复盘 .md"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
       "basename": "房价神贴",
       "path": "learn__/Society/房价神贴.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "数据结构笔记",
       "path": "learn__/408/数据结构/数据结构笔记.md"
-    },
-    {
-      "basename": "雅思经验分享",
-      "path": "learn__/雅思/雅思经验分享.md"
-    },
-    {
-      "basename": "2021-11-03_星期三",
-      "path": "daily__/2021-11-03_星期三.md"
-    },
-    {
-      "basename": "浙大考研经验1",
-      "path": "learn__/graduate/浙大考研经验1.md"
-    },
-    {
-      "basename": "浙大考研经验3",
-      "path": "learn__/graduate/浙大考研经验3.md"
-    },
-    {
-      "basename": "浙大考研经验2",
-      "path": "learn__/graduate/浙大考研经验2.md"
-    },
-    {
-      "basename": "AArch64中断分类",
-      "path": "learn__/408/OS-Study-Note/图片/AArch64中断分类.png"
-    },
-    {
-      "basename": "5-内存",
-      "path": "learn__/408/OS-Study-Note/5-内存.md"
-    },
-    {
-      "basename": "4-操作系统内核架构",
-      "path": "learn__/408/OS-Study-Note/4-操作系统内核架构.md"
-    },
-    {
-      "basename": "3-中断异常与系统调用",
-      "path": "learn__/408/OS-Study-Note/3-中断异常与系统调用.md"
-    },
-    {
-      "basename": "7-调度",
-      "path": "learn__/408/OS-Study-Note/7-调度.md"
-    },
-    {
-      "basename": "8-进程间通信",
-      "path": "learn__/408/OS-Study-Note/8-进程间通信.md"
-    },
-    {
-      "basename": "9-同步原语",
-      "path": "learn__/408/OS-Study-Note/9-同步原语.md"
-    },
-    {
-      "basename": "17-轻量级虚拟化",
-      "path": "learn__/408/OS-Study-Note/17-轻量级虚拟化.md"
-    },
-    {
-      "basename": "README",
-      "path": "learn__/408/OS-Study-Note/README.md"
-    },
-    {
-      "basename": "2-硬件结构",
-      "path": "learn__/408/OS-Study-Note/2-硬件结构.md"
-    },
-    {
-      "basename": "ARMv8.1",
-      "path": "learn__/408/OS-Study-Note/图片/ARMv8.1.png"
-    },
-    {
-      "basename": "AMD SEV",
-      "path": "learn__/408/OS-Study-Note/图片/AMD SEV.png"
-    },
-    {
-      "basename": "AARCH64的4级页表地址翻译",
-      "path": "learn__/408/OS-Study-Note/图片/AARCH64的4级页表地址翻译.png"
-    },
-    {
-      "basename": "AARCH64的4级页表",
-      "path": "learn__/408/OS-Study-Note/图片/AARCH64的4级页表.png"
-    },
-    {
-      "basename": "aarch64异常向量表",
-      "path": "learn__/408/OS-Study-Note/图片/aarch64异常向量表.png"
-    },
-    {
-      "basename": "aarch64中断处理",
-      "path": "learn__/408/OS-Study-Note/图片/aarch64中断处理.png"
-    },
-    {
-      "basename": "6-进程",
-      "path": "learn__/408/OS-Study-Note/6-进程.md"
-    },
-    {
-      "basename": "2021-10-30_星期六",
-      "path": "daily__/2021-10-30_星期六.md"
-    },
-    {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
     }
   ],
   "omittedPaths": [],

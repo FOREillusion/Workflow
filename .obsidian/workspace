@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Society/房价神贴.md",
-            "mode": "preview"
+            "file": "learn__/褪墨/我的2011年考研经验分享.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Society/房价神贴.md",
+                "file": "learn__/褪墨/我的2011年考研经验分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Society/房价神贴.md"
+                "file": "learn__/褪墨/我的2011年考研经验分享.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
-    "learn__/Society/房价神贴.md",
-    "learn__/CET-6/Listening.md",
-    "daily__/2021-11-04_星期四.md",
-    "daily__/2021-11-08_星期一.md",
-    "daily__/2021-11-13_星期六.md",
-    "daily__/2021-11-12_星期五.md",
-    "learn__/408/计算机网络/王道笔记计网.md",
-    "learn__/经验帖/清华大佬经验.md",
-    "learn__/经验帖/胡神.md",
-    "learn__/英语/2021新增词汇.md"
+    "learn__/褪墨/我的2011年考研经验分享.md",
+    "learn__/褪墨/怎样开始冥想（上）.md",
+    "learn__/褪墨/如何节省75%的上网时间.md",
+    "learn__/褪墨/什么是GTD.md",
+    "learn__/褪墨/《Getting Things Done》读书笔记.md",
+    "learn__/软件设计师/2019版大纲.md",
+    "learn__/软件设计师/软件设计师复习策略.md",
+    "learn__/雅思/雅思经验分享.md",
+    "paper__/graduated/static.md",
+    "Templates/读书笔记模板.md"
   ]
 }
