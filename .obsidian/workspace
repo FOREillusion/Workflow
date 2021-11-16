@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md",
+            "file": "learn__/408/操作系统/王道操作系统笔记.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md",
+                "file": "learn__/408/操作系统/王道操作系统笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md"
+                "file": "learn__/408/操作系统/王道操作系统笔记.md"
               }
             }
           },
@@ -155,11 +155,11 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/408/操作系统/王道操作系统笔记.md",
     "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md",
     "learn__/408/操作系统/第六章 输入输出系统/第六章 输入输出系统.md",
     "learn__/408/操作系统/计算机操作系统.md",
     "learn__/408/操作系统/现代操作系统知识点总结.md",
-    "learn__/408/操作系统/王道操作系统笔记.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/技巧.md",
     "learn__/英语/2021新增词汇.md",
