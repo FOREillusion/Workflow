@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "王道操作系统笔记",
+      "path": "learn__/408/操作系统/王道操作系统笔记.md"
+    },
+    {
+      "basename": "计算机操作系统",
+      "path": "learn__/408/操作系统/计算机操作系统.md"
+    },
+    {
+      "basename": "现代操作系统知识点总结",
+      "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
+    },
+    {
       "basename": "唐迟阅读",
       "path": "learn__/英语/唐迟阅读.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "static",
       "path": "paper__/graduated/static.md"
-    },
-    {
-      "basename": "读书笔记模板",
-      "path": "Templates/读书笔记模板.md"
-    },
-    {
-      "basename": "周记模板",
-      "path": "Templates/周记模板.md"
-    },
-    {
-      "basename": "模板1",
-      "path": "Templates/Daily 模板/模板1.md"
     }
   ],
   "omittedPaths": [],
