@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "王道操作系统笔记",
-      "path": "learn__/408/操作系统/王道操作系统笔记.md"
+      "basename": "第五章 虚拟存储器",
+      "path": "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md"
+    },
+    {
+      "basename": "第六章 输入输出系统",
+      "path": "learn__/408/操作系统/第六章 输入输出系统/第六章 输入输出系统.md"
     },
     {
       "basename": "计算机操作系统",
@@ -11,6 +15,10 @@
     {
       "basename": "现代操作系统知识点总结",
       "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
+    },
+    {
+      "basename": "王道操作系统笔记",
+      "path": "learn__/408/操作系统/王道操作系统笔记.md"
     },
     {
       "basename": "唐迟阅读",
@@ -191,14 +199,6 @@
     {
       "basename": "软件设计师复习策略",
       "path": "learn__/软件设计师/软件设计师复习策略.md"
-    },
-    {
-      "basename": "雅思经验分享",
-      "path": "learn__/雅思/雅思经验分享.md"
-    },
-    {
-      "basename": "static",
-      "path": "paper__/graduated/static.md"
     }
   ],
   "omittedPaths": [],
