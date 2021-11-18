@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "王道笔记计网",
+      "path": "learn__/408/计算机网络/王道笔记计网.md"
+    },
+    {
       "basename": "王道操作系统笔记",
       "path": "learn__/408/操作系统/王道操作系统笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2019版大纲",
       "path": "learn__/软件设计师/2019版大纲.md"
-    },
-    {
-      "basename": "软件设计师复习策略",
-      "path": "learn__/软件设计师/软件设计师复习策略.md"
     }
   ],
   "omittedPaths": [],
