@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md",
-            "mode": "source"
+            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md",
+                "file": "learn__/408/计算机网络/王道笔记计网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md"
+                "file": "learn__/408/计算机网络/王道笔记计网.md"
               }
             }
           },
@@ -155,10 +155,10 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/408/计算机网络/王道笔记计网.md",
+    "learn__/408/计算机网络/README.md",
     "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md",
     "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.png",
-    "learn__/408/计算机网络/README.md",
-    "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
     "daily__/2021-11-19_星期五.md",
     "learn__/408/操作系统/王道操作系统笔记.md",
