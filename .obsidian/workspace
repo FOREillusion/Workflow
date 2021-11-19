@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "file": "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md",
+                "file": "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md"
+                "file": "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md",
+    "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md",
+    "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
+    "learn__/Growth/ADHD克服.md",
+    "learn__/idol/rkychi.md",
+    "learn__/Society/房价神贴.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/408/计算机网络/README.md",
-    "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.md",
     "learn__/408/计算机网络/第 2 章  物理层/第 2 章  物理层.png",
-    "learn__/408/计算机网络/第 6 章  应用层/第 6 章  应用层.md",
-    "daily__/2021-11-19_星期五.md",
-    "learn__/408/操作系统/王道操作系统笔记.md",
-    "learn__/408/操作系统/第五章 虚拟存储器/第五章 虚拟存储器.md",
-    "learn__/408/操作系统/第六章 输入输出系统/第六章 输入输出系统.md",
-    "learn__/408/操作系统/计算机操作系统.md"
+    "daily__/2021-11-19_星期五.md"
   ]
 }
