@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "英语作文模板",
+      "path": "learn__/英语/英语作文模板.md"
+    },
+    {
+      "basename": "作文1",
+      "path": "learn__/英语/作文1.md"
+    },
+    {
       "basename": "背书",
       "path": "learn__/学习方法/背书.md"
     },
@@ -121,10 +129,6 @@
       "path": "learn__/英语/2021新增词汇.md"
     },
     {
-      "basename": "作文1",
-      "path": "learn__/英语/作文1.md"
-    },
-    {
       "basename": "听力",
       "path": "learn__/英语/听力.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20211024085311",
       "path": "Pasted image 20211024085311.png"
-    },
-    {
-      "basename": "Pasted image 20211107143311",
-      "path": "Pasted image 20211107143311.png"
     }
   ],
   "omittedPaths": [],
