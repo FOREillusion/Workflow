@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "背书",
+      "path": "learn__/学习方法/背书.md"
+    },
+    {
       "basename": "浙大",
       "path": "learn__/经验帖/浙大.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20211107143311",
       "path": "Pasted image 20211107143311.png"
-    },
-    {
-      "basename": "Pasted image 20211107143826",
-      "path": "Pasted image 20211107143826.png"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/浙大.md",
+            "file": "learn__/学习方法/背书.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/浙大.md",
+                "file": "learn__/学习方法/背书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/浙大.md"
+                "file": "learn__/学习方法/背书.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "learn__/学习方法/背书.md",
     "learn__/经验帖/浙大.md",
     "learn__/经验帖/清华大佬经验.md",
     "learn__/经验帖/李沐.md",
@@ -163,7 +164,6 @@
     "Pasted image 20211107164429.png",
     "Pasted image 20211107151514.png",
     "Pasted image 20211107144449.png",
-    "Pasted image 20211024085229.png",
-    "Pasted image 20211024085157.png"
+    "Pasted image 20211024085229.png"
   ]
 }
