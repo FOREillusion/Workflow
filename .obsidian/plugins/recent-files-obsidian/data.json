@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "英语问题模板",
+      "path": "learn__/英语/英语问题模板.md"
+    },
+    {
       "basename": "第 3 章  数据链路层",
       "path": "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20211024085229",
       "path": "Pasted image 20211024085229.png"
-    },
-    {
-      "basename": "Pasted image 20211024085210",
-      "path": "Pasted image 20211024085210.png"
     }
   ],
   "omittedPaths": [],
