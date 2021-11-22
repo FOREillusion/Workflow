@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "file": "daily__/2021-11-22_星期一.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md",
+                "file": "daily__/2021-11-22_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md"
+                "file": "daily__/2021-11-22_星期一.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -155,15 +155,15 @@
   },
   "active": "a3e2d1856c04af8e",
   "lastOpenFiles": [
+    "daily__/2021-11-22_星期一.md",
+    "learn__/英语/阅读.md",
+    "learn__/学习方法/背书.md",
+    "learn__/Society/2008货币.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/408/计算机网络/README.md",
     "learn__/英语/金翅/戏说英语新题型.md",
     "learn__/英语/金翅/戏说英语阅读理解.md",
     "learn__/英语/金翅/戏说英语翻译.md",
-    "learn__/英语/金翅/戏说英语完形填空.md",
-    "learn__/英语/金翅/九字真言戏说英语作文续.md",
-    "learn__/英语/金翅/英语作文模板.md",
-    "learn__/英语/作文1.md",
-    "learn__/学习方法/背书.md"
+    "learn__/英语/金翅/戏说英语完形填空.md"
   ]
 }

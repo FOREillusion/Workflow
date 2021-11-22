@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-22_星期一",
+      "path": "daily__/2021-11-22_星期一.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "learn__/英语/阅读.md"
+    },
+    {
+      "basename": "背书",
+      "path": "learn__/学习方法/背书.md"
+    },
+    {
+      "basename": "2008货币",
+      "path": "learn__/Society/2008货币.md"
+    },
+    {
       "basename": "王道笔记计网",
       "path": "learn__/408/计算机网络/王道笔记计网.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "作文1",
       "path": "learn__/英语/作文1.md"
-    },
-    {
-      "basename": "背书",
-      "path": "learn__/学习方法/背书.md"
     },
     {
       "basename": "浙大",
@@ -187,18 +199,6 @@
     {
       "basename": "Mathlearning",
       "path": "learn__/学习方法/Mathlearning.md"
-    },
-    {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "日程管理",
-      "path": "learn__/学习方法/日程管理.md"
-    },
-    {
-      "basename": "逻辑思维能力",
-      "path": "learn__/学习方法/逻辑思维能力.md"
     }
   ],
   "omittedPaths": [],
