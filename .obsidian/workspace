@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e2d1856c04af8e",
+        "id": "e6893e5af4c6d75b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Growth/ADHD克服.md",
-            "mode": "preview"
+            "file": "learn__/经验帖/上交.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md",
+                "file": "learn__/经验帖/上交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md"
+                "file": "learn__/经验帖/上交.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "a3e2d1856c04af8e",
+  "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
-    "learn__/Growth/ADHD克服.md",
-    "learn__/graduate/浙大考研经验1.md",
-    "learn__/408/计算机网络/王道笔记计网.md",
-    "daily__/2021-11-22_星期一.md",
-    "learn__/英语/阅读.md",
-    "learn__/学习方法/背书.md",
-    "learn__/Society/2008货币.md",
-    "learn__/408/计算机网络/README.md",
-    "learn__/英语/金翅/戏说英语新题型.md",
-    "learn__/英语/金翅/戏说英语阅读理解.md"
+    "learn__/经验帖/上交.md",
+    "learn__/经验帖/李沐.md",
+    "learn__/毕业论文/选题.md",
+    "learn__/毕业论文/需求分析.md",
+    "learn__/毕业论文/绪论.md",
+    "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md",
+    "learn__/嵌入式实训/2021-04-19.md",
+    "learn__/学习方法/前额页.md",
+    "learn__/学习方法/专注力.md",
+    "learn__/学习方法/上交大郑老师.md"
   ]
 }
