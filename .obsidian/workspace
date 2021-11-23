@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/上交.md",
+            "file": "learn__/经验帖/胡神.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/上交.md",
+                "file": "learn__/经验帖/胡神.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/上交.md"
+                "file": "learn__/经验帖/胡神.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/经验帖/胡神.md",
     "learn__/经验帖/上交.md",
     "learn__/经验帖/李沐.md",
     "learn__/毕业论文/选题.md",
@@ -163,7 +164,6 @@
     "learn__/期末复习/物联网信息安全/第一章 物联网安全概述.md",
     "learn__/嵌入式实训/2021-04-19.md",
     "learn__/学习方法/前额页.md",
-    "learn__/学习方法/专注力.md",
-    "learn__/学习方法/上交大郑老师.md"
+    "learn__/学习方法/专注力.md"
   ]
 }
