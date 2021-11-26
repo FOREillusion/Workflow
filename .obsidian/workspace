@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "file": "learn__/英语/金翅/戏说英语翻译.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md",
+                "file": "learn__/英语/金翅/戏说英语翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md"
+                "file": "learn__/英语/金翅/戏说英语翻译.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/英语/金翅/戏说英语翻译.md",
+    "learn__/英语/金翅/戏说英语新题型.md",
+    "learn__/英语/金翅/戏说英语阅读理解.md",
+    "learn__/英语/金翅/英语作文模板.md",
+    "learn__/英语/2021新增词汇.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md",
     "learn__/408/计算机网络/第 1 章   概述/第 1 章   概述.md",
     "daily__/2021-11-24_星期三.md",
-    "daily__/2021-11-22_星期一.md",
-    "README.md",
-    "公式.md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "learn__/CET-6/Listening.md"
+    "daily__/2021-11-22_星期一.md"
   ]
 }
