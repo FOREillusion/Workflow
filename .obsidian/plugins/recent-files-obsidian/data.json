@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "阅读",
+      "path": "learn__/英语/阅读.md"
+    },
+    {
+      "basename": "阅读技巧",
+      "path": "learn__/英语/阅读技巧.md"
+    },
+    {
+      "basename": "细节题",
+      "path": "learn__/英语/细节题.md"
+    },
+    {
+      "basename": "翻译",
+      "path": "learn__/英语/翻译.md"
+    },
+    {
       "basename": "戏说英语阅读理解",
       "path": "learn__/英语/金翅/戏说英语阅读理解.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "英语作文模板",
       "path": "learn__/英语/金翅/英语作文模板.md"
-    },
-    {
-      "basename": "细节题",
-      "path": "learn__/英语/细节题.md"
     },
     {
       "basename": "考研英语阅读理解命题思路透析和真题揭秘",
@@ -165,10 +177,6 @@
       "path": "learn__/graduate/浙大考研经验1.md"
     },
     {
-      "basename": "阅读",
-      "path": "learn__/英语/阅读.md"
-    },
-    {
       "basename": "背书",
       "path": "learn__/学习方法/背书.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "英语问题模板",
       "path": "learn__/英语/英语问题模板.md"
-    },
-    {
-      "basename": "第 3 章  数据链路层",
-      "path": "learn__/408/计算机网络/第 3 章  数据链路层/第 3 章  数据链路层.md"
     }
   ],
   "omittedPaths": [],
