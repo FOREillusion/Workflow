@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/技巧.md",
+            "file": "learn__/408/计算机网络/王道笔记计网.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/技巧.md",
+                "file": "learn__/408/计算机网络/王道笔记计网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/技巧.md"
+                "file": "learn__/408/计算机网络/王道笔记计网.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/英语/技巧.md",
     "learn__/英语/阅读技巧.md",
     "learn__/英语/英语问题模板.md",
@@ -163,7 +164,6 @@
     "learn__/英语/考研英语笔记.md",
     "learn__/英语/翻译.md",
     "learn__/英语/细节题.md",
-    "learn__/英语/核心单词.md",
-    "learn__/英语/推理判断题命题思路透析.md"
+    "learn__/英语/核心单词.md"
   ]
 }
