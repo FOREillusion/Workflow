@@ -7,10 +7,9 @@
         "id": "e6893e5af4c6d75b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "learn__/英语/细节题.md",
-            "mode": "preview"
+            "file": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/细节题.md",
+                "file": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/细节题.md"
+                "file": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
               }
             }
           },
@@ -155,15 +154,15 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
+    "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.png",
+    "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md",
     "learn__/英语/细节题.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/英语/完型填空.md",
     "learn__/英语/听力.md",
     "learn__/英语/作文1.md",
     "learn__/英语/技巧.md",
-    "learn__/英语/阅读技巧.md",
-    "learn__/英语/英语问题模板.md",
-    "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md",
-    "learn__/英语/考研英语笔记2.md"
+    "learn__/英语/阅读技巧.md"
   ]
 }
