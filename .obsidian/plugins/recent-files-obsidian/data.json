@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "考研英语笔记2",
+      "path": "learn__/英语/考研英语笔记2.md"
+    },
+    {
+      "basename": "考研英语阅读理解命题思路透析和真题揭秘",
+      "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
+    },
+    {
+      "basename": "英语问题模板",
+      "path": "learn__/英语/英语问题模板.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "learn__/英语/阅读.md"
+    },
+    {
+      "basename": "周-2021年第40周复盘 ",
+      "path": "WeeklyReview/周-2021年第40周复盘 .md"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "踏出舒适区让你更快成长",
+      "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
+    },
+    {
+      "basename": "static",
+      "path": "paper__/graduated/static.md"
+    },
+    {
+      "basename": "Pasted image 20210721145053",
+      "path": "resources__/Pasted image 20210721145053.png"
+    },
+    {
+      "basename": "Pasted image 20210721165958",
+      "path": "resources__/Pasted image 20210721165958.png"
+    },
+    {
+      "basename": "Pasted image 20210721165137",
+      "path": "resources__/Pasted image 20210721165137.png"
+    },
+    {
+      "basename": "Pasted image 20210721164016",
+      "path": "resources__/Pasted image 20210721164016.png"
+    },
+    {
+      "basename": "Pasted image 20210721152538",
+      "path": "resources__/Pasted image 20210721152538.png"
+    },
+    {
+      "basename": "Pasted image 20210721152047",
+      "path": "resources__/Pasted image 20210721152047.png"
+    },
+    {
+      "basename": "Pasted image 20210721151242",
+      "path": "resources__/Pasted image 20210721151242.png"
+    },
+    {
+      "basename": "Pasted image 20210721150228",
+      "path": "resources__/Pasted image 20210721150228.png"
+    },
+    {
+      "basename": "Pasted image 20210719204943",
+      "path": "resources__/Pasted image 20210719204943.png"
+    },
+    {
+      "basename": "学会怎样判断时间",
+      "path": "learn__/褪墨/拖延心理学/学会怎样判断时间.md"
+    },
+    {
+      "basename": "如何提升你定时的能力",
+      "path": "learn__/褪墨/拖延心理学/如何提升你定时的能力.md"
+    },
+    {
       "basename": "王道笔记计网",
       "path": "learn__/408/计算机网络/王道笔记计网.md"
     },
@@ -39,18 +115,6 @@
     {
       "basename": "阅读技巧",
       "path": "learn__/英语/阅读技巧.md"
-    },
-    {
-      "basename": "英语问题模板",
-      "path": "learn__/英语/英语问题模板.md"
-    },
-    {
-      "basename": "考研英语阅读理解命题思路透析和真题揭秘",
-      "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
-    },
-    {
-      "basename": "考研英语笔记2",
-      "path": "learn__/英语/考研英语笔记2.md"
     },
     {
       "basename": "考研英语笔记",
@@ -93,10 +157,6 @@
       "path": "learn__/英语/金翅/九字真言戏说英语作文续.md"
     },
     {
-      "basename": "阅读",
-      "path": "learn__/英语/阅读.md"
-    },
-    {
       "basename": "2021新增词汇",
       "path": "learn__/英语/2021新增词汇.md"
     },
@@ -121,14 +181,6 @@
       "path": "公式.md"
     },
     {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
-    },
-    {
       "basename": "Listening",
       "path": "learn__/CET-6/Listening.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "选题",
       "path": "learn__/毕业论文/选题.md"
-    },
-    {
-      "basename": "需求分析",
-      "path": "learn__/毕业论文/需求分析.md"
-    },
-    {
-      "basename": "绪论",
-      "path": "learn__/毕业论文/绪论.md"
-    },
-    {
-      "basename": "2021-04-19",
-      "path": "learn__/嵌入式实训/2021-04-19.md"
-    },
-    {
-      "basename": "前额页",
-      "path": "learn__/学习方法/前额页.md"
-    },
-    {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "上交大郑老师",
-      "path": "learn__/学习方法/上交大郑老师.md"
-    },
-    {
-      "basename": "tips",
-      "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "problem",
-      "path": "learn__/学习方法/problem.md"
-    },
-    {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
-    },
-    {
-      "basename": "房价神贴",
-      "path": "learn__/Society/房价神贴.md"
-    },
-    {
-      "basename": "2008货币",
-      "path": "learn__/Society/2008货币.md"
-    },
-    {
-      "basename": "rkychi",
-      "path": "learn__/idol/rkychi.md"
     }
   ],
   "omittedPaths": [],
