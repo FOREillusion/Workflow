@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
+            "file": "learn__/408/OS-Study-Note/5-内存.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
+                "file": "learn__/408/OS-Study-Note/5-内存.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
+                "file": "learn__/408/OS-Study-Note/5-内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/408/OS-Study-Note/5-内存.md",
+    "learn__/408/OS-Study-Note/4-操作系统内核架构.md",
+    "learn__/408/OS-Study-Note/3-中断异常与系统调用.md",
+    "learn__/408/OS-Study-Note/2-硬件结构.md",
+    "learn__/408/OS-Study-Note/6-进程.md",
     "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
     "图片/exec.png.md",
     "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
     "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
-    "learn__/graduate/复试/机试.md",
-    "learn__/graduate/浙大考研经验10.md",
-    "learn__/学习方法/motivated.md",
-    "learn__/学习方法/前额页.md",
-    "learn__/褪墨/拖延心理学/如何提升你定时的能力.md",
-    "Templates/周记模板.md"
+    "learn__/graduate/复试/机试.md"
   ]
 }
