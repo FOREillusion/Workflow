@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bea5a3acf0d35128",
-        "type": "split",
-        "children": [
-          {
-            "id": "e6893e5af4c6d75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn__/英语/考研英语笔记2.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "055158b8bfb2c5c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "learn__/英语/考研英语笔记2.md"
-              }
-            }
+        "id": "e6893e5af4c6d75b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "learn__/graduate/浙大考研经验7.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -80,6 +63,16 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "055158b8bfb2c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learn__/graduate/浙大考研经验7.md"
+              }
+            }
           }
         ]
       }
@@ -115,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/考研英语笔记2.md",
+                "file": "learn__/graduate/浙大考研经验7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,23 +161,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "055158b8bfb2c5c4",
+  "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/graduate/浙大考研经验7.md",
+    "learn__/graduate/浙大考研经验6.md",
+    "learn__/graduate/浙大考研经验5.md",
+    "learn__/graduate/浙大考研经验4.md",
+    "learn__/graduate/浙大考研经验1.md",
+    "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.md",
     "learn__/英语/考研英语笔记2.md",
     "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md",
     "learn__/英语/英语问题模板.md",
-    "learn__/英语/阅读.md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "learn__/褪墨/踏出舒适区让你更快成长.md",
-    "paper__/graduated/static.md",
-    "resources__/Pasted image 20210721145053.png",
-    "resources__/Pasted image 20210721165958.png"
+    "learn__/英语/阅读.md"
   ]
 }
