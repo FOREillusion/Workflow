@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/细节题.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/细节题.md"
+                "file": "README.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/细节题.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,15 +170,15 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
-    "learn__/英语/细节题.md",
-    "learn__/学习方法/problem.md",
-    "learn__/学习方法/tips.md",
-    "learn__/学习方法/上交大郑老师.md",
-    "learn__/学习方法/专注力.md",
-    "learn__/学习方法/前额页.md",
-    "learn__/Society/房价神贴.md",
-    "learn__/Society/2008货币.md",
-    "learn__/idol/rkychi.md",
-    "learn__/graduate/浙大考研经验9.md"
+    "README.md",
+    "公式.md",
+    "WeeklyReview/周-2021年第40周复盘 .md",
+    "WeeklyReview/周-2021年第39周复盘 .md",
+    "Templates/读书笔记模板.md",
+    "Templates/周记模板.md",
+    "learn__/英语/金翅/英语作文模板.md",
+    "learn__/英语/金翅/戏说英语阅读理解.md",
+    "learn__/英语/金翅/戏说英语翻译.md",
+    "learn__/英语/金翅/戏说英语新题型.md"
   ]
 }

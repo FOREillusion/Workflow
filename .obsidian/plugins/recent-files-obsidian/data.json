@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "公式",
+      "path": "公式.md"
+    },
+    {
+      "basename": "周-2021年第40周复盘 ",
+      "path": "WeeklyReview/周-2021年第40周复盘 .md"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
+      "basename": "英语作文模板",
+      "path": "learn__/英语/金翅/英语作文模板.md"
+    },
+    {
+      "basename": "戏说英语阅读理解",
+      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
+    },
+    {
+      "basename": "戏说英语翻译",
+      "path": "learn__/英语/金翅/戏说英语翻译.md"
+    },
+    {
+      "basename": "戏说英语新题型",
+      "path": "learn__/英语/金翅/戏说英语新题型.md"
+    },
+    {
+      "basename": "九字真言戏说英语作文续",
+      "path": "learn__/英语/金翅/九字真言戏说英语作文续.md"
+    },
+    {
+      "basename": "戏说英语完形填空",
+      "path": "learn__/英语/金翅/戏说英语完形填空.md"
+    },
+    {
+      "basename": "翻译",
+      "path": "learn__/英语/翻译.md"
+    },
+    {
+      "basename": "考研英语笔记",
+      "path": "learn__/英语/考研英语笔记.md"
+    },
+    {
       "basename": "细节题",
       "path": "learn__/英语/细节题.md"
     },
@@ -85,14 +141,6 @@
       "path": "learn__/英语/阅读.md"
     },
     {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
-    },
-    {
       "basename": "踏出舒适区让你更快成长",
       "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "第 5 章  运输层",
       "path": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
-    },
-    {
-      "basename": "第 4 章  网络层",
-      "path": "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.png"
-    },
-    {
-      "basename": "第 4 章  网络层",
-      "path": "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md"
-    },
-    {
-      "basename": "完型填空",
-      "path": "learn__/英语/完型填空.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "作文1",
-      "path": "learn__/英语/作文1.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "learn__/英语/技巧.md"
-    },
-    {
-      "basename": "阅读技巧",
-      "path": "learn__/英语/阅读技巧.md"
-    },
-    {
-      "basename": "考研英语笔记",
-      "path": "learn__/英语/考研英语笔记.md"
-    },
-    {
-      "basename": "翻译",
-      "path": "learn__/英语/翻译.md"
-    },
-    {
-      "basename": "核心单词",
-      "path": "learn__/英语/核心单词.md"
-    },
-    {
-      "basename": "推理判断题命题思路透析",
-      "path": "learn__/英语/推理判断题命题思路透析.md"
-    },
-    {
-      "basename": "英语作文模板",
-      "path": "learn__/英语/金翅/英语作文模板.md"
     }
   ],
   "omittedPaths": [],
