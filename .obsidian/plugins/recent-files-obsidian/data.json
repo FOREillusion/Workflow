@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "细节题",
+      "path": "learn__/英语/细节题.md"
+    },
+    {
+      "basename": "problem",
+      "path": "learn__/学习方法/problem.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "上交大郑老师",
+      "path": "learn__/学习方法/上交大郑老师.md"
+    },
+    {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "前额页",
+      "path": "learn__/学习方法/前额页.md"
+    },
+    {
+      "basename": "房价神贴",
+      "path": "learn__/Society/房价神贴.md"
+    },
+    {
+      "basename": "2008货币",
+      "path": "learn__/Society/2008货币.md"
+    },
+    {
+      "basename": "rkychi",
+      "path": "learn__/idol/rkychi.md"
+    },
+    {
+      "basename": "浙大考研经验9",
+      "path": "learn__/graduate/浙大考研经验9.md"
+    },
+    {
+      "basename": "浙大考研经验8",
+      "path": "learn__/graduate/浙大考研经验8.md"
+    },
+    {
       "basename": "浙大考研经验7",
       "path": "learn__/graduate/浙大考研经验7.md"
     },
@@ -117,10 +161,6 @@
       "path": "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md"
     },
     {
-      "basename": "细节题",
-      "path": "learn__/英语/细节题.md"
-    },
-    {
       "basename": "完型填空",
       "path": "learn__/英语/完型填空.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "英语作文模板",
       "path": "learn__/英语/金翅/英语作文模板.md"
-    },
-    {
-      "basename": "戏说英语阅读理解",
-      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
-    },
-    {
-      "basename": "戏说英语翻译",
-      "path": "learn__/英语/金翅/戏说英语翻译.md"
-    },
-    {
-      "basename": "戏说英语新题型",
-      "path": "learn__/英语/金翅/戏说英语新题型.md"
-    },
-    {
-      "basename": "戏说英语完形填空",
-      "path": "learn__/英语/金翅/戏说英语完形填空.md"
-    },
-    {
-      "basename": "九字真言戏说英语作文续",
-      "path": "learn__/英语/金翅/九字真言戏说英语作文续.md"
-    },
-    {
-      "basename": "2021新增词汇",
-      "path": "learn__/英语/2021新增词汇.md"
-    },
-    {
-      "basename": "第 1 章   概述",
-      "path": "learn__/408/计算机网络/第 1 章   概述/第 1 章   概述.md"
-    },
-    {
-      "basename": "2021-11-24_星期三",
-      "path": "daily__/2021-11-24_星期三.md"
-    },
-    {
-      "basename": "2021-11-22_星期一",
-      "path": "daily__/2021-11-22_星期一.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
