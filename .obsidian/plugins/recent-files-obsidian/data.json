@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "第二章 进程的描述与控制",
+      "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
+    },
+    {
+      "basename": "exec.png",
+      "path": "图片/exec.png.md"
+    },
+    {
       "basename": "计算机组成原理-宝典",
       "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20210721164016",
       "path": "resources__/Pasted image 20210721164016.png"
-    },
-    {
-      "basename": "Pasted image 20210721152538",
-      "path": "resources__/Pasted image 20210721152538.png"
-    },
-    {
-      "basename": "Pasted image 20210721152047",
-      "path": "resources__/Pasted image 20210721152047.png"
     }
   ],
   "omittedPaths": [],

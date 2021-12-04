@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
-            "mode": "source"
+            "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,12 +70,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
+                "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +96,14 @@
               "type": "toggl-report",
               "state": {}
             }
+          },
+          {
+            "id": "1b783c458d00eea1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       },
@@ -111,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+                "file": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +181,8 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
+    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
+    "图片/exec.png.md",
     "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
     "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
     "learn__/graduate/复试/机试.md",
@@ -181,8 +190,6 @@
     "learn__/学习方法/motivated.md",
     "learn__/学习方法/前额页.md",
     "learn__/褪墨/拖延心理学/如何提升你定时的能力.md",
-    "Templates/周记模板.md",
-    "Templates/Daily 模板/模板1.md",
-    "README.md"
+    "Templates/周记模板.md"
   ]
 }
