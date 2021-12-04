@@ -75,6 +75,30 @@
     "type": "split",
     "children": [
       {
+        "id": "0727719637bfff4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055158b8bfb2c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learn__/英语/考研英语笔记2.md"
+              }
+            }
+          },
+          {
+            "id": "54cfa165fccc17a1",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "4c8cd3226ebd3fa8",
         "type": "tabs",
         "children": [
@@ -96,16 +120,6 @@
             }
           },
           {
-            "id": "055158b8bfb2c5c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "learn__/英语/考研英语笔记2.md"
-              }
-            }
-          },
-          {
             "id": "68f16bddc80d0770",
             "type": "leaf",
             "state": {
@@ -123,17 +137,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "65786d4b72c68b57",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -146,8 +152,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "65786d4b72c68b57",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
