@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机组成原理-宝典",
+      "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
+    },
+    {
+      "basename": "第 5 章  运输层",
+      "path": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
+    },
+    {
+      "basename": "机试",
+      "path": "learn__/graduate/复试/机试.md"
+    },
+    {
+      "basename": "浙大考研经验10",
+      "path": "learn__/graduate/浙大考研经验10.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "前额页",
+      "path": "learn__/学习方法/前额页.md"
+    },
+    {
+      "basename": "如何提升你定时的能力",
+      "path": "learn__/褪墨/拖延心理学/如何提升你定时的能力.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
+      "basename": "模板1",
+      "path": "Templates/Daily 模板/模板1.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "读书笔记模板",
       "path": "Templates/读书笔记模板.md"
-    },
-    {
-      "basename": "周记模板",
-      "path": "Templates/周记模板.md"
     },
     {
       "basename": "英语作文模板",
@@ -75,10 +107,6 @@
     {
       "basename": "专注力",
       "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "前额页",
-      "path": "learn__/学习方法/前额页.md"
     },
     {
       "basename": "房价神贴",
@@ -171,34 +199,6 @@
     {
       "basename": "Pasted image 20210721152047",
       "path": "resources__/Pasted image 20210721152047.png"
-    },
-    {
-      "basename": "Pasted image 20210721151242",
-      "path": "resources__/Pasted image 20210721151242.png"
-    },
-    {
-      "basename": "Pasted image 20210721150228",
-      "path": "resources__/Pasted image 20210721150228.png"
-    },
-    {
-      "basename": "Pasted image 20210719204943",
-      "path": "resources__/Pasted image 20210719204943.png"
-    },
-    {
-      "basename": "学会怎样判断时间",
-      "path": "learn__/褪墨/拖延心理学/学会怎样判断时间.md"
-    },
-    {
-      "basename": "如何提升你定时的能力",
-      "path": "learn__/褪墨/拖延心理学/如何提升你定时的能力.md"
-    },
-    {
-      "basename": "王道笔记计网",
-      "path": "learn__/408/计算机网络/王道笔记计网.md"
-    },
-    {
-      "basename": "第 5 章  运输层",
-      "path": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
     }
   ],
   "omittedPaths": [],

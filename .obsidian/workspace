@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+            "mode": "source"
           }
         }
       }
@@ -70,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -87,6 +88,7 @@
       {
         "id": "fd45c291ef80037a",
         "type": "tabs",
+        "dimension": 27.033492822966508,
         "children": [
           {
             "id": "54cfa165fccc17a1",
@@ -101,6 +103,7 @@
       {
         "id": "4c8cd3226ebd3fa8",
         "type": "tabs",
+        "dimension": 39.71291866028708,
         "children": [
           {
             "id": "22181020b31101f2",
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +147,7 @@
       {
         "id": "ed0ea2f7c39edf32",
         "type": "tabs",
+        "dimension": 33.25358851674641,
         "children": [
           {
             "id": "ac78723de28beba6",
@@ -170,15 +174,15 @@
   },
   "active": "e6893e5af4c6d75b",
   "lastOpenFiles": [
-    "README.md",
-    "公式.md",
-    "WeeklyReview/周-2021年第40周复盘 .md",
-    "WeeklyReview/周-2021年第39周复盘 .md",
-    "Templates/读书笔记模板.md",
+    "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+    "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
+    "learn__/graduate/复试/机试.md",
+    "learn__/graduate/浙大考研经验10.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/前额页.md",
+    "learn__/褪墨/拖延心理学/如何提升你定时的能力.md",
     "Templates/周记模板.md",
-    "learn__/英语/金翅/英语作文模板.md",
-    "learn__/英语/金翅/戏说英语阅读理解.md",
-    "learn__/英语/金翅/戏说英语翻译.md",
-    "learn__/英语/金翅/戏说英语新题型.md"
+    "Templates/Daily 模板/模板1.md",
+    "README.md"
   ]
 }
