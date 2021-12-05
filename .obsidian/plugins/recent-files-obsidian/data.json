@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "房价神贴",
+      "path": "learn__/Society/房价神贴.md"
+    },
+    {
+      "basename": "2008货币",
+      "path": "learn__/Society/2008货币.md"
+    },
+    {
       "basename": "5-内存",
       "path": "learn__/408/OS-Study-Note/5-内存.md"
     },
@@ -137,14 +145,6 @@
       "path": "learn__/学习方法/专注力.md"
     },
     {
-      "basename": "房价神贴",
-      "path": "learn__/Society/房价神贴.md"
-    },
-    {
-      "basename": "2008货币",
-      "path": "learn__/Society/2008货币.md"
-    },
-    {
       "basename": "rkychi",
       "path": "learn__/idol/rkychi.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "阅读",
       "path": "learn__/英语/阅读.md"
-    },
-    {
-      "basename": "踏出舒适区让你更快成长",
-      "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
     }
   ],
   "omittedPaths": [],

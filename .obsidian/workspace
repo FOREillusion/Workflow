@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6893e5af4c6d75b",
+        "id": "cc208dfb45a13d7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/OS-Study-Note/5-内存.md",
+            "file": "learn__/Society/房价神贴.md",
             "mode": "preview"
           }
         }
@@ -70,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/OS-Study-Note/5-内存.md"
+                "file": "learn__/Society/房价神贴.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/OS-Study-Note/5-内存.md",
+                "file": "learn__/Society/房价神贴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +180,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "e6893e5af4c6d75b",
+  "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/Society/房价神贴.md",
+    "learn__/Society/2008货币.md",
+    "learn__/嵌入式实训/2021-04-19.md",
     "learn__/408/OS-Study-Note/5-内存.md",
     "learn__/408/OS-Study-Note/4-操作系统内核架构.md",
     "learn__/408/OS-Study-Note/3-中断异常与系统调用.md",
     "learn__/408/OS-Study-Note/2-硬件结构.md",
     "learn__/408/OS-Study-Note/6-进程.md",
     "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
-    "图片/exec.png.md",
-    "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
-    "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png",
-    "learn__/graduate/复试/机试.md"
+    "图片/exec.png.md"
   ]
 }
