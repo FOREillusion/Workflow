@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "cc208dfb45a13d7e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "learn__/Society/房价神贴.md",
-            "mode": "preview"
+        "id": "495a860029df3694",
+        "type": "split",
+        "children": [
+          {
+            "id": "0af58d136002fbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn__/英语/核心单词.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cc208dfb45a13d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn__/Society/房价神贴.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -70,12 +88,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Society/房价神贴.md"
+                "file": "learn__/英语/核心单词.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Society/房价神贴.md",
+                "file": "learn__/英语/核心单词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,24 +190,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "cc208dfb45a13d7e",
+  "active": "0af58d136002fbac",
   "lastOpenFiles": [
+    "learn__/英语/核心单词.md",
+    "learn__/英语/金翅/英语作文模板.md",
+    "learn__/英语/金翅/戏说英语翻译.md",
+    "Inbox/卢曼笔记模板.md",
     "learn__/Society/房价神贴.md",
+    "daily__/2021-12-06_星期一.md",
     "learn__/Society/2008货币.md",
     "learn__/嵌入式实训/2021-04-19.md",
     "learn__/408/OS-Study-Note/5-内存.md",
-    "learn__/408/OS-Study-Note/4-操作系统内核架构.md",
-    "learn__/408/OS-Study-Note/3-中断异常与系统调用.md",
-    "learn__/408/OS-Study-Note/2-硬件结构.md",
-    "learn__/408/OS-Study-Note/6-进程.md",
-    "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md",
-    "图片/exec.png.md"
+    "learn__/408/OS-Study-Note/4-操作系统内核架构.md"
   ]
 }

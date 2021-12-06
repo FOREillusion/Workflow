@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "核心单词",
+      "path": "learn__/英语/核心单词.md"
+    },
+    {
+      "basename": "英语作文模板",
+      "path": "learn__/英语/金翅/英语作文模板.md"
+    },
+    {
+      "basename": "戏说英语翻译",
+      "path": "learn__/英语/金翅/戏说英语翻译.md"
+    },
+    {
+      "basename": "卢曼笔记模板",
+      "path": "Inbox/卢曼笔记模板.md"
+    },
+    {
       "basename": "房价神贴",
       "path": "learn__/Society/房价神贴.md"
+    },
+    {
+      "basename": "2021-12-06_星期一",
+      "path": "daily__/2021-12-06_星期一.md"
     },
     {
       "basename": "2008货币",
@@ -93,16 +113,8 @@
       "path": "Templates/读书笔记模板.md"
     },
     {
-      "basename": "英语作文模板",
-      "path": "learn__/英语/金翅/英语作文模板.md"
-    },
-    {
       "basename": "戏说英语阅读理解",
       "path": "learn__/英语/金翅/戏说英语阅读理解.md"
-    },
-    {
-      "basename": "戏说英语翻译",
-      "path": "learn__/英语/金翅/戏说英语翻译.md"
     },
     {
       "basename": "戏说英语新题型",
@@ -187,14 +199,6 @@
     {
       "basename": "考研英语阅读理解命题思路透析和真题揭秘",
       "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
-    },
-    {
-      "basename": "英语问题模板",
-      "path": "learn__/英语/英语问题模板.md"
-    },
-    {
-      "basename": "阅读",
-      "path": "learn__/英语/阅读.md"
     }
   ],
   "omittedPaths": [],
