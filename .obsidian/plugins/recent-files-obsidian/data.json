@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "房价神贴",
-      "path": "learn__/Society/房价神贴.md"
+      "basename": "数据结构笔记",
+      "path": "learn__/408/数据结构/数据结构笔记.md"
     },
     {
       "basename": "2021-12-06_星期一",
       "path": "daily__/2021-12-06_星期一.md"
+    },
+    {
+      "basename": "2021-11-08_星期一",
+      "path": "daily__/2021-11-08_星期一.md"
+    },
+    {
+      "basename": "QT的温湿度显示系统_zxpcus的博客-CSDN博客",
+      "path": "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "learn__/英语/阅读.md"
+    },
+    {
+      "basename": "为什么我们需要更多时间独处？_",
+      "path": "Inbox/为什么我们需要更多时间独处？_.md"
+    },
+    {
+      "basename": "17-轻量级虚拟化",
+      "path": "learn__/408/OS-Study-Note/17-轻量级虚拟化.md"
+    },
+    {
+      "basename": "ADHD克服",
+      "path": "learn__/Growth/ADHD克服.md"
+    },
+    {
+      "basename": "如何在 Rust 中使用 MQTT - 知乎",
+      "path": "Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
+    },
+    {
+      "basename": "視頻網頁",
+      "path": "Inbox/視頻網頁.md"
+    },
+    {
+      "basename": "计算机组成",
+      "path": "learn__/408/计算机组成原理/计算机组成.md"
+    },
+    {
+      "basename": "第 4 章  网络层",
+      "path": "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md"
+    },
+    {
+      "basename": "现代操作系统知识点总结",
+      "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
+    },
+    {
+      "basename": "戏说英语阅读理解",
+      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
+    },
+    {
+      "basename": "背书",
+      "path": "learn__/学习方法/背书.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "房价神贴",
+      "path": "learn__/Society/房价神贴.md"
     },
     {
       "basename": "核心单词",
@@ -73,10 +133,6 @@
       "path": "learn__/graduate/浙大考研经验10.md"
     },
     {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
       "basename": "前额页",
       "path": "learn__/学习方法/前额页.md"
     },
@@ -113,10 +169,6 @@
       "path": "Templates/读书笔记模板.md"
     },
     {
-      "basename": "戏说英语阅读理解",
-      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
-    },
-    {
       "basename": "戏说英语新题型",
       "path": "learn__/英语/金翅/戏说英语新题型.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "tips",
       "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "上交大郑老师",
-      "path": "learn__/学习方法/上交大郑老师.md"
-    },
-    {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "rkychi",
-      "path": "learn__/idol/rkychi.md"
-    },
-    {
-      "basename": "浙大考研经验9",
-      "path": "learn__/graduate/浙大考研经验9.md"
-    },
-    {
-      "basename": "浙大考研经验8",
-      "path": "learn__/graduate/浙大考研经验8.md"
-    },
-    {
-      "basename": "浙大考研经验7",
-      "path": "learn__/graduate/浙大考研经验7.md"
-    },
-    {
-      "basename": "浙大考研经验6",
-      "path": "learn__/graduate/浙大考研经验6.md"
-    },
-    {
-      "basename": "浙大考研经验5",
-      "path": "learn__/graduate/浙大考研经验5.md"
-    },
-    {
-      "basename": "浙大考研经验4",
-      "path": "learn__/graduate/浙大考研经验4.md"
-    },
-    {
-      "basename": "浙大考研经验1",
-      "path": "learn__/graduate/浙大考研经验1.md"
-    },
-    {
-      "basename": "第 5 章  运输层",
-      "path": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.md"
-    },
-    {
-      "basename": "考研英语笔记2",
-      "path": "learn__/英语/考研英语笔记2.md"
-    },
-    {
-      "basename": "考研英语阅读理解命题思路透析和真题揭秘",
-      "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
     }
   ],
   "omittedPaths": [],

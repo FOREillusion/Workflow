@@ -1,0 +1,205 @@
+{
+  "workspaces": {
+    "daily": {
+      "main": {
+        "id": "7df6a505188f10f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "495a860029df3694",
+            "type": "split",
+            "children": [
+              {
+                "id": "0af58d136002fbac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "learn__/英语/核心单词.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "cc208dfb45a13d7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "learn__/学习方法/背书.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1d753d99e060a29c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ca5ac344a01df10",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d28790414bd9b22b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0bfcf81b7337429b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5364e9e063a54c52",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fc59cebc269cd462",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "055158b8bfb2c5c4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "learn__/学习方法/背书.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 243
+      },
+      "right": {
+        "id": "86468890bdd73e2a",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd45c291ef80037a",
+            "type": "tabs",
+            "dimension": 33.014354066985646,
+            "children": [
+              {
+                "id": "54cfa165fccc17a1",
+                "type": "leaf",
+                "state": {
+                  "type": "toggl-report",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1b783c458d00eea1",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4c8cd3226ebd3fa8",
+            "type": "tabs",
+            "dimension": 43.0622009569378,
+            "children": [
+              {
+                "id": "22181020b31101f2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "learn__/学习方法/背书.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "68f16bddc80d0770",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "1558182191027f9b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "ed0ea2f7c39edf32",
+            "type": "tabs",
+            "dimension": 23.923444976076556,
+            "children": [
+              {
+                "id": "65786d4b72c68b57",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ac78723de28beba6",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 270.3999938964844
+      },
+      "active": "cc208dfb45a13d7e"
+    }
+  },
+  "active": "daily"
+}
