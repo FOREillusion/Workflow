@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "495a860029df3694",
-        "type": "split",
-        "children": [
-          {
-            "id": "0af58d136002fbac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn__/英语/核心单词.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "cc208dfb45a13d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn__/408/数据结构/数据结构大题/数据结构算法题.md",
-                "mode": "preview"
-              }
-            }
+        "id": "cc208dfb45a13d7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "learn__/Society/房价神贴.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/数据结构/数据结构大题/数据结构算法题.md"
+                "file": "learn__/Society/房价神贴.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/数据结构/数据结构大题/数据结构算法题.md",
+                "file": "learn__/Society/房价神贴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +181,8 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/Society/房价神贴.md",
+    "learn__/英语/核心单词.md",
     "learn__/408/数据结构/数据结构大题/数据结构算法题.md",
     "learn__/408/数据结构/数据结构笔记.md",
     "learn__/408/数据结构/数据结构.md",
@@ -205,8 +190,6 @@
     "daily__/2021-11-08_星期一.md",
     "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md",
     "learn__/英语/阅读.md",
-    "Inbox/为什么我们需要更多时间独处？_.md",
-    "learn__/408/OS-Study-Note/17-轻量级虚拟化.md",
-    "learn__/Growth/ADHD克服.md"
+    "Inbox/为什么我们需要更多时间独处？_.md"
   ]
 }
