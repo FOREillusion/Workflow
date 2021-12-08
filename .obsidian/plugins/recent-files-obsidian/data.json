@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机组成原理笔记",
+      "path": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
+    },
+    {
+      "basename": "计算机组成原理-宝典",
+      "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
+    },
+    {
+      "basename": "计算机组成",
+      "path": "learn__/408/计算机组成原理/计算机组成.md"
+    },
+    {
       "basename": "数据结构算法题",
       "path": "learn__/408/数据结构/数据结构大题/数据结构算法题.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "視頻網頁",
       "path": "Inbox/視頻網頁.md"
-    },
-    {
-      "basename": "计算机组成",
-      "path": "learn__/408/计算机组成原理/计算机组成.md"
     },
     {
       "basename": "第 4 章  网络层",
@@ -123,10 +131,6 @@
     {
       "basename": "exec.png",
       "path": "图片/exec.png.md"
-    },
-    {
-      "basename": "计算机组成原理-宝典",
-      "path": "learn__/408/计算机组成原理/计算机组成原理-宝典.md"
     },
     {
       "basename": "第 5 章  运输层",
@@ -195,10 +199,6 @@
     {
       "basename": "考研英语笔记",
       "path": "learn__/英语/考研英语笔记.md"
-    },
-    {
-      "basename": "细节题",
-      "path": "learn__/英语/细节题.md"
     }
   ],
   "omittedPaths": [],
