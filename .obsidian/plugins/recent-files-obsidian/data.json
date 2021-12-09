@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "作文1",
+      "path": "learn__/英语/作文1.md"
+    },
+    {
+      "basename": "听力",
+      "path": "learn__/英语/听力.md"
+    },
+    {
+      "basename": "唐迟阅读",
+      "path": "learn__/英语/唐迟阅读.md"
+    },
+    {
+      "basename": "完型填空",
+      "path": "learn__/英语/完型填空.md"
+    },
+    {
+      "basename": "2021新增词汇",
+      "path": "learn__/英语/2021新增词汇.md"
+    },
+    {
+      "basename": "英语作文模板",
+      "path": "learn__/英语/金翅/英语作文模板.md"
+    },
+    {
+      "basename": "戏说英语阅读理解",
+      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
+    },
+    {
+      "basename": "戏说英语翻译",
+      "path": "learn__/英语/金翅/戏说英语翻译.md"
+    },
+    {
+      "basename": "戏说英语新题型",
+      "path": "learn__/英语/金翅/戏说英语新题型.md"
+    },
+    {
+      "basename": "戏说英语完形填空",
+      "path": "learn__/英语/金翅/戏说英语完形填空.md"
+    },
+    {
+      "basename": "九字真言戏说英语作文续",
+      "path": "learn__/英语/金翅/九字真言戏说英语作文续.md"
+    },
+    {
       "basename": "2021-12-09_星期四",
       "path": "daily__/2021-12-09_星期四.md"
     },
@@ -81,24 +125,12 @@
       "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
     },
     {
-      "basename": "戏说英语阅读理解",
-      "path": "learn__/英语/金翅/戏说英语阅读理解.md"
-    },
-    {
       "basename": "背书",
       "path": "learn__/学习方法/背书.md"
     },
     {
       "basename": "motivated",
       "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "英语作文模板",
-      "path": "learn__/英语/金翅/英语作文模板.md"
-    },
-    {
-      "basename": "戏说英语翻译",
-      "path": "learn__/英语/金翅/戏说英语翻译.md"
     },
     {
       "basename": "卢曼笔记模板",
@@ -167,38 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "公式",
-      "path": "公式.md"
-    },
-    {
-      "basename": "周-2021年第40周复盘 ",
-      "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
-    },
-    {
-      "basename": "读书笔记模板",
-      "path": "Templates/读书笔记模板.md"
-    },
-    {
-      "basename": "戏说英语新题型",
-      "path": "learn__/英语/金翅/戏说英语新题型.md"
-    },
-    {
-      "basename": "九字真言戏说英语作文续",
-      "path": "learn__/英语/金翅/九字真言戏说英语作文续.md"
-    },
-    {
-      "basename": "戏说英语完形填空",
-      "path": "learn__/英语/金翅/戏说英语完形填空.md"
-    },
-    {
-      "basename": "翻译",
-      "path": "learn__/英语/翻译.md"
     }
   ],
   "omittedPaths": [],
