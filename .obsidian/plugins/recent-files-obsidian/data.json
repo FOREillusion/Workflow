@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "浙大考研经验1",
+      "path": "learn__/graduate/浙大考研经验1.md"
+    },
+    {
+      "basename": "浙大考研经验8",
+      "path": "learn__/graduate/浙大考研经验8.md"
+    },
+    {
+      "basename": "ADHD克服",
+      "path": "learn__/Growth/ADHD克服.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "learn__/408/数据结构/数据结构.pdf"
+    },
+    {
       "basename": "作文1",
       "path": "learn__/英语/作文1.md"
     },
@@ -105,10 +121,6 @@
       "path": "learn__/408/OS-Study-Note/17-轻量级虚拟化.md"
     },
     {
-      "basename": "ADHD克服",
-      "path": "learn__/Growth/ADHD克服.md"
-    },
-    {
       "basename": "如何在 Rust 中使用 MQTT - 知乎",
       "path": "Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "如何提升你定时的能力",
       "path": "learn__/褪墨/拖延心理学/如何提升你定时的能力.md"
-    },
-    {
-      "basename": "周记模板",
-      "path": "Templates/周记模板.md"
-    },
-    {
-      "basename": "模板1",
-      "path": "Templates/Daily 模板/模板1.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

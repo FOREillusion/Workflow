@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/作文1.md",
-            "mode": "preview"
+            "file": "learn__/graduate/浙大考研经验1.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "晴神笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/作文1.md"
+                "file": "learn__/graduate/浙大考研经验1.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/作文1.md",
+                "file": "learn__/graduate/浙大考研经验1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/graduate/浙大考研经验1.md",
+    "learn__/graduate/浙大考研经验8.md",
+    "learn__/Growth/ADHD克服.md",
+    "learn__/408/数据结构/数据结构.pdf",
     "learn__/英语/作文1.md",
     "learn__/英语/听力.md",
     "learn__/英语/唐迟阅读.md",
     "learn__/英语/完型填空.md",
     "learn__/英语/2021新增词汇.md",
-    "learn__/英语/金翅/英语作文模板.md",
-    "learn__/英语/金翅/戏说英语阅读理解.md",
-    "learn__/英语/金翅/戏说英语翻译.md",
-    "learn__/英语/金翅/戏说英语新题型.md",
-    "learn__/英语/金翅/戏说英语完形填空.md"
+    "learn__/英语/金翅/英语作文模板.md"
   ]
 }
