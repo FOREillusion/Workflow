@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-09_星期四",
+      "path": "daily__/2021-12-09_星期四.md"
+    },
+    {
       "basename": "计算机组成原理笔记",
       "path": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "翻译",
       "path": "learn__/英语/翻译.md"
-    },
-    {
-      "basename": "考研英语笔记",
-      "path": "learn__/英语/考研英语笔记.md"
     }
   ],
   "omittedPaths": [],

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
-            "mode": "preview"
+            "file": "daily__/2021-12-09_星期四.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
+                "file": "daily__/2021-12-09_星期四.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+                "file": "daily__/2021-12-09_星期四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2021-12-09_星期四.md",
     "learn__/408/计算机组成原理/计算机组成原理笔记.md",
     "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
     "learn__/408/计算机组成原理/计算机组成.md",
@@ -189,7 +190,6 @@
     "learn__/Society/房价神贴.md",
     "learn__/英语/核心单词.md",
     "learn__/408/数据结构/数据结构笔记.md",
-    "daily__/2021-12-06_星期一.md",
-    "daily__/2021-11-08_星期一.md"
+    "daily__/2021-12-06_星期一.md"
   ]
 }
