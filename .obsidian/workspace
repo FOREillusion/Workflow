@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/作文1.md",
+            "file": "learn__/英语/金翅/英语作文模板.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/作文1.md"
+                "file": "learn__/英语/金翅/英语作文模板.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/作文1.md",
+                "file": "learn__/英语/金翅/英语作文模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/英语/金翅/英语作文模板.md",
     "learn__/英语/作文1.md",
     "learn__/英语/考研英语笔记.md",
     "learn__/英语/考研英语笔记2.md",
@@ -188,7 +189,6 @@
     "learn__/英语/阅读.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/graduate/浙大考研经验1.md",
-    "learn__/graduate/浙大考研经验8.md",
-    "learn__/Growth/ADHD克服.md"
+    "learn__/graduate/浙大考研经验8.md"
   ]
 }
