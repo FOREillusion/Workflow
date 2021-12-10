@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "file": "learn__/英语/作文1.md",
             "mode": "preview"
           }
         }
@@ -70,12 +70,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md"
+                "file": "learn__/英语/作文1.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md",
+                "file": "learn__/英语/作文1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +180,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/英语/作文1.md",
+    "learn__/英语/考研英语笔记.md",
+    "learn__/英语/考研英语笔记2.md",
+    "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md",
+    "learn__/英语/英语问题模板.md",
+    "learn__/英语/阅读.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/graduate/浙大考研经验1.md",
     "learn__/graduate/浙大考研经验8.md",
-    "learn__/Growth/ADHD克服.md",
-    "learn__/408/数据结构/数据结构.pdf",
-    "learn__/英语/作文1.md",
-    "learn__/英语/听力.md",
-    "learn__/英语/唐迟阅读.md",
-    "learn__/英语/完型填空.md",
-    "learn__/英语/2021新增词汇.md"
+    "learn__/Growth/ADHD克服.md"
   ]
 }

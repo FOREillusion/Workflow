@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "作文1",
+      "path": "learn__/英语/作文1.md"
+    },
+    {
+      "basename": "考研英语笔记",
+      "path": "learn__/英语/考研英语笔记.md"
+    },
+    {
+      "basename": "考研英语笔记2",
+      "path": "learn__/英语/考研英语笔记2.md"
+    },
+    {
+      "basename": "考研英语阅读理解命题思路透析和真题揭秘",
+      "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
+    },
+    {
+      "basename": "英语问题模板",
+      "path": "learn__/英语/英语问题模板.md"
+    },
+    {
+      "basename": "阅读",
+      "path": "learn__/英语/阅读.md"
+    },
+    {
       "basename": "王道笔记计网",
       "path": "learn__/408/计算机网络/王道笔记计网.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "数据结构",
       "path": "learn__/408/数据结构/数据结构.pdf"
-    },
-    {
-      "basename": "作文1",
-      "path": "learn__/英语/作文1.md"
     },
     {
       "basename": "听力",
@@ -113,10 +133,6 @@
       "path": "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md"
     },
     {
-      "basename": "阅读",
-      "path": "learn__/英语/阅读.md"
-    },
-    {
       "basename": "为什么我们需要更多时间独处？_",
       "path": "Inbox/为什么我们需要更多时间独处？_.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "exec.png",
       "path": "图片/exec.png.md"
-    },
-    {
-      "basename": "第 5 章  运输层",
-      "path": "learn__/408/计算机网络/第 5 章  运输层/第 5 章  运输层.png"
-    },
-    {
-      "basename": "机试",
-      "path": "learn__/graduate/复试/机试.md"
-    },
-    {
-      "basename": "浙大考研经验10",
-      "path": "learn__/graduate/浙大考研经验10.md"
-    },
-    {
-      "basename": "前额页",
-      "path": "learn__/学习方法/前额页.md"
     }
   ],
   "omittedPaths": [],
