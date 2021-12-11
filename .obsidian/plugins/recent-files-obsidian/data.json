@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "王道笔记计网",
+      "path": "learn__/408/计算机网络/王道笔记计网.md"
+    },
+    {
+      "basename": "浙大考研经验7",
+      "path": "learn__/graduate/浙大考研经验7.md"
+    },
+    {
+      "basename": "浙大考研经验6",
+      "path": "learn__/graduate/浙大考研经验6.md"
+    },
+    {
+      "basename": "浙大考研经验8",
+      "path": "learn__/graduate/浙大考研经验8.md"
+    },
+    {
+      "basename": "如何提升你定时的能力",
+      "path": "learn__/褪墨/拖延心理学/如何提升你定时的能力.md"
+    },
+    {
+      "basename": "学会怎样判断时间",
+      "path": "learn__/褪墨/拖延心理学/学会怎样判断时间.md"
+    },
+    {
+      "basename": "完美主义的拖延与固定心态",
+      "path": "learn__/褪墨/拖延心理学/完美主义的拖延与固定心态.md"
+    },
+    {
+      "basename": "拖延与恐惧失败",
+      "path": "learn__/褪墨/拖延心理学/拖延与恐惧失败.md"
+    },
+    {
+      "basename": "拖延与时间概念",
+      "path": "learn__/褪墨/拖延心理学/拖延与时间概念.md"
+    },
+    {
+      "basename": "拖延与适应不良型完美主义",
+      "path": "learn__/褪墨/拖延心理学/拖延与适应不良型完美主义.md"
+    },
+    {
+      "basename": "认识拖延的怪圈",
+      "path": "learn__/褪墨/拖延心理学/认识拖延的怪圈.md"
+    },
+    {
+      "basename": "《Getting Things Done》读书笔记",
+      "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
+    },
+    {
+      "basename": "什么是重要的事情？",
+      "path": "learn__/褪墨/什么是重要的事情？.md"
+    },
+    {
+      "basename": "低效能人士的七个坏习惯",
+      "path": "learn__/褪墨/低效能人士的七个坏习惯.md"
+    },
+    {
       "basename": "入门GTD时间管理系统必读",
       "path": "learn__/褪墨/入门GTD时间管理系统必读.md"
     },
@@ -41,24 +97,8 @@
       "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
     },
     {
-      "basename": "认识拖延的怪圈",
-      "path": "learn__/褪墨/拖延心理学/认识拖延的怪圈.md"
-    },
-    {
-      "basename": "《Getting Things Done》读书笔记",
-      "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
-    },
-    {
       "basename": "什么是GTD",
       "path": "learn__/褪墨/什么是GTD.md"
-    },
-    {
-      "basename": "什么是重要的事情？",
-      "path": "learn__/褪墨/什么是重要的事情？.md"
-    },
-    {
-      "basename": "低效能人士的七个坏习惯",
-      "path": "learn__/褪墨/低效能人士的七个坏习惯.md"
     },
     {
       "basename": "在人生方向感没那么强的时候，怎么更好地生活下去",
@@ -97,16 +137,8 @@
       "path": "learn__/英语/阅读.md"
     },
     {
-      "basename": "王道笔记计网",
-      "path": "learn__/408/计算机网络/王道笔记计网.md"
-    },
-    {
       "basename": "浙大考研经验1",
       "path": "learn__/graduate/浙大考研经验1.md"
-    },
-    {
-      "basename": "浙大考研经验8",
-      "path": "learn__/graduate/浙大考研经验8.md"
     },
     {
       "basename": "ADHD克服",
@@ -167,38 +199,6 @@
     {
       "basename": "计算机组成",
       "path": "learn__/408/计算机组成原理/计算机组成.md"
-    },
-    {
-      "basename": "数据结构算法题",
-      "path": "learn__/408/数据结构/数据结构大题/数据结构算法题.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "learn__/408/数据结构/数据结构.md"
-    },
-    {
-      "basename": "房价神贴",
-      "path": "learn__/Society/房价神贴.md"
-    },
-    {
-      "basename": "核心单词",
-      "path": "learn__/英语/核心单词.md"
-    },
-    {
-      "basename": "数据结构笔记",
-      "path": "learn__/408/数据结构/数据结构笔记.md"
-    },
-    {
-      "basename": "2021-12-06_星期一",
-      "path": "daily__/2021-12-06_星期一.md"
-    },
-    {
-      "basename": "2021-11-08_星期一",
-      "path": "daily__/2021-11-08_星期一.md"
-    },
-    {
-      "basename": "QT的温湿度显示系统_zxpcus的博客-CSDN博客",
-      "path": "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md"
     }
   ],
   "omittedPaths": [],
