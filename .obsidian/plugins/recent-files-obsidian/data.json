@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "入门GTD时间管理系统必读",
+      "path": "learn__/褪墨/入门GTD时间管理系统必读.md"
+    },
+    {
+      "basename": "如何节省75%的上网时间",
+      "path": "learn__/褪墨/如何节省75%的上网时间.md"
+    },
+    {
+      "basename": "怎样开始冥想（上）",
+      "path": "learn__/褪墨/怎样开始冥想（上）.md"
+    },
+    {
+      "basename": "怎样开始冥想（下）",
+      "path": "learn__/褪墨/怎样开始冥想（下）.md"
+    },
+    {
+      "basename": "我的2011年考研经验分享",
+      "path": "learn__/褪墨/我的2011年考研经验分享.md"
+    },
+    {
+      "basename": "我的时间管理道与术（一）",
+      "path": "learn__/褪墨/我的时间管理道与术（一）.md"
+    },
+    {
+      "basename": "我的时间管理道与术（二）",
+      "path": "learn__/褪墨/我的时间管理道与术（二）.md"
+    },
+    {
+      "basename": "提高工作效率的十条好习惯",
+      "path": "learn__/褪墨/提高工作效率的十条好习惯.md"
+    },
+    {
+      "basename": "英语角——You've got to find what you love（你必须找到你所钟爱的）",
+      "path": "learn__/褪墨/英语角——You've got to find what you love（你必须找到你所钟爱的）.md"
+    },
+    {
+      "basename": "踏出舒适区让你更快成长",
+      "path": "learn__/褪墨/踏出舒适区让你更快成长.md"
+    },
+    {
+      "basename": "认识拖延的怪圈",
+      "path": "learn__/褪墨/拖延心理学/认识拖延的怪圈.md"
+    },
+    {
+      "basename": "《Getting Things Done》读书笔记",
+      "path": "learn__/褪墨/《Getting Things Done》读书笔记.md"
+    },
+    {
+      "basename": "什么是GTD",
+      "path": "learn__/褪墨/什么是GTD.md"
+    },
+    {
+      "basename": "什么是重要的事情？",
+      "path": "learn__/褪墨/什么是重要的事情？.md"
+    },
+    {
+      "basename": "低效能人士的七个坏习惯",
+      "path": "learn__/褪墨/低效能人士的七个坏习惯.md"
+    },
+    {
+      "basename": "在人生方向感没那么强的时候，怎么更好地生活下去",
+      "path": "learn__/褪墨/在人生方向感没那么强的时候，怎么更好地生活下去.md"
+    },
+    {
+      "basename": "mygraduatedpaper",
+      "path": "write__/mygraduatedpaper.md"
+    },
+    {
       "basename": "英语作文模板",
       "path": "learn__/英语/金翅/英语作文模板.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "QT的温湿度显示系统_zxpcus的博客-CSDN博客",
       "path": "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md"
-    },
-    {
-      "basename": "为什么我们需要更多时间独处？_",
-      "path": "Inbox/为什么我们需要更多时间独处？_.md"
-    },
-    {
-      "basename": "17-轻量级虚拟化",
-      "path": "learn__/408/OS-Study-Note/17-轻量级虚拟化.md"
-    },
-    {
-      "basename": "如何在 Rust 中使用 MQTT - 知乎",
-      "path": "Inbox/如何在 Rust 中使用 MQTT - 知乎.md"
-    },
-    {
-      "basename": "視頻網頁",
-      "path": "Inbox/視頻網頁.md"
-    },
-    {
-      "basename": "第 4 章  网络层",
-      "path": "learn__/408/计算机网络/第 4 章  网络层/第 4 章  网络层.md"
-    },
-    {
-      "basename": "现代操作系统知识点总结",
-      "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
-    },
-    {
-      "basename": "背书",
-      "path": "learn__/学习方法/背书.md"
-    },
-    {
-      "basename": "motivated",
-      "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "卢曼笔记模板",
-      "path": "Inbox/卢曼笔记模板.md"
-    },
-    {
-      "basename": "2008货币",
-      "path": "learn__/Society/2008货币.md"
-    },
-    {
-      "basename": "5-内存",
-      "path": "learn__/408/OS-Study-Note/5-内存.md"
-    },
-    {
-      "basename": "4-操作系统内核架构",
-      "path": "learn__/408/OS-Study-Note/4-操作系统内核架构.md"
-    },
-    {
-      "basename": "3-中断异常与系统调用",
-      "path": "learn__/408/OS-Study-Note/3-中断异常与系统调用.md"
-    },
-    {
-      "basename": "2-硬件结构",
-      "path": "learn__/408/OS-Study-Note/2-硬件结构.md"
-    },
-    {
-      "basename": "6-进程",
-      "path": "learn__/408/OS-Study-Note/6-进程.md"
-    },
-    {
-      "basename": "第二章 进程的描述与控制",
-      "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.md"
-    },
-    {
-      "basename": "exec.png",
-      "path": "图片/exec.png.md"
     }
   ],
   "omittedPaths": [],
