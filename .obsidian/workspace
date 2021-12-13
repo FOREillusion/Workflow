@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/推理判断题命题思路透析.md",
+            "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
             "mode": "preview"
           }
         }
@@ -70,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/推理判断题命题思路透析.md"
+                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/推理判断题命题思路透析.md",
+                "file": "learn__/408/计算机组成原理/计算机组成原理笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +181,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
-    "learn__/英语/推理判断题命题思路透析.md",
-    "learn__/英语/技巧.md",
-    "learn__/英语/完型填空.md",
-    "learn__/英语/唐迟阅读.md",
-    "learn__/英语/听力.md",
-    "learn__/英语/作文1.md",
-    "learn__/英语/2021新增词汇.md",
-    "learn__/英语/金翅/戏说英语翻译.md",
-    "learn__/英语/金翅/戏说英语新题型.md",
-    "learn__/英语/金翅/戏说英语完形填空.md"
+    "learn__/408/计算机组成原理/计算机组成原理笔记.md",
+    "learn__/408/计算机组成原理/计算机组成原理-宝典.md",
+    "learn__/408/计算机组成原理/计算机组成.md",
+    "learn__/408/计算机组成原理/计算机组成.png",
+    "learn__/Society/2008货币.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/软件设计师/软件设计师复习策略.md",
+    "learn__/软件设计师/2019版大纲.md",
+    "learn__/英语/推理判断题命题思路透析.md"
   ]
 }
