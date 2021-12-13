@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/408/计算机网络/王道笔记计网.md",
+            "file": "learn__/英语/金翅/英语作文模板.md",
             "mode": "preview"
           }
         }
@@ -70,12 +70,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md"
+                "file": "learn__/英语/金翅/英语作文模板.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/408/计算机网络/王道笔记计网.md",
+                "file": "learn__/英语/金翅/英语作文模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +180,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/英语/金翅/英语作文模板.md",
+    "learn__/英语/作文1.md",
+    "learn__/英语/2021新增词汇.md",
     "learn__/408/计算机网络/王道笔记计网.md",
     "learn__/graduate/浙大考研经验7.md",
     "learn__/graduate/浙大考研经验6.md",
     "learn__/graduate/浙大考研经验8.md",
     "learn__/褪墨/拖延心理学/如何提升你定时的能力.md",
     "learn__/褪墨/拖延心理学/学会怎样判断时间.md",
-    "learn__/褪墨/拖延心理学/完美主义的拖延与固定心态.md",
-    "learn__/褪墨/拖延心理学/拖延与恐惧失败.md",
-    "learn__/褪墨/拖延心理学/拖延与时间概念.md",
-    "learn__/褪墨/拖延心理学/拖延与适应不良型完美主义.md"
+    "learn__/褪墨/拖延心理学/完美主义的拖延与固定心态.md"
   ]
 }
