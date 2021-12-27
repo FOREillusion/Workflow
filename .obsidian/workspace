@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-12-27_星期一.md",
+            "file": "Templates/读书笔记模板.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-12-27_星期一.md"
+                "file": "Templates/读书笔记模板.md"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-12-27_星期一.md",
+                "file": "Templates/读书笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,15 +180,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "Templates/读书笔记模板.md",
+    "Templates/周记模板.md",
     "daily__/2021-12-27_星期一.md",
+    "daily__/2021-12-17_星期五.md",
     "paper__/graduated/static.md",
     "learn__/英语/金翅/九字真言戏说英语作文续.md",
     "learn__/408/数据结构/数据结构.md",
     "admin__/account.md",
     "Day Planners/Day Planner-20210902.md",
-    "learn__/英语/金翅/英语作文模板.md",
-    "learn__/英语/金翅/戏说英语阅读理解.md",
-    "learn__/英语/金翅/戏说英语新题型.md",
-    "learn__/英语/金翅/戏说英语完形填空.md"
+    "learn__/英语/金翅/英语作文模板.md"
   ]
 }

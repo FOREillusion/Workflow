@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "读书笔记模板",
+      "path": "Templates/读书笔记模板.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
       "basename": "2021-12-27_星期一",
       "path": "daily__/2021-12-27_星期一.md"
+    },
+    {
+      "basename": "2021-12-17_星期五",
+      "path": "daily__/2021-12-17_星期五.md"
     },
     {
       "basename": "static",
@@ -187,18 +199,6 @@
     {
       "basename": "唐迟阅读",
       "path": "learn__/英语/唐迟阅读.md"
-    },
-    {
-      "basename": "作文1",
-      "path": "learn__/英语/作文1.md"
-    },
-    {
-      "basename": "听力",
-      "path": "learn__/英语/听力.md"
-    },
-    {
-      "basename": "2021-12-17_星期五",
-      "path": "daily__/2021-12-17_星期五.md"
     }
   ],
   "omittedPaths": [],
