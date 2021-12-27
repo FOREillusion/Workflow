@@ -1,7 +1,6 @@
 [
   "calendar",
   "sliding-panes-obsidian",
-  "obsidian-git",
   "obsidian-plugin-todo",
   "obsidian-outliner",
   "obsidian-plugin-prettier",
@@ -21,5 +20,6 @@
   "obsidian-mind-map",
   "obsidian-activity-history",
   "obsidian-image-toolkit",
-  "obsidian-toggl-integration"
+  "obsidian-toggl-integration",
+  "obsidian-git"
 ]
