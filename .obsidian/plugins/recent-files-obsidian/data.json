@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-28_星期二",
+      "path": "daily__/2021-12-28_星期二.md"
+    },
+    {
       "basename": "读书笔记模板",
       "path": "Templates/读书笔记模板.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "技巧",
       "path": "learn__/英语/技巧.md"
-    },
-    {
-      "basename": "唐迟阅读",
-      "path": "learn__/英语/唐迟阅读.md"
     }
   ],
   "omittedPaths": [],
