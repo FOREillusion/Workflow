@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "专注力",
+      "path": "learn__/学习方法/专注力.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "Listening",
+      "path": "learn__/CET-6/Listening.md"
+    },
+    {
+      "basename": "45岁如何思考职业生涯后半程？",
+      "path": "Inbox/45岁如何思考职业生涯后半程？.md"
+    },
+    {
+      "basename": "25岁做什么，可在 5年后受益匪浅？",
+      "path": "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
+    },
+    {
+      "basename": "【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red",
+      "path": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md"
+    },
+    {
+      "basename": "(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS",
+      "path": "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
+    },
+    {
+      "basename": "_iframe src=_http___player.bilibili.com_player.htm",
+      "path": "Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
+    },
+    {
       "basename": "2021-12-28_星期二",
       "path": "daily__/2021-12-28_星期二.md"
     },
@@ -89,10 +129,6 @@
       "path": "learn__/英语/细节题.md"
     },
     {
-      "basename": "Listening",
-      "path": "learn__/CET-6/Listening.md"
-    },
-    {
       "basename": "浙大考研经验11",
       "path": "learn__/graduate/浙大考研经验11.md"
     },
@@ -129,28 +165,12 @@
       "path": "learn__/学习方法/前额页.md"
     },
     {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
       "basename": "上交大郑老师",
       "path": "learn__/学习方法/上交大郑老师.md"
     },
     {
-      "basename": "tips",
-      "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
-    },
-    {
       "basename": "motivated",
       "path": "learn__/学习方法/motivated.md"
-    },
-    {
-      "basename": "Mathlearning",
-      "path": "learn__/学习方法/Mathlearning.md"
     },
     {
       "basename": "photo_2021-03-12_22-25-52",
@@ -179,26 +199,6 @@
     {
       "basename": "考研英语笔记",
       "path": "learn__/英语/考研英语笔记.md"
-    },
-    {
-      "basename": "翻译",
-      "path": "learn__/英语/翻译.md"
-    },
-    {
-      "basename": "核心单词",
-      "path": "learn__/英语/核心单词.md"
-    },
-    {
-      "basename": "推理判断题命题思路透析",
-      "path": "learn__/英语/推理判断题命题思路透析.md"
-    },
-    {
-      "basename": "完型填空",
-      "path": "learn__/英语/完型填空.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "learn__/英语/技巧.md"
     }
   ],
   "omittedPaths": [],

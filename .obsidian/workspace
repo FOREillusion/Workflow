@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-12-28_星期二.md",
+            "file": "learn__/学习方法/专注力.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "晴神笔记",
+                "query": "2fa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-12-28_星期二.md"
+                "file": "learn__/学习方法/专注力.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-12-28_星期二.md",
+                "file": "learn__/学习方法/专注力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +181,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
-    "daily__/2021-12-28_星期二.md",
-    "Templates/读书笔记模板.md",
-    "Templates/周记模板.md",
-    "daily__/2021-12-27_星期一.md",
-    "daily__/2021-12-17_星期五.md",
-    "paper__/graduated/static.md",
-    "learn__/英语/金翅/九字真言戏说英语作文续.md",
-    "learn__/408/数据结构/数据结构.md",
-    "admin__/account.md",
-    "Day Planners/Day Planner-20210902.md"
+    "learn__/学习方法/专注力.md",
+    "learn__/学习方法/tips.md",
+    "learn__/学习方法/PDCA.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/CET-6/Listening.md",
+    "Inbox/45岁如何思考职业生涯后半程？.md",
+    "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
+    "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
+    "Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
   ]
 }
