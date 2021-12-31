@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/复盘/考研复盘.md",
+            "file": "daily__/2021-12-31_星期五.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/复盘/考研复盘.md"
+                "file": "daily__/2021-12-31_星期五.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/复盘/考研复盘.md",
+                "file": "daily__/2021-12-31_星期五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,9 +182,9 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2021-12-31_星期五.md",
     "Note/复盘/考研复盘.md",
     "admin__/account.md",
-    "daily__/2021-12-31_星期五.md",
     "learn__/学习方法/专注力.md",
     "learn__/学习方法/tips.md",
     "learn__/学习方法/PDCA.md",
