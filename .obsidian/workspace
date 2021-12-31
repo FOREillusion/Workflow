@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/学习方法/专注力.md",
+            "file": "daily__/2021-12-31_星期五.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/学习方法/专注力.md"
+                "file": "daily__/2021-12-31_星期五.md"
               }
             }
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "86468890bdd73e2a",
@@ -104,8 +105,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c2b4dc7600981295",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f50af7a2544cb03",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4c8cd3226ebd3fa8",
@@ -118,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/学习方法/专注力.md",
+                "file": "daily__/2021-12-31_星期五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,31 +157,15 @@
                 "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "1558182191027f9b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ed0ea2f7c39edf32",
         "type": "tabs",
         "dimension": 23.923444976076556,
         "children": [
-          {
-            "id": "65786d4b72c68b57",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
           {
             "id": "ac78723de28beba6",
             "type": "leaf",
@@ -180,6 +182,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2021-12-31_星期五.md",
     "learn__/学习方法/专注力.md",
     "learn__/学习方法/tips.md",
     "learn__/学习方法/PDCA.md",
@@ -188,7 +191,6 @@
     "Inbox/45岁如何思考职业生涯后半程？.md",
     "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
     "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
-    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
-    "Inbox/_iframe src=_http___player.bilibili.com_player.htm.md"
+    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
   ]
 }
