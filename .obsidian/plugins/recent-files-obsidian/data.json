@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "考研复盘",
+      "path": "Note/复盘/考研复盘.md"
+    },
+    {
+      "basename": "account",
+      "path": "admin__/account.md"
+    },
+    {
       "basename": "2021-12-31_星期五",
       "path": "daily__/2021-12-31_星期五.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "数据结构",
       "path": "learn__/408/数据结构/数据结构.md"
-    },
-    {
-      "basename": "account",
-      "path": "admin__/account.md"
     },
     {
       "basename": "Day Planner-20210902",
@@ -195,10 +199,6 @@
     {
       "basename": "阅读技巧",
       "path": "learn__/英语/阅读技巧.md"
-    },
-    {
-      "basename": "阅读",
-      "path": "learn__/英语/阅读.md"
     }
   ],
   "omittedPaths": [],

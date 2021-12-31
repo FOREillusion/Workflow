@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2021-12-31_星期五.md",
+            "file": "Note/复盘/考研复盘.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2021-12-31_星期五.md"
+                "file": "Note/复盘/考研复盘.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2021-12-31_星期五.md",
+                "file": "Note/复盘/考研复盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +182,8 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "Note/复盘/考研复盘.md",
+    "admin__/account.md",
     "daily__/2021-12-31_星期五.md",
     "learn__/学习方法/专注力.md",
     "learn__/学习方法/tips.md",
@@ -189,8 +191,6 @@
     "learn__/学习方法/Mathlearning.md",
     "learn__/CET-6/Listening.md",
     "Inbox/45岁如何思考职业生涯后半程？.md",
-    "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
-    "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
-    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
+    "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
   ]
 }
