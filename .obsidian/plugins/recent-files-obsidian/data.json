@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day1-职业规划",
+      "path": "learn__/Java实习/第一 部分/Day1-职业规划.md"
+    },
+    {
       "basename": "2021-12-31_星期五",
       "path": "daily__/2021-12-31_星期五.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "模板1",
       "path": "Templates/Daily 模板/模板1.md"
-    },
-    {
-      "basename": "阅读技巧",
-      "path": "learn__/英语/阅读技巧.md"
     }
   ],
   "omittedPaths": [],
