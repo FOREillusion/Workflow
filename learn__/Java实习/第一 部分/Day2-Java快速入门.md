@@ -28,3 +28,8 @@ Java核心优势跨平台
 
 ![image-20220106235502424](Day2-Java快速入门-photo/image-20220106235502424.png)
 
+
+
+![image-20220106235717662](Day2-Java快速入门-photo/image-20220106235717662.png)
+
+![image-20220106235922658](Day2-Java快速入门-photo/image-20220106235922658.png)
