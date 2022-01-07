@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
+            "file": "daily__/2022-01-07_星期五.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md"
+                "file": "daily__/2022-01-07_星期五.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
+                "file": "daily__/2022-01-07_星期五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-01-07_星期五.md",
     "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
     "learn__/Java实习/第一 部分/Day1-职业规划.md",
     "daily__/2021-12-31_星期五.md",
@@ -189,7 +190,6 @@
     "learn__/学习方法/专注力.md",
     "learn__/学习方法/tips.md",
     "learn__/学习方法/PDCA.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/CET-6/Listening.md"
+    "learn__/学习方法/Mathlearning.md"
   ]
 }
