@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/哈工深/01-photo/未命名.md",
+            "file": "learn__/Java实习/第一 部分/Day03-变量.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/哈工深/01-photo/未命名.md"
+                "file": "learn__/Java实习/第一 部分/Day03-变量.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/哈工深/01-photo/未命名.md",
+                "file": "learn__/Java实习/第一 部分/Day03-变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/Java实习/第一 部分/Day03-变量.md",
     "learn__/经验帖/哈工深/01-photo/未命名.md",
     "learn__/经验帖/哈工深/01.md",
     "learn__/经验帖/哈工深/2021哈尔滨工业大学(深圳)854计算机考研410分经验贴.md",
@@ -189,7 +190,6 @@
     "learn__/Java实习/第一 部分/Day1-职业规划.md",
     "daily__/2021-12-31_星期五.md",
     "Note/复盘/考研复盘.md",
-    "admin__/account.md",
-    "learn__/学习方法/专注力.md"
+    "admin__/account.md"
   ]
 }
