@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-08_星期六",
+      "path": "daily__/2022-01-08_星期六.md"
+    },
+    {
       "basename": "Day03-变量",
       "path": "learn__/Java实习/第一 部分/Day03-变量.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "背书",
       "path": "learn__/学习方法/背书.md"
-    },
-    {
-      "basename": "前额页",
-      "path": "learn__/学习方法/前额页.md"
     }
   ],
   "omittedPaths": [],
