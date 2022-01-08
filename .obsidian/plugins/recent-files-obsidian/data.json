@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "番茄意面",
+      "path": "learn__/天才厨师养成计/番茄意面.md"
+    },
+    {
       "basename": "2022-01-08_星期六",
       "path": "daily__/2022-01-08_星期六.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "日程管理",
       "path": "learn__/学习方法/日程管理.md"
-    },
-    {
-      "basename": "背书",
-      "path": "learn__/学习方法/背书.md"
     }
   ],
   "omittedPaths": [],
