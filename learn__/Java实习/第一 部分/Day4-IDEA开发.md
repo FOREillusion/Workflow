@@ -1,1 +1,17 @@
 ![image-20220109132640289](Day4-IDEA开发-photo/image-20220109132640289.png)
+
+
+
+
+
+![image-20220109133702783](Day4-IDEA开发-photo/image-20220109133702783.png)
+
+![image-20220109134159247](Day4-IDEA开发-photo/image-20220109134159247.png)
+
+
+
+
+
+![image-20220109134249606](Day4-IDEA开发-photo/image-20220109134249606.png)
+
+流程图
