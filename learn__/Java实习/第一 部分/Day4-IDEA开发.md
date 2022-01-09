@@ -19,3 +19,19 @@
 
 
 ![image-20220109134847741](Day4-IDEA开发-photo/image-20220109134847741.png)
+
+
+
+![image-20220109142258195](Day4-IDEA开发-photo/image-20220109142258195.png)
+
+
+
+
+
+![image-20220109142305460](Day4-IDEA开发-photo/image-20220109142305460.png)
+
+
+
+![image-20220109142354712](Day4-IDEA开发-photo/image-20220109142354712.png)
+
+![image-20220109142659645](Day4-IDEA开发-photo/image-20220109142659645.png)
