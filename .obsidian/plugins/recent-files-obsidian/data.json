@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day4-IDEA开发",
+      "path": "learn__/Java实习/第一 部分/Day4-IDEA开发.md"
+    },
+    {
       "basename": "番茄意面",
       "path": "learn__/天才厨师养成计/番茄意面.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "逻辑思维能力",
       "path": "learn__/学习方法/逻辑思维能力.md"
-    },
-    {
-      "basename": "日程管理",
-      "path": "learn__/学习方法/日程管理.md"
     }
   ],
   "omittedPaths": [],
