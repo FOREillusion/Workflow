@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day8-9面向对象详解和JVM底层内存分析",
+      "path": "learn__/Java实习/第一 部分/Day8-9面向对象详解和JVM底层内存分析.md"
+    },
+    {
       "basename": "Day7-面向对象详解和JVM底层内存分析",
       "path": "learn__/Java实习/第一 部分/Day7-面向对象详解和JVM底层内存分析.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "浙大考研经验11",
       "path": "learn__/graduate/浙大考研经验11.md"
-    },
-    {
-      "basename": "ADHD克服",
-      "path": "learn__/Growth/ADHD克服.md"
     }
   ],
   "omittedPaths": [],
