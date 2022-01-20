@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day13",
+      "path": "learn__/Java实习/第一 部分/Day13.md"
+    },
+    {
       "basename": "Day12-异常",
       "path": "learn__/Java实习/第一 部分/Day12-异常.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "现代操作系统知识点总结",
       "path": "learn__/408/操作系统/现代操作系统知识点总结.md"
-    },
-    {
-      "basename": "计算机操作系统",
-      "path": "learn__/408/操作系统/计算机操作系统.md"
     }
   ],
   "omittedPaths": [],
