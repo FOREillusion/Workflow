@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "day16",
+      "path": "learn__/Java实习/第一 部分/day16.md"
+    },
+    {
       "basename": "day15",
       "path": "learn__/Java实习/第一 部分/day15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "考研英语阅读理解命题思路透析和真题揭秘",
       "path": "learn__/英语/考研英语阅读理解命题思路透析和真题揭秘.md"
-    },
-    {
-      "basename": "英语问题模板",
-      "path": "learn__/英语/英语问题模板.md"
     }
   ],
   "omittedPaths": [],
