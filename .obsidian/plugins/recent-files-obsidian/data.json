@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学神养成",
+      "path": "learn__/经验帖/学神养成.md"
+    },
+    {
       "basename": "day17",
       "path": "learn__/Java实习/第一 部分/day17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "戏说英语完形填空",
       "path": "learn__/英语/金翅/戏说英语完形填空.md"
-    },
-    {
-      "basename": "考研英语笔记2",
-      "path": "learn__/英语/考研英语笔记2.md"
     }
   ],
   "omittedPaths": [],
