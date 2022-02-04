@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-02-04_星期五",
+      "path": "daily__/2022-02-04_星期五.md"
+    },
+    {
       "basename": "微软面试",
       "path": "learn__/面试屠龙宝刀/微软面试.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "戏说英语阅读理解",
       "path": "learn__/英语/金翅/戏说英语阅读理解.md"
-    },
-    {
-      "basename": "戏说英语新题型",
-      "path": "learn__/英语/金翅/戏说英语新题型.md"
     }
   ],
   "omittedPaths": [],
