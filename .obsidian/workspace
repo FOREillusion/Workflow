@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-02-10_星期四.md",
+            "file": "daily__/2022-02-12_星期六.md",
             "mode": "source"
           }
         }
@@ -70,11 +70,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-02-10_星期四.md"
+                "file": "daily__/2022-02-12_星期六.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4c8cd3226ebd3fa8",
@@ -135,9 +135,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-02-10_星期四.md",
+                "file": "daily__/2022-02-12_星期六.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -153,12 +153,11 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ed0ea2f7c39edf32",
@@ -181,6 +180,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-02-12_星期六.md",
     "daily__/2022-02-10_星期四.md",
     "learn__/英语/经验.md",
     "daily__/2022-02-09_星期三.md",
@@ -189,7 +189,6 @@
     "learn__/经验帖/学神养成.md",
     "learn__/Java实习/第一 部分/day17.md",
     "learn__/Java实习/第一 部分/day16.md",
-    "learn__/Java实习/第一 部分/day15.md",
-    "learn__/Java实习/第一 部分/day14容器.md"
+    "learn__/Java实习/第一 部分/day15.md"
   ]
 }
