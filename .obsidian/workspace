@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/英语/贴吧大神英语.md",
+            "file": "daily__/2022-03-05_星期六.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/英语/贴吧大神英语.md"
+                "file": "daily__/2022-03-05_星期六.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/英语/贴吧大神英语.md",
+                "file": "daily__/2022-03-05_星期六.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-03-05_星期六.md",
     "learn__/英语/贴吧大神英语.md",
     "daily__/2022-02-25_星期五.md",
     "daily__/2022-02-24_星期四.md",
@@ -188,7 +189,6 @@
     "daily__/2022-02-10_星期四.md",
     "learn__/英语/经验.md",
     "daily__/2022-02-09_星期三.md",
-    "daily__/2022-02-04_星期五.md",
-    "learn__/面试屠龙宝刀/微软面试.md"
+    "daily__/2022-02-04_星期五.md"
   ]
 }
