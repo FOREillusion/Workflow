@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "浙大考研经验1",
+      "path": "learn__/graduate/浙大考研经验1.md"
+    },
+    {
+      "basename": "浙大考研经验2",
+      "path": "learn__/graduate/浙大考研经验2.md"
+    },
+    {
+      "basename": "内耗",
+      "path": "Inbox/内耗.md"
+    },
+    {
       "basename": "机试",
       "path": "learn__/graduate/复试/机试.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "account",
       "path": "admin__/account.md"
-    },
-    {
-      "basename": "专注力",
-      "path": "learn__/学习方法/专注力.md"
-    },
-    {
-      "basename": "tips",
-      "path": "learn__/学习方法/tips.md"
-    },
-    {
-      "basename": "PDCA",
-      "path": "learn__/学习方法/PDCA.md"
     }
   ],
   "omittedPaths": [],
