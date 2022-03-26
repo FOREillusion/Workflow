@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Growth/ADHD克服.md",
+            "file": "daily__/2022-03-26_星期六.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md"
+                "file": "daily__/2022-03-26_星期六.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Growth/ADHD克服.md",
+                "file": "daily__/2022-03-26_星期六.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-03-26_星期六.md",
     "learn__/Growth/ADHD克服.md",
     "learn__/graduate/浙大考研经验10.md",
     "learn__/graduate/浙大考研经验9.md",
@@ -188,7 +189,6 @@
     "learn__/graduate/浙大考研经验2.md",
     "Inbox/内耗.md",
     "learn__/graduate/复试/机试.md",
-    "learn__/graduate/复试/复试1.md",
-    "daily__/2022-03-16_星期三.md"
+    "learn__/graduate/复试/复试1.md"
   ]
 }
