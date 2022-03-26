@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red",
+      "path": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md"
+    },
+    {
+      "basename": "(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客",
+      "path": "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md"
+    },
+    {
+      "basename": "(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS",
+      "path": "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md"
+    },
+    {
+      "basename": "2022年计算机考研有什么性价比高的院校220326",
+      "path": "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md"
+    },
+    {
+      "basename": "tips",
+      "path": "learn__/学习方法/tips.md"
+    },
+    {
+      "basename": "problem",
+      "path": "learn__/学习方法/problem.md"
+    },
+    {
+      "basename": "PDCA",
+      "path": "learn__/学习方法/PDCA.md"
+    },
+    {
+      "basename": "motivated",
+      "path": "learn__/学习方法/motivated.md"
+    },
+    {
+      "basename": "Mathlearning",
+      "path": "learn__/学习方法/Mathlearning.md"
+    },
+    {
+      "basename": "p504343286",
+      "path": "learn__/学习方法/背书-photo/p504343286.webp"
+    },
+    {
+      "basename": "p504343304",
+      "path": "learn__/学习方法/背书-photo/p504343304.webp"
+    },
+    {
+      "basename": "p504343305",
+      "path": "learn__/学习方法/背书-photo/p504343305.webp"
+    },
+    {
+      "basename": "p504541430",
+      "path": "learn__/学习方法/背书-photo/p504541430.webp"
+    },
+    {
+      "basename": "p504541540",
+      "path": "learn__/学习方法/背书-photo/p504541540.webp"
+    },
+    {
+      "basename": "Pasted image 20210719204943",
+      "path": "resources__/Pasted image 20210719204943.png"
+    },
+    {
+      "basename": "mygraduatedpaper",
+      "path": "write__/mygraduatedpaper.md"
+    },
+    {
+      "basename": "贴吧大神英语",
+      "path": "learn__/英语/贴吧大神英语.md"
+    },
+    {
       "basename": "2022-03-26_星期六",
       "path": "daily__/2022-03-26_星期六.md"
     },
@@ -73,10 +141,6 @@
       "path": "daily__/2022-03-05_星期六.md"
     },
     {
-      "basename": "贴吧大神英语",
-      "path": "learn__/英语/贴吧大神英语.md"
-    },
-    {
       "basename": "2022-02-25_星期五",
       "path": "daily__/2022-02-25_星期五.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Day13",
       "path": "learn__/Java实习/第一 部分/Day13.md"
-    },
-    {
-      "basename": "Day12-异常",
-      "path": "learn__/Java实习/第一 部分/Day12-异常.md"
-    },
-    {
-      "basename": "Day11-飞机大战",
-      "path": "learn__/Java实习/第一 部分/Day11-飞机大战.md"
-    },
-    {
-      "basename": "Day10 数组",
-      "path": "learn__/Java实习/第一 部分/Day10 数组.md"
-    },
-    {
-      "basename": "Day8-9面向对象详解和JVM底层内存分析",
-      "path": "learn__/Java实习/第一 部分/Day8-9面向对象详解和JVM底层内存分析.md"
-    },
-    {
-      "basename": "Day7-面向对象详解和JVM底层内存分析",
-      "path": "learn__/Java实习/第一 部分/Day7-面向对象详解和JVM底层内存分析.md"
-    },
-    {
-      "basename": "Day6面向对象详解和JVM底层内存分析",
-      "path": "learn__/Java实习/第一 部分/Day6面向对象详解和JVM底层内存分析.md"
-    },
-    {
-      "basename": "2022-01-12_星期三",
-      "path": "daily__/2022-01-12_星期三.md"
-    },
-    {
-      "basename": "Day5-da",
-      "path": "learn__/Java实习/第一 部分/Day5-da.md"
-    },
-    {
-      "basename": "Day4-IDEA开发",
-      "path": "learn__/Java实习/第一 部分/Day4-IDEA开发.md"
-    },
-    {
-      "basename": "番茄意面",
-      "path": "learn__/天才厨师养成记/番茄意面.md"
-    },
-    {
-      "basename": "2022-01-08_星期六",
-      "path": "daily__/2022-01-08_星期六.md"
-    },
-    {
-      "basename": "Day03-变量",
-      "path": "learn__/Java实习/第一 部分/Day03-变量.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "learn__/经验帖/哈工深/01-photo/未命名.md"
-    },
-    {
-      "basename": "01",
-      "path": "learn__/经验帖/哈工深/01.md"
-    },
-    {
-      "basename": "2021哈尔滨工业大学(深圳)854计算机考研410分经验贴",
-      "path": "learn__/经验帖/哈工深/2021哈尔滨工业大学(深圳)854计算机考研410分经验贴.md"
-    },
-    {
-      "basename": "2022-01-07_星期五",
-      "path": "daily__/2022-01-07_星期五.md"
     }
   ],
   "omittedPaths": [],

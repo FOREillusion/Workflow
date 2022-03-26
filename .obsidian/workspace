@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-03-26_星期六.md",
-            "mode": "source"
+            "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -70,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-03-26_星期六.md"
+                "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4c8cd3226ebd3fa8",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-03-26_星期六.md",
+                "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,15 +181,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
-    "daily__/2022-03-26_星期六.md",
-    "learn__/Growth/ADHD克服.md",
-    "learn__/graduate/浙大考研经验10.md",
-    "learn__/graduate/浙大考研经验9.md",
-    "learn__/graduate/浙大考研经验11.md",
-    "learn__/graduate/浙大考研经验1.md",
-    "learn__/graduate/浙大考研经验2.md",
-    "Inbox/内耗.md",
-    "learn__/graduate/复试/机试.md",
-    "learn__/graduate/复试/复试1.md"
+    "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+    "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
+    "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
+    "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md",
+    "learn__/学习方法/tips.md",
+    "learn__/学习方法/problem.md",
+    "learn__/学习方法/PDCA.md",
+    "learn__/学习方法/motivated.md",
+    "learn__/学习方法/Mathlearning.md",
+    "learn__/学习方法/背书-photo/p504343286.webp"
   ]
 }

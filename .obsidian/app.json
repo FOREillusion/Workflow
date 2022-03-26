@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "vimMode": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "legacyEditor": false
 }
