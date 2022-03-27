@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+            "file": "daily__/2022-03-16_星期三.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md"
+                "file": "daily__/2022-03-16_星期三.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "4c8cd3226ebd3fa8",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+                "file": "daily__/2022-03-16_星期三.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,8 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-03-16_星期三.md",
+    "daily__/2022-03-26_星期六.md",
     "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
     "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
     "Inbox/(4条消息) Nvidia JetsonTx2 使用中遇到的坑与填坑方法_shao455的博客-CS.md",
@@ -188,8 +190,6 @@
     "learn__/学习方法/tips.md",
     "learn__/学习方法/problem.md",
     "learn__/学习方法/PDCA.md",
-    "learn__/学习方法/motivated.md",
-    "learn__/学习方法/Mathlearning.md",
-    "learn__/学习方法/背书-photo/p504343286.webp"
+    "learn__/学习方法/motivated.md"
   ]
 }
