@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-04-02_星期六",
+      "path": "daily__/2022-04-02_星期六.md"
+    },
+    {
       "basename": "2022-04-01_星期五",
       "path": "daily__/2022-04-01_星期五.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "day15",
       "path": "learn__/Java实习/第一 部分/day15.md"
-    },
-    {
-      "basename": "day14容器",
-      "path": "learn__/Java实习/第一 部分/day14容器.md"
     }
   ],
   "omittedPaths": [],
