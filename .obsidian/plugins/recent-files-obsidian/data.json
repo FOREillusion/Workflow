@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "单词库",
+      "path": "learn__/英语/vocab/单词库.md"
+    },
+    {
+      "basename": "How I Keep My Projects Organized (1)",
+      "path": "Inbox/How I Keep My Projects Organized (1).md"
+    },
+    {
+      "basename": "How I Escaped Tutorial Purgatory – and How You Can",
+      "path": "Inbox/How I Escaped Tutorial Purgatory – and How You Can.md"
+    },
+    {
+      "basename": "git命令大全_",
+      "path": "Inbox/git命令大全_.md"
+    },
+    {
+      "basename": "FPGA入门",
+      "path": "Inbox/FPGA入门.md"
+    },
+    {
+      "basename": "2022年计算机考研有什么性价比高的院校220326",
+      "path": "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md"
+    },
+    {
       "basename": "2022-04-02_星期六",
       "path": "daily__/2022-04-02_星期六.md"
     },
     {
       "basename": "2022-04-01_星期五",
       "path": "daily__/2022-04-01_星期五.md"
-    },
-    {
-      "basename": "2022年计算机考研有什么性价比高的院校220326",
-      "path": "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md"
     },
     {
       "basename": "2022-03-16_星期三",
@@ -179,26 +199,6 @@
     {
       "basename": "2022-02-04_星期五",
       "path": "daily__/2022-02-04_星期五.md"
-    },
-    {
-      "basename": "微软面试",
-      "path": "learn__/面试屠龙宝刀/微软面试.md"
-    },
-    {
-      "basename": "学神养成",
-      "path": "learn__/经验帖/学神养成.md"
-    },
-    {
-      "basename": "day17",
-      "path": "learn__/Java实习/第一 部分/day17.md"
-    },
-    {
-      "basename": "day16",
-      "path": "learn__/Java实习/第一 部分/day16.md"
-    },
-    {
-      "basename": "day15",
-      "path": "learn__/Java实习/第一 部分/day15.md"
     }
   ],
   "omittedPaths": [],
