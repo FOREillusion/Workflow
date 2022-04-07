@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-04-06_星期三.md",
+            "file": "learn__/经验帖/math_Ireshman/未命名.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-04-06_星期三.md"
+                "file": "learn__/经验帖/math_Ireshman/未命名.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-04-06_星期三.md",
+                "file": "learn__/经验帖/math_Ireshman/未命名.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/经验帖/math_Ireshman/未命名.md",
     "daily__/2022-04-06_星期三.md",
     "learn__/英语/vocab/单词库.md",
     "Inbox/How I Keep My Projects Organized (1).md",
@@ -189,7 +190,6 @@
     "Inbox/FPGA入门.md",
     "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md",
     "daily__/2022-04-02_星期六.md",
-    "daily__/2022-04-01_星期五.md",
-    "daily__/2022-03-16_星期三.md"
+    "daily__/2022-04-01_星期五.md"
   ]
 }
