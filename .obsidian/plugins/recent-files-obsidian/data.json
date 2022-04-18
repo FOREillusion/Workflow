@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Day13",
+      "path": "learn__/Java实习/第一 部分/Day13.md"
+    },
+    {
+      "basename": "Day12-异常",
+      "path": "learn__/Java实习/第一 部分/Day12-异常.md"
+    },
+    {
+      "basename": "Day11-飞机大战",
+      "path": "learn__/Java实习/第一 部分/Day11-飞机大战.md"
+    },
+    {
+      "basename": "Day10 数组",
+      "path": "learn__/Java实习/第一 部分/Day10 数组.md"
+    },
+    {
+      "basename": "Day8-9面向对象详解和JVM底层内存分析",
+      "path": "learn__/Java实习/第一 部分/Day8-9面向对象详解和JVM底层内存分析.md"
+    },
+    {
+      "basename": "Day7-面向对象详解和JVM底层内存分析",
+      "path": "learn__/Java实习/第一 部分/Day7-面向对象详解和JVM底层内存分析.md"
+    },
+    {
+      "basename": "Day6面向对象详解和JVM底层内存分析",
+      "path": "learn__/Java实习/第一 部分/Day6面向对象详解和JVM底层内存分析.md"
+    },
+    {
+      "basename": "Day5-da",
+      "path": "learn__/Java实习/第一 部分/Day5-da.md"
+    },
+    {
+      "basename": "Day4-IDEA开发",
+      "path": "learn__/Java实习/第一 部分/Day4-IDEA开发.md"
+    },
+    {
+      "basename": "Day03-变量",
+      "path": "learn__/Java实习/第一 部分/Day03-变量.md"
+    },
+    {
+      "basename": "Day2-Java快速入门",
+      "path": "learn__/Java实习/第一 部分/Day2-Java快速入门.md"
+    },
+    {
+      "basename": "Day1-职业规划",
+      "path": "learn__/Java实习/第一 部分/Day1-职业规划.md"
+    },
+    {
+      "basename": "费曼笔记",
+      "path": "Inbox/费曼笔记.md"
+    },
+    {
+      "basename": "观点_为什么犯错让我成为一个更好的系统管理员",
+      "path": "Inbox/观点_为什么犯错让我成为一个更好的系统管理员.md"
+    },
+    {
+      "basename": "視頻網頁",
+      "path": "Inbox/視頻網頁.md"
+    },
+    {
       "basename": "2022-04-17_星期日",
       "path": "daily__/2022-04-17_星期日.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "浙大考研经验10",
       "path": "learn__/graduate/浙大考研经验10.md"
-    },
-    {
-      "basename": "浙大考研经验9",
-      "path": "learn__/graduate/浙大考研经验9.md"
-    },
-    {
-      "basename": "浙大考研经验11",
-      "path": "learn__/graduate/浙大考研经验11.md"
-    },
-    {
-      "basename": "浙大考研经验1",
-      "path": "learn__/graduate/浙大考研经验1.md"
-    },
-    {
-      "basename": "浙大考研经验2",
-      "path": "learn__/graduate/浙大考研经验2.md"
-    },
-    {
-      "basename": "内耗",
-      "path": "Inbox/内耗.md"
-    },
-    {
-      "basename": "机试",
-      "path": "learn__/graduate/复试/机试.md"
-    },
-    {
-      "basename": "复试1",
-      "path": "learn__/graduate/复试/复试1.md"
-    },
-    {
-      "basename": "image-20220124162954325",
-      "path": "learn__/Java实习/第一 部分/day17-photo/image-20220124162954325.png"
-    },
-    {
-      "basename": "image-20220124162924375",
-      "path": "learn__/Java实习/第一 部分/day17-photo/image-20220124162924375.png"
-    },
-    {
-      "basename": "image-20220124162700677",
-      "path": "learn__/Java实习/第一 部分/day17-photo/image-20220124162700677.png"
-    },
-    {
-      "basename": "image-20220124162312796",
-      "path": "learn__/Java实习/第一 部分/day17-photo/image-20220124162312796.png"
-    },
-    {
-      "basename": "2022-03-13_星期日",
-      "path": "daily__/2022-03-13_星期日.md"
-    },
-    {
-      "basename": "Day1-职业规划",
-      "path": "learn__/Java实习/第一 部分/Day1-职业规划.md"
-    },
-    {
-      "basename": "2022-03-05_星期六",
-      "path": "daily__/2022-03-05_星期六.md"
-    },
-    {
-      "basename": "2022-02-25_星期五",
-      "path": "daily__/2022-02-25_星期五.md"
     }
   ],
   "omittedPaths": [],
