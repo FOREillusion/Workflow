@@ -21,5 +21,8 @@
   "obsidian-activity-history",
   "obsidian-image-toolkit",
   "obsidian-toggl-integration",
-  "obsidian-git"
+  "obsidian-git",
+  "nldates-obsidian",
+  "oz-image-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]
