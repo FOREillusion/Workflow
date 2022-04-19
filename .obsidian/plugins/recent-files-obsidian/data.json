@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Day5-da",
+      "path": "learn__/Java实习/第一 部分/Day5-da.md"
+    },
+    {
+      "basename": "Day10 数组",
+      "path": "learn__/Java实习/第一 部分/Day10 数组.md"
+    },
+    {
+      "basename": "Pasted image 20210721152159",
+      "path": "resources__/Pasted image 20210721152159.png"
+    },
+    {
       "basename": "雅思经验分享",
       "path": "learn__/雅思/雅思经验分享.md"
     },
@@ -45,10 +57,6 @@
       "path": "learn__/Java实习/第一 部分/Day11-飞机大战.md"
     },
     {
-      "basename": "Day10 数组",
-      "path": "learn__/Java实习/第一 部分/Day10 数组.md"
-    },
-    {
       "basename": "Day8-9面向对象详解和JVM底层内存分析",
       "path": "learn__/Java实习/第一 部分/Day8-9面向对象详解和JVM底层内存分析.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Day6面向对象详解和JVM底层内存分析",
       "path": "learn__/Java实习/第一 部分/Day6面向对象详解和JVM底层内存分析.md"
-    },
-    {
-      "basename": "Day5-da",
-      "path": "learn__/Java实习/第一 部分/Day5-da.md"
     },
     {
       "basename": "Day4-IDEA开发",
@@ -195,10 +199,6 @@
     {
       "basename": "p504343305",
       "path": "learn__/学习方法/背书-photo/p504343305.webp"
-    },
-    {
-      "basename": "p504541430",
-      "path": "learn__/学习方法/背书-photo/p504541430.webp"
     }
   ],
   "omittedPaths": [],

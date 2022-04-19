@@ -24,5 +24,7 @@
   "obsidian-git",
   "nldates-obsidian",
   "oz-image-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-hider",
+  "obsidian-style-settings"
 ]
