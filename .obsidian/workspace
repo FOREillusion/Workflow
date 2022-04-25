@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Java实习/第一 部分/Day5-da.md",
-            "mode": "preview",
+            "file": "daily__/2022-04-25_星期一.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day5-da.md"
+                "file": "daily__/2022-04-25_星期一.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day5-da.md",
+                "file": "daily__/2022-04-25_星期一.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-04-25_星期一.md",
     "learn__/Java实习/第一 部分/Day5-da.md",
     "learn__/Java实习/第一 部分/Day10 数组.md",
     "resources__/Pasted image 20210721152159.png",
@@ -189,7 +190,6 @@
     "learn__/经验帖/math_Ireshman/考研数学辅导书推荐.md",
     "learn__/Society/2008货币.md",
     "learn__/Java实习/第一 部分/day17.md",
-    "learn__/Java实习/第一 部分/day16.md",
-    "learn__/Java实习/第一 部分/day15.md"
+    "learn__/Java实习/第一 部分/day16.md"
   ]
 }
