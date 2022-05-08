@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/Java实习/第一 部分/Day1-职业规划.md",
+            "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day1-职业规划.md"
+                "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Java实习/第一 部分/Day1-职业规划.md",
+                "file": "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,8 +181,8 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
-    "learn__/Java实习/第一 部分/Day1-职业规划.md",
     "learn__/Java实习/第一 部分/Day2-Java快速入门.md",
+    "learn__/Java实习/第一 部分/Day1-职业规划.md",
     "learn__/Java实习/第一 部分/day16.md",
     "learn__/Java实习/第一 部分/day17.md",
     "daily__/2022-05-01_星期日.md",
