@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-05-29_Sunday.md",
-            "mode": "source",
+            "file": "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-05-29_Sunday.md"
+                "file": "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-05-29_Sunday.md",
+                "file": "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
     "daily__/2022-05-29_Sunday.md",
     "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md",
     "Inbox/网页文章/2021北大交叉学科-前沿交叉学科研究院-考研备考指南及高分经验分享220411.md",
@@ -189,7 +190,6 @@
     "Pasted image 20220407194323.png",
     "Pasted image 20220407194545.png",
     "Pasted image 20220407205019.png",
-    "Pasted image 20220407205924.png",
-    "Pasted image 20220407205518.png"
+    "Pasted image 20220407205924.png"
   ]
 }
