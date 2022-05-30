@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Filesystem",
+      "path": "learn__/njuOS/Filesystem.md"
+    },
+    {
       "basename": "run如何寻找适合自己的方案2205$29",
       "path": "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git命令大全_",
       "path": "Inbox/git命令大全_.md"
-    },
-    {
-      "basename": "FPGA入门",
-      "path": "Inbox/FPGA入门.md"
     }
   ],
   "omittedPaths": [],
