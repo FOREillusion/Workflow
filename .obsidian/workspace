@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/njuOS/Filesystem.md",
+            "file": "learn__/天才厨师养成记/番茄意面.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/njuOS/Filesystem.md"
+                "file": "learn__/天才厨师养成记/番茄意面.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/njuOS/Filesystem.md",
+                "file": "learn__/天才厨师养成记/番茄意面.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
-    "learn__/njuOS/Filesystem.md",
-    "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
-    "daily__/2022-05-29_Sunday.md",
+    "learn__/天才厨师养成记/番茄意面.md",
+    "Inbox/急死！CPU被挖矿了，却找不到哪个进程！ - 简书.md",
+    "Inbox/想学习推荐系统，如何从小白成为高手_.md",
+    "Inbox/虚拟仿真对在线教育方式的影响和促进.md",
+    "Inbox/我的时间管理工具 · 构建我的被动收入 (1).md",
+    "Inbox/研究显示，如果人们认为某位男性有能力，他在大家眼中就是自信的。然而只有能力与亲和力兼具的女性，才会看.md",
+    "Inbox/英语阅读二刷.md",
     "Inbox/网页文章/2022年计算机考研有什么性价比高的院校220326.md",
-    "Inbox/网页文章/2021北大交叉学科-前沿交叉学科研究院-考研备考指南及高分经验分享220411.md",
-    "learn__/408/操作系统/第六章 输入输出系统/第六章 输入输出系统.png",
-    "learn__/408/操作系统/第六章 输入输出系统/第六章 输入输出系统.md",
-    "Pasted image 20220407194323.png",
-    "Pasted image 20220407194545.png",
-    "Pasted image 20220407205019.png"
+    "Inbox/【技术调研】最强Node-RED初探总结_pdai的博客-CSDN博客_node red.md",
+    "Inbox/25岁做什么，可在 5年后受益匪浅？.md"
   ]
 }
