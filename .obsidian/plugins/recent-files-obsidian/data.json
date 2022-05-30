@@ -5,6 +5,18 @@
       "path": "Inbox/yolo.md"
     },
     {
+      "basename": "2022-05-31-00-26-06",
+      "path": "Inbox/undefined/images/2022-05-31-00-26-06.png"
+    },
+    {
+      "basename": "2022-05-31-00-23-37",
+      "path": "Inbox/assets/images/2022-05-31-00-23-37.png"
+    },
+    {
+      "basename": "index",
+      "path": "Inbox/mx-wc/default/2022-03-26-1648306231/index.md"
+    },
+    {
       "basename": "WHAT YOU' LL WISH YOU'D KNOWN",
       "path": "Inbox/WHAT YOU' LL WISH YOU'D KNOWN.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2022-04-25_星期一",
       "path": "daily__/2022-04-25_星期一.md"
-    },
-    {
-      "basename": "Day10 数组",
-      "path": "learn__/Java实习/第一 部分/Day10 数组.md"
-    },
-    {
-      "basename": "Pasted image 20210721152159",
-      "path": "resources__/Pasted image 20210721152159.png"
-    },
-    {
-      "basename": "雅思经验分享",
-      "path": "learn__/雅思/雅思经验分享.md"
     }
   ],
   "omittedPaths": [],
