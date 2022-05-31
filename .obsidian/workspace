@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-02-18_星期五.md",
+            "file": "learn__/经验帖/贴吧老哥11408.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-02-18_星期五.md"
+                "file": "learn__/经验帖/贴吧老哥11408.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-02-18_星期五.md",
+                "file": "learn__/经验帖/贴吧老哥11408.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "learn__/经验帖/贴吧老哥11408.md",
     "daily__/2022-02-18_星期五.md",
     "Inbox/assets/images/2022-05-31-00-23-37.png",
     "Inbox/undefined/images/2022-05-31-00-26-06.png",
@@ -189,7 +190,6 @@
     "Inbox/mx-wc/default/2022-03-26-1648306231/index.md",
     "Inbox/WHAT YOU' LL WISH YOU'D KNOWN.md",
     "Note/复盘/考研复盘.md",
-    "paper__/graduated/static.md",
-    "resources__/Pasted image 20210719204943.png"
+    "paper__/graduated/static.md"
   ]
 }
