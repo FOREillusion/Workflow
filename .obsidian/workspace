@@ -7,9 +7,11 @@
         "id": "cc208dfb45a13d7e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Inbox/assets/images/2022-05-31-00-23-37.png"
+            "file": "daily__/2022-02-18_星期五.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/assets/images/2022-05-31-00-23-37.png"
+                "file": "daily__/2022-02-18_星期五.md"
               }
             }
           }
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/assets/images/2022-05-31-00-23-37.png",
+                "file": "daily__/2022-02-18_星期五.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,6 +181,7 @@
   },
   "active": "cc208dfb45a13d7e",
   "lastOpenFiles": [
+    "daily__/2022-02-18_星期五.md",
     "Inbox/assets/images/2022-05-31-00-23-37.png",
     "Inbox/undefined/images/2022-05-31-00-26-06.png",
     "Inbox/undefined/images/2022-05-31-00-28-27.png",
@@ -187,7 +190,6 @@
     "Inbox/WHAT YOU' LL WISH YOU'D KNOWN.md",
     "Note/复盘/考研复盘.md",
     "paper__/graduated/static.md",
-    "resources__/Pasted image 20210719204943.png",
-    "resources__/Pasted image 20210721145053.png"
+    "resources__/Pasted image 20210719204943.png"
   ]
 }
