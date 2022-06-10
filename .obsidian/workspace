@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "b6ae4df7e704802b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/经验帖/贴吧老哥11408.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/经验帖/贴吧老哥11408.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,8 +191,9 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "cc208dfb45a13d7e",
+  "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "learn__/经验帖/贴吧老哥11408.md",
     "daily__/2022-02-18_星期五.md",
     "Inbox/assets/images/2022-05-31-00-23-37.png",
@@ -189,7 +202,6 @@
     "Inbox/yolo.md",
     "Inbox/mx-wc/default/2022-03-26-1648306231/index.md",
     "Inbox/WHAT YOU' LL WISH YOU'D KNOWN.md",
-    "Note/复盘/考研复盘.md",
-    "paper__/graduated/static.md"
+    "Note/复盘/考研复盘.md"
   ]
 }

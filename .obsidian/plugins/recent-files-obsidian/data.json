@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "贴吧老哥11408",
       "path": "learn__/经验帖/贴吧老哥11408.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Day5-da",
       "path": "learn__/Java实习/第一 部分/Day5-da.md"
-    },
-    {
-      "basename": "Day2-Java快速入门",
-      "path": "learn__/Java实习/第一 部分/Day2-Java快速入门.md"
     }
   ],
   "omittedPaths": [],
