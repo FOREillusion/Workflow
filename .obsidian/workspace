@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cc208dfb45a13d7e",
+        "id": "b6ae4df7e704802b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn__/经验帖/贴吧老哥11408.md",
-            "mode": "source",
+            "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
+            "mode": "preview",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "b6ae4df7e704802b",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Pasted image 20220407210241.png"
           }
         }
       }
@@ -81,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220407210241.png"
+                "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md"
               }
             }
           }
@@ -146,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220407210241.png",
+                "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,19 +177,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.3999938964844
+    "width": 270.3999938964844,
+    "collapsed": true
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
-    "Pasted image 20220407210241.png",
-    "Pasted image 20220407205518.png",
-    "Pasted image 20220407205019.png",
-    "Pasted image 20220407203736.png",
-    "Pasted image 20220407202538.png",
-    "Pasted image 20220407194545.png",
+    "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20220407194323.png",
-    "Pasted image 20220407205924.png",
+    "Pasted image 20220407194545.png",
+    "Pasted image 20220108182132.png",
+    "Pasted image 20220407202538.png",
     "Pasted image 20220407210046.png",
-    "Pasted image 20220407205349.png"
+    "Pasted image 20220407205518.png",
+    "Pasted image 20220407205349.png",
+    "Pasted image 20220407205019.png"
   ]
 }
