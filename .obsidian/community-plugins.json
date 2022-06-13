@@ -21,10 +21,10 @@
   "obsidian-activity-history",
   "obsidian-image-toolkit",
   "obsidian-toggl-integration",
-  "obsidian-git",
   "nldates-obsidian",
   "oz-image-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-hider",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git"
 ]

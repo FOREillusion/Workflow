@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
+            "file": "Templates/Daily 模板/模板1.md",
             "mode": "preview",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md"
+                "file": "Templates/Daily 模板/模板1.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
+                "file": "Templates/Daily 模板/模板1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,15 +182,15 @@
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
+    "Templates/Daily 模板/模板1.md",
+    "Templates/周记模板.md",
+    "Day Planners/Day Planner-20210902.md",
+    "admin__/account.md",
+    "WeeklyReview/周-2021年第39周复盘 .md",
+    "write__/mygraduatedpaper.md",
+    "公式.md",
+    "README.md",
     "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20220407194323.png",
-    "Pasted image 20220407194545.png",
-    "Pasted image 20220108182132.png",
-    "Pasted image 20220407202538.png",
-    "Pasted image 20220407210046.png",
-    "Pasted image 20220407205518.png",
-    "Pasted image 20220407205349.png",
-    "Pasted image 20220407205019.png"
+    "conflict-files-obsidian-git.md"
   ]
 }

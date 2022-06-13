@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "模板1",
+      "path": "Templates/Daily 模板/模板1.md"
+    },
+    {
+      "basename": "周记模板",
+      "path": "Templates/周记模板.md"
+    },
+    {
+      "basename": "Day Planner-20210902",
+      "path": "Day Planners/Day Planner-20210902.md"
+    },
+    {
+      "basename": "account",
+      "path": "admin__/account.md"
+    },
+    {
+      "basename": "周-2021年第39周复盘 ",
+      "path": "WeeklyReview/周-2021年第39周复盘 .md"
+    },
+    {
+      "basename": "mygraduatedpaper",
+      "path": "write__/mygraduatedpaper.md"
+    },
+    {
+      "basename": "公式",
+      "path": "公式.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "发现了几个关于学霸的规律2206$10",
       "path": "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md"
     },
@@ -47,14 +79,6 @@
     {
       "basename": "Pasted image 20220407210241",
       "path": "Pasted image 20220407210241.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "公式",
-      "path": "公式.md"
     },
     {
       "basename": "贴吧老哥11408",
@@ -175,26 +199,6 @@
     {
       "basename": "第二章 进程的描述与控制",
       "path": "learn__/408/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png"
-    },
-    {
-      "basename": "01",
-      "path": "learn__/经验帖/哈工深/01.md"
-    },
-    {
-      "basename": "v2-b2918ef3f9c19572ba524ac59316a917_1440w",
-      "path": "learn__/经验帖/哈工深/01-photo/v2-b2918ef3f9c19572ba524ac59316a917_1440w.png"
-    },
-    {
-      "basename": "未命名",
-      "path": "learn__/经验帖/哈工深/01-photo/未命名.md"
-    },
-    {
-      "basename": "番茄意面",
-      "path": "learn__/天才厨师养成记/番茄意面.md"
-    },
-    {
-      "basename": "急死！CPU被挖矿了，却找不到哪个进程！ - 简书",
-      "path": "Inbox/急死！CPU被挖矿了，却找不到哪个进程！ - 简书.md"
     }
   ],
   "omittedPaths": [],
