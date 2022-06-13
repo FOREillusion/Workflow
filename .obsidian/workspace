@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Daily 模板/模板1.md",
-            "mode": "preview",
+            "file": "daily__/2022-06-13_Monday.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md"
+                "file": "daily__/2022-06-13_Monday.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily 模板/模板1.md",
+                "file": "daily__/2022-06-13_Monday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,20 +177,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.3999938964844,
-    "collapsed": true
+    "width": 270.3999938964844
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
-    "Templates/Daily 模板/模板1.md",
+    "daily__/2022-06-13_Monday.md",
+    "Templates/Daily.md",
+    "Templates/读书笔记模板.md",
     "Templates/周记模板.md",
+    "Templates/Daily 模板/模板1.md",
     "Day Planners/Day Planner-20210902.md",
     "admin__/account.md",
     "WeeklyReview/周-2021年第39周复盘 .md",
     "write__/mygraduatedpaper.md",
-    "公式.md",
-    "README.md",
-    "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
-    "conflict-files-obsidian-git.md"
+    "公式.md"
   ]
 }

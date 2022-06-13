@@ -1,5 +1,5 @@
 {
   "folder": "daily__",
   "format": "YYYY-MM-DD_dddd",
-  "template": "Templates/Daily 模板"
+  "template": "Templates/Daily"
 }
