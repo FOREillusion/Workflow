@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-06-19_Sunday.md",
+            "file": "daily__/2022-06-20_Monday.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-06-19_Sunday.md"
+                "file": "daily__/2022-06-20_Monday.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-06-19_Sunday.md",
+                "file": "daily__/2022-06-20_Monday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
+    "daily__/2022-06-20_Monday.md",
     "daily__/2022-06-19_Sunday.md",
     "daily__/2022-06-13_Monday.md",
     "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
@@ -189,7 +190,6 @@
     "admin__/account.md",
     "daily__/2022-05-29_Sunday.md",
     "Pasted image 20220407194833.png",
-    "公式.md",
-    "Pasted image 20220407194323.png"
+    "公式.md"
   ]
 }
