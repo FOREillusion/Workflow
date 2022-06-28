@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
