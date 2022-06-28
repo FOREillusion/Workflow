@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-06-20_Monday.md",
+            "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-06-20_Monday.md"
+                "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-06-20_Monday.md",
+                "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
+    "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
     "daily__/2022-06-20_Monday.md",
     "daily__/2022-06-19_Sunday.md",
     "daily__/2022-06-13_Monday.md",
@@ -189,7 +190,6 @@
     "daily__/2021-04-05.md",
     "admin__/account.md",
     "daily__/2022-05-29_Sunday.md",
-    "Pasted image 20220407194833.png",
-    "公式.md"
+    "Pasted image 20220407194833.png"
   ]
 }
