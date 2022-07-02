@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
+            "file": "Inbox/网页文章/无良指南2207$02.md",
             "mode": "preview",
             "source": false
           }
@@ -71,17 +71,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md"
+                "file": "Inbox/网页文章/无良指南2207$02.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "86468890bdd73e2a",
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
+                "file": "Inbox/网页文章/无良指南2207$02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,6 +181,8 @@
   },
   "active": "b6ae4df7e704802b",
   "lastOpenFiles": [
+    "Inbox/网页文章/无良指南2207$02.md",
+    "Inbox/网页文章/一盘死局-谈谈中国人丧失的反骨和批判性思维-China_irl220413.md",
     "Inbox/网页文章/Vim使用全指南-环境配置-插件推荐-美化-C++-Python-MarkDown-R2206$28.md",
     "daily__/2022-06-20_Monday.md",
     "daily__/2022-06-19_Sunday.md",
@@ -190,8 +190,6 @@
     "Inbox/网页文章/run如何寻找适合自己的方案2205$29.md",
     "daily__/2021-05-12.md",
     "daily__/2021-04-05.md",
-    "admin__/account.md",
-    "daily__/2022-05-29_Sunday.md",
-    "Pasted image 20220407194833.png"
+    "admin__/account.md"
   ]
 }
