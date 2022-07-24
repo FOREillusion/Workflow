@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/网页文章/无良指南2207$02.md",
-            "mode": "preview",
+            "file": "daily__/2022-07-25_Monday.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/网页文章/无良指南2207$02.md"
+                "file": "daily__/2022-07-25_Monday.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/网页文章/无良指南2207$02.md",
+                "file": "daily__/2022-07-25_Monday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
