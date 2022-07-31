@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "美剧进度",
+      "path": "admin__/美剧进度.md"
+    },
+    {
+      "basename": "account",
+      "path": "admin__/account.md"
+    },
+    {
       "basename": "2022-07-25_Monday",
       "path": "daily__/2022-07-25_Monday.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "2021-04-05",
       "path": "daily__/2021-04-05.md"
-    },
-    {
-      "basename": "account",
-      "path": "admin__/account.md"
     },
     {
       "basename": "2022-05-29_Sunday",
@@ -195,10 +199,6 @@
     {
       "basename": "考研复盘",
       "path": "Note/复盘/考研复盘.md"
-    },
-    {
-      "basename": "static",
-      "path": "paper__/graduated/static.md"
     }
   ],
   "omittedPaths": [],
