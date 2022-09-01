@@ -7,8 +7,12 @@
         "id": "13acdb161d9af528",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,10 +70,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/(8条消息) ECharts4.0数据可视化_手写我对你的温柔-CSDN博客.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,17 +180,17 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "13acdb161d9af528",
+  "active": "0bfcf81b7337429b",
   "lastOpenFiles": [
-    "Inbox/undefined/images/2022-05-31-09-18-10.png",
-    "Inbox/undefined/images/2022-05-31-00-35-59.png",
-    "Inbox/undefined/images/2022-05-31-00-32-14.png",
-    "Inbox/undefined/images/2022-05-31-00-28-27.png",
-    "Inbox/undefined/images/2022-05-31-00-26-06.png",
-    "Inbox/网页文章/毫米波雷达图书2208$09.md",
-    "admin__/美剧进度.md",
-    "admin__/account.md",
+    "Inbox/45岁如何思考职业生涯后半程？.md",
+    "Inbox/25岁做什么，可在 5年后受益匪浅？.md",
+    "Note/复盘/考研复盘.md",
     "daily__/2022-07-25_Monday.md",
-    "Inbox/网页文章/无良指南2207$02.md"
+    "daily__/2022-06-20_Monday.md",
+    "daily__/2022-06-19_Sunday.md",
+    "daily__/2022-06-13_Monday.md",
+    "daily__/2022-05-29_Sunday.md",
+    "daily__/2022-05-28_Saturday.md",
+    "Pasted image 20220407194833.png"
   ]
 }
