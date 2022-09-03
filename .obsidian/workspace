@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13acdb161d9af528",
+        "id": "6317f526e5ade9c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily__/2022-09-03_Saturday.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily__/2022-09-03_Saturday.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-09-03_Saturday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,8 +172,10 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "active": "13acdb161d9af528",
+  "active": "d28790414bd9b22b",
   "lastOpenFiles": [
+    "resources__/Pasted image 20220108182132.png",
+    "daily__/2022-09-03_Saturday.md",
     "daily__/2022-06-20_Monday.md",
     "daily__/2022-06-19_Sunday.md",
     "daily__/2022-06-13_Monday.md",
@@ -188,8 +183,6 @@
     "README.md",
     "公式.md",
     "paper__/graduated/static.md",
-    "图片/exec.png.md",
-    "daily__/2022-02-18_星期五-photo/image-20220218221756666.png",
-    "daily__/2022-02-18_星期五-photo/image-20220218221625725.png"
+    "图片/exec.png.md"
   ]
 }
