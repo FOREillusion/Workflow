@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-09-05_Monday.md",
+            "file": "daily__/2022-09-10_Saturday.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-09-05_Monday.md"
+                "file": "daily__/2022-09-10_Saturday.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-09-05_Monday.md",
+                "file": "daily__/2022-09-10_Saturday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "6317f526e5ade9c7",
   "lastOpenFiles": [
+    "daily__/2022-09-05_Monday.md",
     "daily__/2022-09-03_Saturday.md",
     "公式.md",
     "resources__/Pasted image 20220108182132.png",
@@ -189,7 +190,6 @@
     "daily__/2022-06-13_Monday.md",
     "daily__/2022-07-25_Monday.md",
     "README.md",
-    "paper__/graduated/static.md",
-    "图片/exec.png.md"
+    "paper__/graduated/static.md"
   ]
 }
