@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-10-06_Thursday.md",
+            "file": "Inbox/視頻網頁.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-10-06_Thursday.md"
+                "file": "Inbox/視頻網頁.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-10-06_Thursday.md",
+                "file": "Inbox/視頻網頁.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "730801f53fd33c53",
   "lastOpenFiles": [
-    "daily__/2022-10-05_Wednesday.md",
-    "daily__/2022-10-06_Thursday.md",
-    "Inbox/网页文章/发现了几个关于学霸的规律2206$10.md",
-    "Inbox/网页文章/408考研专业课138分-总分400-中-考研区-虎扑社区2209$11.md",
-    "Inbox/网页文章/2020中科大392成功上岸——-附带408复习资料2209$11.md",
-    "daily__/2022-09-15_Thursday.md",
-    "Inbox/网页文章/更新了英语一经验贴-背书时-尤其是复习时-保持良好进度和动力的小技巧220413.md",
-    "Templates/笔记模板/zk.md",
-    "resources__/Pasted image 20220407210046.png",
-    "resources__/Pasted image 20220407205924.png"
+    "Inbox/手部跟踪.md",
+    "Inbox/万字干货！写给小白的Figma全面入门手册 – Telegraph.md",
+    "Inbox/韦卫山 linux.md",
+    "Inbox/为什么我们需要更多时间独处？_.md",
+    "Inbox/虚拟仿真对在线教育方式的影响和促进.md",
+    "Inbox/张磊价值投资.md",
+    "Inbox/How I Keep My Projects Organized (1).md",
+    "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md",
+    "Inbox/Spring(一)----IOC控制反转、DI依赖注入_byteyoung-CSDN博客_ioc控制.md",
+    "Inbox/title.md"
   ]
 }
