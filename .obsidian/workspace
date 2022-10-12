@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily__/2022-10-10_Monday.md",
+            "file": "daily__/2022-10-13_Thursday.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2022-10-10_Monday.md"
+                "file": "daily__/2022-10-13_Thursday.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2022-10-10_Monday.md",
+                "file": "daily__/2022-10-13_Thursday.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   },
   "active": "730801f53fd33c53",
   "lastOpenFiles": [
+    "daily__/2022-10-10_Monday.md",
     "Inbox/視頻網頁.md",
     "Inbox/手部跟踪.md",
     "Inbox/万字干货！写给小白的Figma全面入门手册 – Telegraph.md",
@@ -189,7 +190,6 @@
     "Inbox/虚拟仿真对在线教育方式的影响和促进.md",
     "Inbox/张磊价值投资.md",
     "Inbox/How I Keep My Projects Organized (1).md",
-    "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md",
-    "Inbox/Spring(一)----IOC控制反转、DI依赖注入_byteyoung-CSDN博客_ioc控制.md"
+    "Inbox/QT的温湿度显示系统_zxpcus的博客-CSDN博客.md"
   ]
 }
