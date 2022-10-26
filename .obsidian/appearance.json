@@ -3,5 +3,6 @@
   "cssTheme": "yinyang",
   "theme": "moonstone",
   "baseFontSize": 13,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "accentColor": ""
 }
