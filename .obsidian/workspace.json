@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6936c0ed3d7bcc41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn__/Society/2008货币.md"
+                "file": "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.md"
               }
             }
           }
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn__/Society/2008货币.md",
+                "file": "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,11 +200,9 @@
     "direction": "horizontal",
     "width": 270.3999938964844
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "730801f53fd33c53",
+  "active": "6936c0ed3d7bcc41",
   "lastOpenFiles": [
+    "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.png",
     "learn__/njuOS/Filesystem.md",
     "learn__/CET-6/Listening-photo/image-20211114133114486.png",
     "learn__/天才厨师养成记/番茄意面.md",
@@ -200,7 +211,6 @@
     "learn__/经验帖/学神养成.md",
     "learn__/经验帖/贴吧老哥11408.md",
     "resources__/Pasted image 20220407205518.png",
-    "resources__/Pasted image 20220407205924.png",
-    "Inbox/网页文章/408考研专业课138分-总分400-中-考研区-虎扑社区2209$11.md"
+    "resources__/Pasted image 20220407205924.png"
   ]
 }
