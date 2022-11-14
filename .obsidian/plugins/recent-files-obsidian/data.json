@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-04-05",
+      "path": "daily__/2021-04-05.md"
+    },
+    {
       "basename": "第七章 文件管理",
       "path": "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "周-2021年第40周复盘 ",
       "path": "WeeklyReview/周-2021年第40周复盘 .md"
-    },
-    {
-      "basename": "周-2021年第39周复盘 ",
-      "path": "WeeklyReview/周-2021年第39周复盘 .md"
     }
   ],
   "omittedPaths": [],
