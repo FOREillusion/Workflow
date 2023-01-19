@@ -35,9 +35,11 @@
             "id": "9f30e44cc7b34708",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "daily__/2023-01-02_星期一.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
