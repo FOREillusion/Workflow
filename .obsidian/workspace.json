@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily__/2023-01-27_星期五.md",
+                "file": "daily__/2023-01-28_星期六.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily__/2023-01-27_星期五.md"
+                "file": "daily__/2023-01-28_星期六.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily__/2023-01-27_星期五.md",
+                "file": "daily__/2023-01-28_星期六.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,6 +232,7 @@
   },
   "active": "9f30e44cc7b34708",
   "lastOpenFiles": [
+    "daily__/2023-01-27_星期五.md",
     "daily__/2023-01-02_星期一.md",
     "daily__/2021-04-05.md",
     "learn__/408/操作系统/第七章 文件管理/第七章 文件管理.md",
@@ -240,7 +241,6 @@
     "learn__/CET-6/Listening-photo/image-20211114133114486.png",
     "learn__/天才厨师养成记/番茄意面.md",
     "learn__/面试屠龙宝刀/微软面试.md",
-    "learn__/经验帖/浙大.md",
-    "learn__/经验帖/学神养成.md"
+    "learn__/经验帖/浙大.md"
   ]
 }
